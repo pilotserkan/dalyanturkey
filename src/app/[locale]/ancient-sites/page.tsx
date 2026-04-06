@@ -40,7 +40,7 @@ export default function AncientSitesPage() {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: `url('https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=1920&q=80')`,
+              backgroundImage: `url('/images/rock-tombs-night.jpg')`,
             }}
           />
         </div>

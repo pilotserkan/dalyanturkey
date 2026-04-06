@@ -14,7 +14,7 @@ export default function Hero() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1920&q=80')`,
+            backgroundImage: `url('/images/rock-tombs-river-night.jpg')`,
           }}
         />
         <div className="gradient-overlay" />
