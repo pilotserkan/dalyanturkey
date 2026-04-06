@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function TarihHubContent() {
   const t = useTranslations('tarih');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS.tarih;
 
@@ -19,8 +19,8 @@ export default function TarihHubContent() {
         backgroundImage="/images/rock-tombs-river-night.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.tarih'), href: `/${locale}/tarih` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('tarih'), href: `/${locale}/tarih` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
@@ -28,7 +28,7 @@ export default function TarihHubContent() {
           {hub.children.map((child) => (
             <HubCard
               key={child.slug}
-              title={ct(child.translationKey)}
+              title={nav(child.translationKey.replace('nav.', ''))}
               description=""
               icon={child.icon}
               href={`/${locale}/tarih/${child.slug}`}

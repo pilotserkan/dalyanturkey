@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function PratikHubContent() {
   const t = useTranslations('pratik');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS.pratik;
 
@@ -27,8 +27,8 @@ export default function PratikHubContent() {
         backgroundImage="/images/dalyan-town-night.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.pratik'), href: `/${locale}/pratik` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('pratik'), href: `/${locale}/pratik` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">

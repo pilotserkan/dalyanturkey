@@ -4,14 +4,15 @@ import { useTranslations, useLocale } from 'next-intl';
 import PageHero from '@/components/ui/PageHero';
 export default function PageContent() {
   const t = useTranslations('hakkinda');
+  const nav = useTranslations('nav');
   const ct = useTranslations('common');
   const locale = useLocale();
 
   const sectionKeys = ['whereIs', 'geography', 'climate', 'howToGetThere', 'history', 'culture', 'accommodation', 'whyVisit'];
 
   const breadcrumbs = [
-    { label: ct('nav.home'), href: `/${locale}` },
-    { label: ct('nav.hakkinda'), href: `/${locale}/hakkinda/dalyan-nerede` },
+    { label: nav('home'), href: `/${locale}` },
+    { label: nav('hakkinda'), href: `/${locale}/hakkinda/dalyan-nerede` },
   ];
 
   // Get highlights
@@ -58,7 +59,7 @@ export default function PageContent() {
         {highlights.length > 0 && (
           <section className="mb-12 md:mb-16 bg-gray-50 rounded-2xl p-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
-              {ct('common.highlights')}
+              {ct('highlights')}
             </h2>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {highlights.map((item, index) => (

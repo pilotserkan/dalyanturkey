@@ -19,8 +19,9 @@ const testimonials = [
 ];
 
 export default function HomePageContent() {
+  const hero = useTranslations('hero');
   const t = useTranslations('home');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
 
   return (
@@ -40,20 +41,20 @@ export default function HomePageContent() {
             className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 animate-fade-in-up"
             style={{ textShadow: '0 2px 12px rgba(0,0,0,0.5)' }}
           >
-            {t('hero.title')}
+            {hero('title')}
           </h1>
           <p className="text-xl sm:text-2xl md:text-3xl text-white/80 mb-4 animate-fade-in-up">
-            {t('hero.subtitle')}
+            {hero('subtitle')}
           </p>
           <p className="text-base md:text-lg text-white/70 mb-8 max-w-2xl mx-auto animate-fade-in-up">
-            {t('hero.description')}
+            {hero('description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up">
             <a
               href="#hubs"
               className="inline-flex items-center px-8 py-4 bg-white text-sky-800 font-semibold rounded-full hover:bg-sky-50 transition-colors shadow-lg"
             >
-              {t('hero.exploreCta')}
+              {hero('exploreCta')}
               <svg className="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
               </svg>
@@ -62,7 +63,7 @@ export default function HomePageContent() {
               href={`/${locale}/tarih`}
               className="inline-flex items-center px-8 py-4 bg-white/20 backdrop-blur-sm text-white font-semibold rounded-full hover:bg-white/30 transition-colors"
             >
-              {t('hero.discoverCta')}
+              {hero('discoverCta')}
             </Link>
           </div>
         </div>
@@ -73,10 +74,10 @@ export default function HomePageContent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6">
-              {t('home.hubs.title')}
+              {t('hubs.title')}
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              {t('home.hubs.subtitle')}
+              {t('hubs.subtitle')}
             </p>
           </div>
 
@@ -86,7 +87,7 @@ export default function HomePageContent() {
               return (
                 <HubCard
                   key={hubSlug}
-                  title={ct(hub.translationKey)}
+                  title={nav(hub.translationKey.replace('nav.', ''))}
                   description=""
                   icon={hub.icon}
                   href={`/${locale}/${hub.slug}`}
@@ -103,10 +104,10 @@ export default function HomePageContent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6">
-              {t('home.stats.title')}
+              {t('stats.title')}
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              {t('home.stats.subtitle')}
+              {t('stats.subtitle')}
             </p>
           </div>
 
@@ -118,10 +119,10 @@ export default function HomePageContent() {
               >
                 <div className="text-4xl mb-4">{stat.icon}</div>
                 <div className="text-3xl md:text-4xl font-extrabold text-sky-700 mb-2">
-                  {t(`home.stats.${stat.key}.value`)}
+                  {t(`stats.${stat.key}.value`)}
                 </div>
                 <div className="text-gray-600 font-medium">
-                  {t(`home.stats.${stat.key}.label`)}
+                  {t(`stats.${stat.key}.label`)}
                 </div>
               </div>
             ))}
@@ -134,7 +135,7 @@ export default function HomePageContent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6">
-              {t('home.testimonials.title')}
+              {t('testimonials.title')}
             </h2>
           </div>
 
@@ -153,7 +154,7 @@ export default function HomePageContent() {
                 </div>
 
                 <blockquote className="text-gray-700 leading-relaxed mb-6 italic">
-                  &ldquo;{t(`home.testimonials.${testimonial.key}.quote`)}&rdquo;
+                  &ldquo;{t(`testimonials.${testimonial.key}.quote`)}&rdquo;
                 </blockquote>
 
                 <div className="flex items-center">
@@ -162,10 +163,10 @@ export default function HomePageContent() {
                   </div>
                   <div className="ml-4">
                     <div className="font-semibold text-gray-900">
-                      {t(`home.testimonials.${testimonial.key}.name`)}
+                      {t(`testimonials.${testimonial.key}.name`)}
                     </div>
                     <div className="text-sm text-gray-500">
-                      {t(`home.testimonials.${testimonial.key}.location`)}
+                      {t(`testimonials.${testimonial.key}.location`)}
                     </div>
                   </div>
                 </div>
@@ -183,19 +184,19 @@ export default function HomePageContent() {
               href={`/${locale}/harita`}
               className="inline-flex items-center px-6 py-3 bg-white text-gray-700 font-medium rounded-full border border-gray-200 hover:border-sky-300 hover:text-sky-700 transition-all shadow-sm"
             >
-              &#x1F5FA;&#xFE0F; {ct('nav.harita')}
+              &#x1F5FA;&#xFE0F; {nav('harita')}
             </Link>
             <Link
               href={`/${locale}/hakkinda/dalyan-nerede`}
               className="inline-flex items-center px-6 py-3 bg-white text-gray-700 font-medium rounded-full border border-gray-200 hover:border-sky-300 hover:text-sky-700 transition-all shadow-sm"
             >
-              &#x1F4CD; {ct('nav.dalyan-nerede')}
+              &#x1F4CD; {nav('hakkinda')}
             </Link>
             <Link
               href={`/${locale}/pratik/sik-sorulan-sorular`}
               className="inline-flex items-center px-6 py-3 bg-white text-gray-700 font-medium rounded-full border border-gray-200 hover:border-sky-300 hover:text-sky-700 transition-all shadow-sm"
             >
-              &#x2753; {ct('nav.sss')}
+              &#x2753; {nav('sss')}
             </Link>
           </div>
         </div>

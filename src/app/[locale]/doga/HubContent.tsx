@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function DogaHubContent() {
   const t = useTranslations('doga');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS.doga;
 
@@ -19,8 +19,8 @@ export default function DogaHubContent() {
         backgroundImage="/images/dalyan-mountain.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.doga'), href: `/${locale}/doga` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('doga'), href: `/${locale}/doga` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
@@ -28,7 +28,7 @@ export default function DogaHubContent() {
           {hub.children.map((child) => (
             <HubCard
               key={child.slug}
-              title={ct(child.translationKey)}
+              title={nav(child.translationKey.replace('nav.', ''))}
               description=""
               icon={child.icon}
               href={`/${locale}/doga/${child.slug}`}

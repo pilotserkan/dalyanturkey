@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function TurlarHubContent() {
   const t = useTranslations('turlar');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS.turlar;
 
@@ -19,8 +19,8 @@ export default function TurlarHubContent() {
         backgroundImage="/images/dalyan-river-boats.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.turlar'), href: `/${locale}/turlar` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('turlar'), href: `/${locale}/turlar` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
@@ -29,7 +29,7 @@ export default function TurlarHubContent() {
           {hub.children.map((child) => (
             <HubCard
               key={child.slug}
-              title={ct(child.translationKey)}
+              title={nav(child.translationKey.replace('nav.', ''))}
               description=""
               icon={child.icon}
               href={`/${locale}/turlar/${child.slug}`}

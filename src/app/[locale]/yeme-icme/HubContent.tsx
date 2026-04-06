@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function YemeIcmeHubContent() {
   const t = useTranslations('yemeIcme');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS['yeme-icme'];
 
@@ -19,8 +19,8 @@ export default function YemeIcmeHubContent() {
         backgroundImage="/images/dalyan-river-view.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.yemeIcme'), href: `/${locale}/yeme-icme` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('yemeIcme'), href: `/${locale}/yeme-icme` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
@@ -29,7 +29,7 @@ export default function YemeIcmeHubContent() {
           {hub.children.map((child) => (
             <HubCard
               key={child.slug}
-              title={ct(child.translationKey)}
+              title={nav(child.translationKey.replace('nav.', ''))}
               description=""
               icon={child.icon}
               href={`/${locale}/yeme-icme/${child.slug}`}

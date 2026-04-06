@@ -7,7 +7,7 @@ import { HUBS } from '@/lib/navigation';
 
 export default function WellnessHubContent() {
   const t = useTranslations('wellness');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
   const hub = HUBS.wellness;
 
@@ -19,8 +19,8 @@ export default function WellnessHubContent() {
         backgroundImage="/images/dalyan-riverside.jpg"
         badge={t('hub.badge')}
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.wellness'), href: `/${locale}/wellness` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('wellness'), href: `/${locale}/wellness` },
         ]}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">

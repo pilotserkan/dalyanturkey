@@ -51,7 +51,7 @@ function FAQAccordion({ items }: { items: FAQItem[] }) {
 
 export default function PageContent() {
   const t = useTranslations('pratik');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
 
   const questions = t.raw('sikSorulanSorular.questions') as FAQItem[];
@@ -64,8 +64,8 @@ export default function PageContent() {
         description={t('sikSorulanSorular.heroDescription')}
         backgroundImage="/images/dalyan-town-night.jpg"
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
-          { label: ct('nav.pratik'), href: `/${locale}/pratik` },
+          { label: nav('home'), href: `/${locale}` },
+          { label: nav('pratik'), href: `/${locale}/pratik` },
           { label: t('sikSorulanSorular.title'), href: `/${locale}/pratik/sik-sorulan-sorular` },
         ]}
       />

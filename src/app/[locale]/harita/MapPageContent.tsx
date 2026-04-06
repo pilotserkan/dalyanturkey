@@ -7,7 +7,7 @@ import { POI_DATA } from '@/lib/constants';
 
 export default function MapPageContent() {
   const t = useTranslations('harita');
-  const ct = useTranslations('common');
+  const nav = useTranslations('nav');
   const locale = useLocale();
 
   return (
@@ -18,7 +18,7 @@ export default function MapPageContent() {
         description={t('heroDescription')}
         backgroundImage="/images/dalyan-blue-boat.jpg"
         breadcrumbs={[
-          { label: ct('nav.home'), href: `/${locale}` },
+          { label: nav('home'), href: `/${locale}` },
           { label: t('title'), href: `/${locale}/harita` },
         ]}
       />
