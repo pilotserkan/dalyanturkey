@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "title": "Dalyan Türkiye - Resmi Turizm Rehberi | Tekne Turları, Antik Alanlar ve İztuzu Plajı",
+    "description": "Türkiye'nin saklı cenneti Dalyan'ı keşfedin. Antik Kaunos kalıntıları, Likya Kaya Mezarları, bozulmamış İztuzu Kaplumbağa Plajı, dinlendirici çamur banyoları ve Dalyan Nehri boyunca unutulmaz tekne turları.",
+    "keywords": "Dalyan Türkiye, Dalyan turizm, İztuzu Plajı, Kaunos antik kent, Likya Kaya Mezarları, Dalyan tekne turları, çamur banyosu, Caretta Caretta, Dalyan Nehri, Türkiye seyahat"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "ancientSites": "Antik Alanlar",
+    "boatTours": "Tekne Turları",
+    "iztuzu": "İztuzu Plajı",
+    "map": "Harita",
+    "about": "Dalyan Hakkında",
+    "bookNow": "Hemen Rezervasyon"
+  },
+  "hero": {
+    "title": "Dalyan'a Hoş Geldiniz",
+    "subtitle": "Türkiye'nin Saklı Cenneti",
+    "description": "Antik tarihin el değmemiş doğayla buluştuğu yer. Büyüleyici Dalyan Nehri'ni, binlerce yıllık kaya mezarlarını, bozulmamış kaplumbağa plajlarını ve şifalı çamur banyolarını keşfedin.",
+    "exploreTours": "Turları Keşfedin",
+    "discoverHistory": "Tarihi Keşfedin",
+    "watchVideo": "Videoyu İzleyin"
+  },
+  "home": {
+    "featuredTitle": "Dalyan'ı Keşfedin",
+    "featuredSubtitle": "Doğa, tarih ve maceranın bir araya geldiği zamansız bir destinasyon",
+    "ancientSitesCard": {
+      "title": "Antik Alanlar",
+      "description": "3.000 yıllık Kaunos Antik Kenti'ni ve kayalıklara oyulmuş muhteşem Likya Kaya Mezarları'nı keşfedin."
+    },
+    "boatToursCard": {
+      "title": "Tekne Turları",
+      "description": "Sazlıklarla çevrili kanallar boyunca Dalyan Nehri'nde yolculuk yaparak gizli koyları ve doğal güzellikleri keşfedin."
+    },
+    "iztuuzCard": {
+      "title": "İztuzu Plajı",
+      "description": "Avrupa'nın en güzel plajlarından birini ve nesli tükenmekte olan Caretta Caretta deniz kaplumbağalarının yuvalama alanını ziyaret edin."
+    },
+    "mudBathsCard": {
+      "title": "Çamur Banyoları",
+      "description": "Şifalı özellikleriyle bilinen doğal termal çamur banyoları ve kükürtlü kaplıcalarda yenilenin."
+    },
+    "whyDalyan": "Neden Dalyan'ı Ziyaret Etmelisiniz?",
+    "whyDescription": "Dalyan, antik tarih, bozulmamış doğa ve otantik Türk kültürünün mükemmel bir bileşimini sunan Türkiye'nin en eşsiz destinasyonlarından biridir. Kalabalık turistik tatil beldelerinden farklı olarak Dalyan, doğal cazibesini ve ekolojik hazinelerini korumaktadır.",
+    "stats": {
+      "years": "3.000 Yılı Aşkın Tarih",
+      "beach": "4,5 km Bozulmamış Plaj",
+      "turtles": "Koruma Altındaki Kaplumbağa Yuvalama Alanı",
+      "tours": "Günlük Nehir Tekne Turları"
+    },
+    "testimonials": {
+      "title": "Ziyaretçiler Ne Diyor?",
+      "t1": {
+        "text": "Dalyan, şimdiye kadar ziyaret ettiğim en güzel yer. Arka planda kaya mezarlarıyla nehirde tekne gezisi nefes kesiciydi.",
+        "author": "Sarah M.",
+        "country": "Birleşik Krallık"
+      },
+      "t2": {
+        "text": "Çamur banyoları çok eğlenceliydi ve İztuzu Plajı kesinlikle muhteşem. Türkiye'de mutlaka görülmesi gereken bir destinasyon.",
+        "author": "Hans W.",
+        "country": "Almanya"
+      },
+      "t3": {
+        "text": "Dalyan'da bir hafta geçirdik ama yeterli olmadı. Tarihi, doğası ve sevecen insanları onu unutulmaz kıldı.",
+        "author": "Marie L.",
+        "country": "Fransa"
+      }
+    }
+  },
+  "ancientSites": {
+    "title": "Antik Alanlar ve Tarihi Hazineler",
+    "subtitle": "Zamanda geriye gidin ve Dalyan bölgesinde gelişen binlerce yıllık uygarlıkları keşfedin",
+    "kaunos": {
+      "title": "Kaunos Antik Kenti",
+      "period": "Kuruluş: MÖ 10. Yüzyıl",
+      "description": "Kaunos, MÖ 10. yüzyıl civarında kurulan Karya bölgesinin en önemli antik kentlerinden biridir. Dalyan Nehri'ne hâkim dramatik bir tepe üzerinde konumlanan bu arkeolojik alan; Karya, Yunan, Roma ve Bizans dönemlerini kapsayan uygarlık katmanlarını gözler önüne serer.",
+      "highlights": "5.000 seyirci kapasiteli iyi korunmuş Roma tiyatrosu, antik liman (şimdi göl), panoramik manzaralı akropol, Roma hamamları, Bizans bazilikası ve yamaç boyunca uzanan etkileyici surlar.",
+      "visiting": "Her gün açıktır. Dalyan şehir merkezinden tekneyle (15 dakika) veya karayoluyla ulaşılabilir. Kapsamlı bir ziyaret için 2-3 saat ayırın. Yanınıza su ve rahat yürüyüş ayakkabısı alın.",
+      "tip": "Sıcaktan kaçınmak ve kalıntılar üzerinde altın rengi ışığın tadını çıkarmak için sabah erken veya öğleden sonra geç saatlerde ziyaret edin."
+    },
+    "rockTombs": {
+      "title": "Likya Kaya Mezarları",
+      "period": "MÖ 4. Yüzyıl",
+      "description": "Dalyan'ın muhteşem Likya Kaya Mezarları, Dalyan Nehri'ne bakan dik kayalığa doğrudan oyulmuştur. MÖ 4. yüzyıla tarihlenen bu tapınak tarzı mezarlar, Kaunos'un seçkin vatandaşları için yapılmış olup Likya cenaze mimarisinin en güzel örnekleri arasındadır.",
+      "highlights": "İyon tapınağı tarzında oyulmuş altı büyük mezar cephesi, nehirden görülebilen dramatik kayalık konumu, gün batımında altın rengiyle parlayan en güzel görünümü, geceleri aydınlatılarak büyüleyici bir atmosfer yaratması.",
+      "visiting": "En iyi Dalyan Nehri üzerinde bir tekneden veya Dalyan kasabasının nehir kenarı yürüyüş yolundan görülür. Mezarlar, çarpıcı gece görüntüleri için karanlıkta aydınlatılır.",
+      "tip": "Gece gökyüzüne karşı aydınlatılmış mezarları görmek için akşam tekne turu yapın — unutulmaz bir deneyim."
+    },
+    "canal": {
+      "title": "Dalyan Kanalı ve Antik Su Yolu",
+      "period": "Doğal ve Tarihi",
+      "description": "Dalyan Kanalı, Köyceğiz Gölü'nü Akdeniz'e bağlayan 12 kilometrelik doğal bir su yoludur. Bu antik ticaret yolu binlerce yıl boyunca uygarlıklar tarafından kullanılmış olup bugün yaban hayatıyla dolu sazlıklarla çevrili kanallardan geçen Türkiye'nin en manzaralı tekne gezilerinden birini sunmaktadır.",
+      "highlights": "Bozulmamış sulak alanlardan geçen 12 km kıvrımlı su yolları, yalıçapkınları ve balıkçıllar dahil zengin kuş yaşamı, sudan Kaya Mezarları manzarası, hem Köyceğiz Gölü hem de Akdeniz'e bağlantı.",
+      "visiting": "Dalyan kasabası, Kaunos, İztuzu Plajı ve Köyceğiz Gölü arasında düzenli tekne seferleri yapılmaktadır. Kanal, bölgenin ana ulaşım arterdir.",
+      "tip": "Gün doğumunda kanal boyunca tekne gezisi, en iyi yaban hayatı gözlem ve fotoğraf fırsatlarını sunar."
+    },
+    "infoBox": {
+      "period": "Dönem",
+      "highlights": "Öne Çıkanlar",
+      "visiting": "Ziyaretçi Bilgisi",
+      "proTip": "Uzman Tavsiyesi"
+    }
+  },
+  "boatTours": {
+    "title": "Tekne Turları ve Geziler",
+    "subtitle": "Dalyan'ı sudan deneyimleyin — keşfedilmesi gereken şekliyle",
+    "bookCta": "Bu Turu Rezerve Et",
+    "duration": "Süre",
+    "included": "Dahil Olanlar",
+    "highlights": "Tur Öne Çıkanları",
+    "schedule": "Program",
+    "tours": {
+      "river": {
+        "title": "Dalyan Nehri Klasik Turu",
+        "duration": "Tam Gün (10:00 - 17:00)",
+        "description": "Dalyan'ın imza deneyimi. Güzel Dalyan Nehri boyunca yolculuk yapın, antik Kaunos kentini ziyaret edin, Likya Kaya Mezarları'na hayran kalın, doğal çamur banyoları ve termal kaynaklarının keyfini çıkarın ve günü muhteşem İztuzu Plajı'nda tamamlayın.",
+        "included": "Tekne ulaşımı, Kaunos giriş ücreti, çamur banyosu erişimi, teknede öğle yemeği, meşrubatlar, şnorkel ekipmanı",
+        "highlights": "Sazlık kanallardan geçen Dalyan Nehri gezisi, Likya Kaya Mezarları görüntüleme, Kaunos Antik Kenti ziyareti, Doğal çamur banyoları ve kükürtlü kaplıcalar, İztuzu Kaplumbağa Plajı, Berrak sularda yüzme molaları",
+        "price": "Kişi başı 25€'dan başlayan fiyatlarla"
+      },
+      "turtle": {
+        "title": "Kaplumbağa Plajı Ekspres",
+        "duration": "Yarım Gün (10:00 - 14:00)",
+        "description": "Ünlü İztuzu Plajı'nı tekneyle ziyaret etmek isteyenler için mükemmel kısa bir gezi. Manzaralı bir nehir gezisinin keyfini çıkarın, Caretta Caretta kaplumbağalarını doğal yaşam alanlarında gözlemleyin ve Avrupa'nın en güzel plajlarından birinde vakit geçirin.",
+        "included": "Tekne ulaşımı, 2 saat plaj süresi, meşrubatlar, kaplumbağa gözlem rehberi",
+        "highlights": "Manzaralı Dalyan Nehri gezisi, Caretta Caretta kaplumbağa gözlemi, 4,5 km bozulmamış kumsal, Berrak Akdeniz suları, Güzergah üzerinde Likya Kaya Mezarları manzarası",
+        "price": "Kişi başı 15€'dan başlayan fiyatlarla"
+      },
+      "mud": {
+        "title": "Çamur Banyosu ve Termal Kaplıca Turu",
+        "duration": "Yarım Gün (09:00 - 13:00)",
+        "description": "Gençleştirici ve şifalı özellikleriyle ünlü Dalyan çamur banyolarını ve termal kükürtlü kaplıcaları keşfedin. Mineral bakımından zengin çamurla kaplanın, güneşte kururun, ardından sıcak termal havuzlarda durulanın.",
+        "included": "Tekne ulaşımı, çamur banyosu erişimi, termal kaplıca erişimi, havlular, içecekler",
+        "highlights": "Doğal mineral bakımından zengin çamur havuzları, Sıcak kükürtlü termal kaplıcalar (39°C), Cilt gençleştirme bakımı, Dinlendirici nehir gezisi, Güzel doğal çevre",
+        "price": "Kişi başı 15€'dan başlayan fiyatlarla"
+      },
+      "moonlight": {
+        "title": "Mehtap Nehir Gezisi",
+        "duration": "Akşam (20:00 - 23:00)",
+        "description": "Yıldızların altında Dalyan Nehri boyunca büyülü bir akşam gezisi. Gece gökyüzüne karşı güzelce aydınlatılmış Likya Kaya Mezarları'nı görün, teknede akşam yemeğinin tadını çıkarın ve karanlıktan sonra Dalyan'ın huzurlu güzelliğini deneyimleyin.",
+        "included": "Akşam tekne gezisi, teknede akşam yemeği, içecekler, canlı müzik (mevsimsel), aydınlatılmış mezar görüntüleme",
+        "highlights": "Aydınlatılmış Likya Kaya Mezarları, Yıldızlı nehir gezisi, Yerel mutfakla teknede akşam yemeği, Canlı Türk müziği (mevsimsel), Büyüleyici akşam atmosferi",
+        "price": "Kişi başı 30€'dan başlayan fiyatlarla"
+      },
+      "discovery": {
+        "title": "Tam Gün Dalyan Keşif Turu",
+        "duration": "Tam Gün (09:00 - 18:00)",
+        "description": "Tüm önemli turistik noktaları tek bir kapsamlı turda birleştiren nihai Dalyan deneyimi. Kaunos Antik Kenti, Kaya Mezarları, çamur banyoları, termal kaplıcalar, Köyceğiz Gölü ve İztuzu Plajı'nı ziyaret edin — ilk kez gelen ziyaretçiler için mükemmel.",
+        "included": "Tüm giriş ücretleri, öğle yemeği ve içecekler, çamur banyoları, termal kaplıcalar, şnorkel ekipmanı, profesyonel rehber",
+        "highlights": "Bir günde eksiksiz Dalyan deneyimi, Kaunos Antik Kenti rehberli tur, Likya Kaya Mezarları, Doğal çamur banyoları ve termal kaplıcalar, Köyceğiz Gölü, İztuzu Kaplumbağa Plajı, Profesyonel Türkçe ve İngilizce konuşan rehber",
+        "price": "Kişi başı 40€'dan başlayan fiyatlarla"
+      }
+    }
+  },
+  "iztuzu": {
+    "title": "İztuzu Plajı — Kaplumbağa Plajı",
+    "subtitle": "Avrupa'nın en güzel plajlarından biri ve nesli tükenmekte olan Caretta Caretta deniz kaplumbağalarının kritik yuvalama alanı",
+    "overview": {
+      "title": "Plaj Genel Bakış",
+      "description": "Kaplumbağa Plajı olarak da bilinen İztuzu Plajı, Dalyan Nehri Deltası ile Akdeniz arasında doğal bir bariyer oluşturan 4,5 km'lik çarpıcı altın kumlu bir plajdır. Bu eşsiz ekosistem, Akdeniz'deki Caretta Caretta (Kırmızı Deniz Kaplumbağası) deniz kaplumbağalarının son büyük yuvalama alanlarından biridir."
+    },
+    "turtles": {
+      "title": "Caretta Caretta Deniz Kaplumbağaları",
+      "description": "Her yaz Mayıs'tan Ekim'e kadar nesli tükenmekte olan kırmızı deniz kaplumbağaları yumurtalarını bırakmak için İztuzu Plajı'na geri döner. Plaj, otel inşaatından kurtarmak için yürütülen uluslararası bir kampanyanın ardından 1988'den beri koruma altındadır. Bugün koruma çalışmaları, hem kaplumbağaların hem de ziyaretçilerin bu olağanüstü plajın keyfini çıkarmasını sağlamaktadır.",
+      "facts": {
+        "f1": "Yuvalama sezonu: Mayıs — Ekim",
+        "f2": "Sezon başına ortalama 300'den fazla yuva",
+        "f3": "Her yuvada 70-100 yumurta bulunur",
+        "f4": "Yavrular 45-65 gün sonra yumurtadan çıkar",
+        "f5": "Yuvalama sezonunda plaj 20:00-08:00 arası kapalıdır"
+      }
+    },
+    "gettingThere": {
+      "title": "Nasıl Gidilir",
+      "byBoat": "Tekneyle: Dalyan şehir merkezinden düzenli tekne seferleri kalkar. Plaja giden 30 dakikalık manzaralı nehir gezisi, Kaya Mezarları manzarasıyla sazlıklarla çevrili kanallardan geçerek başlı başına bir deneyimdir.",
+      "byRoad": "Karayoluyla: D400 karayolundan plaja asfalt bir yol uzanır. Plaj girişinde otopark mevcuttur. Kara yolu, plajın nehir tarafına ulaşır.",
+      "byMinibus": "Minibüsle: Yaz sezonunda Dalyan şehir merkezinden plaja düzenli dolmuş seferleri yapılır."
+    },
+    "rules": {
+      "title": "Plaj Kuralları ve Koruma",
+      "r1": "Kaplumbağa yuvalama bölgesinde (işaretli alan) şemsiye veya şezlong kullanılmaz",
+      "r2": "Yuvalama sezonunda (Mayıs-Ekim) plaj 20:00-08:00 arası kapalıdır",
+      "r3": "Geceleri plajda flaşlı fotoğraf çekilmez",
+      "r4": "Plajda araç trafiği yasaktır",
+      "r5": "Plajı temiz tutun — çöplerinizi yanınızda götürün",
+      "r6": "Yuvalayan kaplumbağaları veya yavruları rahatsız etmeyin"
+    },
+    "facilities": {
+      "title": "Plaj Olanakları",
+      "items": "Şezlong ve şemsiyeler (yuvalama bölgesi dışında), Soyunma kabinleri ve duşlar, Plaj restoranı ve kafesi, Görevli cankurtaran, İlk yardım istasyonu, Erişilebilir ahşap yürüyüş yolları"
+    }
+  },
+  "map": {
+    "title": "İnteraktif Turizm Haritası",
+    "subtitle": "Dalyan'ın tüm turistik yerlerini, turlarını ve ilgi noktalarını keşfedin",
+    "filters": {
+      "all": "Tümü",
+      "ancient": "Antik Alanlar",
+      "beaches": "Plajlar",
+      "tours": "Tur Durakları",
+      "dining": "Yeme-İçme",
+      "nature": "Doğa"
+    },
+    "locations": {
+      "kaunos": "Kaunos Antik Kenti",
+      "rockTombs": "Likya Kaya Mezarları",
+      "iztuzu": "İztuzu (Kaplumbağa) Plajı",
+      "mudBaths": "Dalyan Çamur Banyoları",
+      "thermalSprings": "Termal Kaplıcalar",
+      "townCenter": "Dalyan Şehir Merkezi",
+      "riverPort": "Nehir Teknesi Kalkış Noktası",
+      "lake": "Köyceğiz Gölü",
+      "canal": "Dalyan Kanalı"
+    }
+  },
+  "about": {
+    "title": "Dalyan Hakkında",
+    "subtitle": "Güneybatı Türkiye'de dağlar ve deniz arasına kurulmuş büyüleyici bir nehir kenarı kasabası",
+    "intro": "Dalyan, güneybatı Türkiye'nin Muğla ilinde, Köyceğiz Gölü ile Akdeniz arasında Dalyan Nehri kıyısında yer alan pitoresk bir kasabadır. Doğal güzelliği, zengin tarihi ve ekolojik önemiyle bilinen Dalyan, kitle turizminden uzak, ferahlatıcı ölçüde otantik bir Türk deneyimi sunar.",
+    "geography": {
+      "title": "Coğrafya ve İklim",
+      "description": "Dalyan, sıcak ve kurak yazlar ile ılık ve yağışlı kışlarla Akdeniz ikliminin keyfini sürer. Bölge, çam kaplı dağlarla çevrili eşsiz nehir deltası ekosistemiyle karakterize edilir. Yaz sıcaklıkları 30-40°C arasında değişirken, kışlar 10-15°C ile ılıman geçer. Yüzme sezonu Mayıs'tan Kasım'a kadar uzanır."
+    },
+    "gettingHere": {
+      "title": "Dalyan'a Nasıl Gidilir",
+      "airport": "Dalaman Havalimanı (DLM) sadece 25 km uzaklıktaki (arabayla 30 dakika) en yakın havalimanıdır. Düzenli uluslararası uçuşlar Dalaman'ı büyük Avrupa şehirlerine bağlar.",
+      "bus": "Düzenli otobüs seferleri Dalyan'ı Fethiye (1 saat), Marmaris (1,5 saat) ve Bodrum (3 saat) dahil yakın şehirlere bağlar.",
+      "car": "Dalyan'a D400 karayolu üzerinden ulaşılabilir. İyi işaretlenmiş yollar karayolundan şehir merkezine yönlendirir."
+    },
+    "culture": {
+      "title": "Kültür ve Mutfak",
+      "description": "Dalyan, özellikle ünlü Dalyan levreği olmak üzere taze deniz ürünlerine ağırlık veren otantik Türk mutfağı sunar. Nehir kenarı restoranları geleneksel mezeler, ızgara balık ve yöresel lezzetler sunar. Haftalık Salı pazarı, taze yerel ürünler, baharatlar ve el sanatları için mükemmeldir."
+    },
+    "accommodation": {
+      "title": "Konaklama",
+      "description": "Dalyan, butik otellerden nehir kenarı pansiyonlara, lüks villalardan apart otellere kadar geniş bir konaklama yelpazesi sunar. Konaklamaların çoğu şehir merkezi ve nehir teknesi kalkış noktalarına yürüme mesafesindedir."
+    }
+  },
+  "footer": {
+    "description": "Akdeniz'in en büyüleyici destinasyonlarından biri olan Dalyan, Türkiye için eksiksiz rehberiniz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "followUs": "Bizi Takip Edin",
+    "newsletter": "Bülten",
+    "newsletterPlaceholder": "E-posta adresinizi girin",
+    "subscribe": "Abone Ol",
+    "copyright": "© 2026 DalyanTurkey.com — Tüm hakları saklıdır.",
+    "madeWith": "Dalyan sevgisiyle yapıldı"
+  },
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "viewOnMap": "Haritada Gör",
+    "backToTop": "Başa Dön",
+    "loading": "Yükleniyor...",
+    "readMore": "Devamını Oku",
+    "gallery": "Galeri",
+    "share": "Paylaş",
+    "directions": "Yol Tarifi Al"
+  }
+}

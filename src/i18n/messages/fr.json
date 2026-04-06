@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "title": "Dalyan Turquie - Guide Touristique Officiel | Excursions en Bateau, Sites Antiques & Plage d'Iztuzu",
+    "description": "Découvrez Dalyan, le paradis caché de la Turquie. Explorez les ruines antiques de Kaunos, les Tombeaux Rupestres Lyciens, la plage préservée d'Iztuzu, les bains de boue relaxants et les excursions en bateau inoubliables le long du fleuve Dalyan.",
+    "keywords": "Dalyan Turquie, tourisme Dalyan, plage Iztuzu, cité antique Kaunos, Tombeaux Rupestres Lyciens, excursions en bateau Dalyan, bains de boue, Caretta Caretta, fleuve Dalyan, voyage Turquie"
+  },
+  "nav": {
+    "home": "Accueil",
+    "ancientSites": "Sites Antiques",
+    "boatTours": "Excursions en Bateau",
+    "iztuzu": "Plage d'Iztuzu",
+    "map": "Carte",
+    "about": "À propos de Dalyan",
+    "bookNow": "Réserver"
+  },
+  "hero": {
+    "title": "Bienvenue à Dalyan",
+    "subtitle": "Le Paradis Caché de la Turquie",
+    "description": "Là où l'histoire antique rencontre une nature préservée. Découvrez le fleuve magique de Dalyan, des tombeaux rupestres millénaires, des plages de tortues immaculées et des bains de boue aux vertus thérapeutiques.",
+    "exploreTours": "Explorer les Excursions",
+    "discoverHistory": "Découvrir l'Histoire",
+    "watchVideo": "Voir la Vidéo"
+  },
+  "home": {
+    "featuredTitle": "Découvrez Dalyan",
+    "featuredSubtitle": "Une destination intemporelle où nature, histoire et aventure se rejoignent",
+    "ancientSitesCard": {
+      "title": "Sites Antiques",
+      "description": "Explorez la cité antique de Kaunos, vieille de 3 000 ans, et les magnifiques Tombeaux Rupestres Lyciens sculptés à flanc de falaise."
+    },
+    "boatToursCard": {
+      "title": "Excursions en Bateau",
+      "description": "Naviguez le long du fleuve Dalyan à travers des canaux bordés de roseaux pour découvrir des criques cachées et des merveilles naturelles."
+    },
+    "iztuuzCard": {
+      "title": "Plage d'Iztuzu",
+      "description": "Visitez l'une des plus belles plages d'Europe et site de nidification des tortues marines Caretta Caretta, une espèce menacée."
+    },
+    "mudBathsCard": {
+      "title": "Bains de Boue",
+      "description": "Ressourcez-vous dans les bains de boue thermaux naturels et les sources sulfureuses réputées pour leurs propriétés thérapeutiques."
+    },
+    "whyDalyan": "Pourquoi visiter Dalyan ?",
+    "whyDescription": "Dalyan est l'une des destinations les plus uniques de Turquie, offrant un mélange parfait d'histoire antique, de nature préservée et de culture turque authentique. Contrairement aux stations balnéaires bondées, Dalyan préserve son charme naturel et ses trésors écologiques.",
+    "stats": {
+      "years": "Plus de 3 000 ans d'histoire",
+      "beach": "4,5 km de plage préservée",
+      "turtles": "Site de nidification protégé",
+      "tours": "Excursions quotidiennes en bateau"
+    },
+    "testimonials": {
+      "title": "Ce que disent nos visiteurs",
+      "t1": {
+        "text": "Dalyan est le plus bel endroit que j'aie jamais visité. La promenade en bateau sur le fleuve avec les tombeaux rupestres en arrière-plan était à couper le souffle.",
+        "author": "Sarah M.",
+        "country": "Royaume-Uni"
+      },
+      "t2": {
+        "text": "Les bains de boue étaient très amusants, et la plage d'Iztuzu est absolument magnifique. Une destination incontournable en Turquie.",
+        "author": "Hans W.",
+        "country": "Allemagne"
+      },
+      "t3": {
+        "text": "Nous avons passé une semaine à Dalyan et ce n'était pas suffisant. L'histoire, la nature et l'accueil chaleureux des habitants en font un séjour inoubliable.",
+        "author": "Marie L.",
+        "country": "France"
+      }
+    }
+  },
+  "ancientSites": {
+    "title": "Sites Antiques & Trésors Historiques",
+    "subtitle": "Remontez le temps et explorez des millénaires de civilisations qui ont prospéré dans la région de Dalyan",
+    "kaunos": {
+      "title": "Cité Antique de Kaunos",
+      "period": "Fondation : Xe siècle av. J.-C.",
+      "description": "Kaunos est l'une des cités antiques les plus importantes de la région de Carie, fondée vers le Xe siècle avant J.-C. Perchée sur une colline spectaculaire surplombant le fleuve Dalyan, ce site archéologique révèle des strates de civilisations incluant les périodes carienne, grecque, romaine et byzantine.",
+      "highlights": "Le théâtre romain remarquablement conservé pouvant accueillir 5 000 spectateurs, l'ancien port (aujourd'hui un lac), l'acropole offrant des vues panoramiques, les thermes romains, la basilique byzantine et les impressionnantes murailles s'étendant le long de la colline.",
+      "visiting": "Ouvert tous les jours. Accessible en bateau depuis le centre-ville de Dalyan (15 minutes) ou par la route. Prévoyez 2 à 3 heures pour une visite complète. Apportez de l'eau et des chaussures de marche confortables.",
+      "tip": "Visitez tôt le matin ou en fin d'après-midi pour éviter la chaleur et profiter de la lumière dorée sur les ruines."
+    },
+    "rockTombs": {
+      "title": "Tombeaux Rupestres Lyciens",
+      "period": "IVe siècle av. J.-C.",
+      "description": "Les magnifiques Tombeaux Rupestres Lyciens de Dalyan sont sculptés directement dans la paroi rocheuse surplombant le fleuve Dalyan. Datant du IVe siècle avant J.-C., ces tombeaux de style temple ont été créés pour les citoyens les plus éminents de Kaunos et représentent parmi les plus beaux exemples d'architecture funéraire lycienne.",
+      "highlights": "Six façades principales sculptées dans le style temple ionique, emplacement spectaculaire sur la falaise visible depuis le fleuve, meilleure vue au coucher du soleil lorsqu'ils se parent de reflets dorés, illuminés la nuit créant une atmosphère magique.",
+      "visiting": "Meilleure vue depuis un bateau sur le fleuve Dalyan ou depuis la promenade au bord du fleuve dans la ville de Dalyan. Les tombeaux sont illuminés à la tombée de la nuit pour une contemplation nocturne saisissante.",
+      "tip": "Faites une promenade en bateau en soirée pour voir les tombeaux illuminés sous le ciel étoilé — une expérience inoubliable."
+    },
+    "canal": {
+      "title": "Canal de Dalyan & Voie Navigable Antique",
+      "period": "Naturel & Historique",
+      "description": "Le Canal de Dalyan est une voie navigable naturelle de 12 kilomètres reliant le lac Köyceğiz à la mer Méditerranée. Cette ancienne route commerciale a été empruntée par les civilisations pendant des milliers d'années et offre aujourd'hui l'une des plus belles croisières fluviales de Turquie, à travers des canaux bordés de roseaux regorgeant de faune.",
+      "highlights": "12 km de voies navigables sinueuses à travers des zones humides préservées, une riche avifaune incluant martins-pêcheurs et hérons, vues sur les Tombeaux Rupestres depuis l'eau, connexion entre le lac Köyceğiz et la Méditerranée.",
+      "visiting": "Des services de bateaux réguliers circulent entre le centre-ville de Dalyan, Kaunos, la plage d'Iztuzu et le lac Köyceğiz. Le canal est l'artère principale de transport de la région.",
+      "tip": "Une croisière au lever du soleil sur le canal offre les meilleures occasions d'observation de la faune et de photographie."
+    },
+    "infoBox": {
+      "period": "Période",
+      "highlights": "Points Forts",
+      "visiting": "Informations Pratiques",
+      "proTip": "Conseil"
+    }
+  },
+  "boatTours": {
+    "title": "Excursions en Bateau",
+    "subtitle": "Découvrez Dalyan depuis l'eau — la manière dont elle est faite pour être explorée",
+    "bookCta": "Réserver cette Excursion",
+    "duration": "Durée",
+    "included": "Inclus",
+    "highlights": "Points Forts de l'Excursion",
+    "schedule": "Horaires",
+    "tours": {
+      "river": {
+        "title": "Excursion Classique sur le Fleuve Dalyan",
+        "duration": "Journée complète (10h00 - 17h00)",
+        "description": "L'expérience emblématique de Dalyan. Naviguez le long du magnifique fleuve Dalyan, visitez la cité antique de Kaunos, admirez les Tombeaux Rupestres Lyciens, profitez des bains de boue naturels et des sources thermales, et terminez la journée sur la magnifique plage d'Iztuzu.",
+        "included": "Transport en bateau, entrée à Kaunos, accès aux bains de boue, déjeuner à bord, boissons non alcoolisées, équipement de plongée avec tuba",
+        "highlights": "Croisière sur le fleuve Dalyan à travers les canaux de roseaux, vue sur les Tombeaux Rupestres Lyciens, visite de la cité antique de Kaunos, bains de boue naturels et sources sulfureuses, plage d'Iztuzu, baignades dans des eaux cristallines",
+        "price": "À partir de 25 € par personne"
+      },
+      "turtle": {
+        "title": "Excursion Express Plage des Tortues",
+        "duration": "Demi-journée (10h00 - 14h00)",
+        "description": "Une excursion plus courte, idéale pour ceux qui souhaitent se rendre à la célèbre plage d'Iztuzu en bateau. Profitez d'une croisière fluviale pittoresque, observez les tortues Caretta Caretta dans leur habitat naturel et passez du temps sur l'une des plus belles plages d'Europe.",
+        "included": "Transport en bateau, 2 heures sur la plage, boissons non alcoolisées, guide d'observation des tortues",
+        "highlights": "Croisière pittoresque sur le fleuve Dalyan, observation des tortues Caretta Caretta, 4,5 km de plage de sable immaculée, eaux cristallines de la Méditerranée, vue sur les Tombeaux Rupestres Lyciens en chemin",
+        "price": "À partir de 15 € par personne"
+      },
+      "mud": {
+        "title": "Excursion Bains de Boue & Sources Thermales",
+        "duration": "Demi-journée (09h00 - 13h00)",
+        "description": "Découvrez les célèbres bains de boue et les sources thermales sulfureuses de Dalyan, réputés pour leurs propriétés rajeunissantes et thérapeutiques. Enduisez-vous de boue riche en minéraux, séchez au soleil, puis rincez-vous dans les bassins thermaux chauds.",
+        "included": "Transport en bateau, accès aux bains de boue, accès aux sources thermales, serviettes, rafraîchissements",
+        "highlights": "Bassins de boue naturelle riche en minéraux, sources thermales sulfureuses chaudes (39°C), soin rajeunissant pour la peau, croisière fluviale relaxante, cadre naturel magnifique",
+        "price": "À partir de 15 € par personne"
+      },
+      "moonlight": {
+        "title": "Croisière au Clair de Lune",
+        "duration": "Soirée (20h00 - 23h00)",
+        "description": "Une croisière magique en soirée le long du fleuve Dalyan sous les étoiles. Admirez les Tombeaux Rupestres Lyciens magnifiquement illuminés dans le ciel nocturne, savourez un dîner à bord et vivez la beauté tranquille de Dalyan après la tombée de la nuit.",
+        "included": "Croisière en soirée, dîner à bord, boissons, musique live (saisonnière), vue sur les tombeaux illuminés",
+        "highlights": "Tombeaux Rupestres Lyciens illuminés, croisière sous les étoiles, dîner à bord avec cuisine locale, musique turque live (saisonnière), atmosphère de soirée magique",
+        "price": "À partir de 30 € par personne"
+      },
+      "discovery": {
+        "title": "Découverte Complète de Dalyan",
+        "duration": "Journée complète (09h00 - 18h00)",
+        "description": "L'expérience ultime de Dalyan combinant toutes les attractions majeures en une excursion complète. Visitez la cité antique de Kaunos, les Tombeaux Rupestres, les bains de boue, les sources thermales, le lac Köyceğiz et la plage d'Iztuzu — idéal pour les primo-visiteurs.",
+        "included": "Tous les droits d'entrée, déjeuner et boissons, bains de boue, sources thermales, équipement de plongée avec tuba, guide professionnel",
+        "highlights": "Expérience complète de Dalyan en une journée, visite guidée de la cité antique de Kaunos, Tombeaux Rupestres Lyciens, bains de boue naturels et sources thermales, lac Köyceğiz, plage d'Iztuzu, guide professionnel francophone",
+        "price": "À partir de 40 € par personne"
+      }
+    }
+  },
+  "iztuzu": {
+    "title": "Plage d'Iztuzu — Plage des Tortues",
+    "subtitle": "L'une des plus belles plages d'Europe et un site de nidification essentiel pour les tortues marines Caretta Caretta, une espèce menacée",
+    "overview": {
+      "title": "Présentation de la Plage",
+      "description": "La plage d'Iztuzu, également connue sous le nom de Plage des Tortues, est une magnifique étendue de 4,5 km de sable doré formant une barrière naturelle entre le delta du fleuve Dalyan et la mer Méditerranée. Cet écosystème unique est l'un des derniers grands sites de nidification des tortues marines Caretta Caretta (Caouanne) en Méditerranée."
+    },
+    "turtles": {
+      "title": "Tortues Marines Caretta Caretta",
+      "description": "Chaque été, de mai à octobre, les tortues Caouannes menacées reviennent sur la plage d'Iztuzu pour pondre leurs œufs. La plage est une zone protégée depuis 1988, suite à une campagne internationale pour la sauver d'un projet de développement hôtelier. Aujourd'hui, les efforts de conservation permettent aux tortues et aux visiteurs de profiter de cette plage remarquable.",
+      "facts": {
+        "f1": "Saison de nidification : mai — octobre",
+        "f2": "Plus de 300 nids en moyenne par saison",
+        "f3": "Chaque nid contient 70 à 100 œufs",
+        "f4": "Les bébés tortues éclosent après 45 à 65 jours",
+        "f5": "Plage fermée de 20h00 à 08h00 pendant la saison de nidification"
+      }
+    },
+    "gettingThere": {
+      "title": "Comment s'y rendre",
+      "byBoat": "En bateau : Des services de bateaux réguliers partent du centre-ville de Dalyan. La croisière fluviale pittoresque de 30 minutes jusqu'à la plage est une expérience en soi, traversant des canaux bordés de roseaux avec vue sur les Tombeaux Rupestres.",
+      "byRoad": "Par la route : Une route goudronnée mène à la plage depuis l'autoroute D400. Parking disponible à l'entrée de la plage. L'accès routier arrive côté fleuve de la plage.",
+      "byMinibus": "En minibus : Des services réguliers de dolmuş (minibus) circulent du centre-ville de Dalyan à la plage pendant la saison estivale."
+    },
+    "rules": {
+      "title": "Règles de la Plage & Conservation",
+      "r1": "Pas de parasols ni de transats dans la zone de nidification des tortues (zone balisée)",
+      "r2": "Plage fermée de 20h00 à 08h00 pendant la saison de nidification (mai-octobre)",
+      "r3": "Pas de photographie au flash sur la plage la nuit",
+      "r4": "Pas de véhicules sur la plage",
+      "r5": "Gardez la plage propre — emportez vos déchets",
+      "r6": "Ne pas déranger les tortues en nidification ni les nouveau-nés"
+    },
+    "facilities": {
+      "title": "Équipements de la Plage",
+      "items": "Transats et parasols (hors zone de nidification), vestiaires et douches, restaurant et café de plage, maître-nageur en service, poste de premiers secours, passerelles en bois accessibles"
+    }
+  },
+  "map": {
+    "title": "Carte Touristique Interactive",
+    "subtitle": "Explorez toutes les attractions, excursions et points d'intérêt de Dalyan",
+    "filters": {
+      "all": "Tout",
+      "ancient": "Sites Antiques",
+      "beaches": "Plages",
+      "tours": "Étapes d'Excursion",
+      "dining": "Restaurants",
+      "nature": "Nature"
+    },
+    "locations": {
+      "kaunos": "Cité Antique de Kaunos",
+      "rockTombs": "Tombeaux Rupestres Lyciens",
+      "iztuzu": "Plage d'Iztuzu (Tortues)",
+      "mudBaths": "Bains de Boue de Dalyan",
+      "thermalSprings": "Sources Thermales",
+      "townCenter": "Centre-ville de Dalyan",
+      "riverPort": "Point de Départ des Bateaux",
+      "lake": "Lac Köyceğiz",
+      "canal": "Canal de Dalyan"
+    }
+  },
+  "about": {
+    "title": "À propos de Dalyan",
+    "subtitle": "Une charmante ville fluviale nichée entre montagnes et mer dans le sud-ouest de la Turquie",
+    "intro": "Dalyan est une ville pittoresque de la province de Muğla, dans le sud-ouest de la Turquie, située le long des rives du fleuve Dalyan entre le lac Köyceğiz et la mer Méditerranée. Réputée pour sa beauté naturelle, sa riche histoire et son importance écologique, Dalyan offre une expérience turque authentique et rafraîchissante, loin du tourisme de masse.",
+    "geography": {
+      "title": "Géographie & Climat",
+      "description": "Dalyan bénéficie d'un climat méditerranéen avec des étés chauds et secs et des hivers doux et humides. La région se caractérise par son écosystème unique de delta fluvial, entouré de montagnes couvertes de pins. Les températures estivales varient de 30 à 40°C, tandis que les hivers sont doux avec 10 à 15°C. La saison de baignade s'étend de mai à novembre."
+    },
+    "gettingHere": {
+      "title": "Comment se rendre à Dalyan",
+      "airport": "L'aéroport de Dalaman (DLM) est l'aéroport le plus proche, à seulement 25 km (30 minutes en voiture). Des vols internationaux réguliers relient Dalaman aux principales villes européennes.",
+      "bus": "Des services de bus réguliers relient Dalyan aux villes voisines, notamment Fethiye (1 heure), Marmaris (1h30) et Bodrum (3 heures).",
+      "car": "Dalyan est accessible par l'autoroute D400. Des routes bien signalées mènent de l'autoroute au centre-ville."
+    },
+    "culture": {
+      "title": "Culture & Gastronomie",
+      "description": "Dalyan propose une cuisine turque authentique mettant l'accent sur les fruits de mer frais, notamment le célèbre bar de Dalyan (levrek). Les restaurants au bord du fleuve servent des mezze traditionnels, du poisson grillé et des spécialités régionales. Le marché hebdomadaire du mardi est idéal pour les produits frais locaux, les épices et l'artisanat."
+    },
+    "accommodation": {
+      "title": "Hébergement",
+      "description": "Dalyan offre un large choix d'hébergements allant des hôtels de charme et pensions au bord du fleuve aux villas de luxe et appart-hôtels. La plupart des hébergements se trouvent à distance de marche du centre-ville et des départs de bateaux."
+    }
+  },
+  "footer": {
+    "description": "Votre guide complet de Dalyan, Turquie — l'une des destinations les plus envoûtantes de la Méditerranée.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Entrez votre e-mail",
+    "subscribe": "S'abonner",
+    "copyright": "© 2026 DalyanTurkey.com — Tous droits réservés.",
+    "madeWith": "Fait avec amour pour Dalyan"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "viewOnMap": "Voir sur la carte",
+    "backToTop": "Retour en haut",
+    "loading": "Chargement...",
+    "readMore": "Lire la suite",
+    "gallery": "Galerie",
+    "share": "Partager",
+    "directions": "Itinéraire"
+  }
+}
