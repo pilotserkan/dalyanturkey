@@ -12,11 +12,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const path = slug === '' ? `/${locale}` : `/${locale}/${slug}`;
       const isHome = slug === '';
       const isHub = !slug.includes('/') && slug !== '';
+
+      // Build alternates for this page across all locales
+      const languages: Record<string, string> = {};
+      for (const altLocale of locales) {
+        const altPath = slug === '' ? `/${altLocale}` : `/${altLocale}/${slug}`;
+        languages[altLocale] = `${BASE_URL}${altPath}`;
+      }
+
       entries.push({
         url: `${BASE_URL}${path}`,
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: isHome ? 1.0 : isHub ? 0.9 : 0.8,
+        alternates: { languages },
       });
     }
   }

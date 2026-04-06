@@ -3,6 +3,7 @@
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import HubCard from '@/components/ui/HubCard';
+import HomeMap from '@/components/ui/HomeMap';
 import { HUBS, HUB_ORDER } from '@/lib/navigation';
 
 const stats = [
@@ -173,6 +174,24 @@ export default function HomePageContent() {
               </article>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Interactive Map Section */}
+      <section className="py-20 bg-gradient-to-b from-sky-50 to-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <span className="inline-block px-4 py-1.5 bg-sky-100 text-sky-700 text-sm font-semibold rounded-full mb-4 tracking-wide uppercase">
+              🗺️ Interactive Map
+            </span>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              Explore Dalyan&apos;s Attractions
+            </h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              Click on any marker to discover more about each location and navigate to its dedicated page.
+            </p>
+          </div>
+          <HomeMap />
         </div>
       </section>
 
