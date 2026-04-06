@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
 
 const DALYAN_CENTER = { lat: 36.8333, lng: 28.6333 };
