@@ -1,82 +1,107 @@
 {
   "metadata": {
-    "title": "Dalyan Turkey - Official Tourism Guide | Boat Tours, Ancient Sites & Iztuzu Beach",
-    "description": "Discover Dalyan, Turkey's hidden paradise. Explore ancient Kaunos ruins, Lycian Rock Tombs, pristine Iztuzu Turtle Beach, relaxing mud baths, and unforgettable boat tours along the Dalyan River.",
-    "keywords": "Dalyan Turkey, Dalyan tourism, Iztuzu Beach, Kaunos ancient city, Lycian Rock Tombs, Dalyan boat tours, mud baths, Caretta Caretta, Dalyan River, Turkey travel"
+    "title": "Dalyan Turkey - Official Tourism Guide | Ancient Sites, Iztuzu Beach & Travel Info",
+    "description": "Discover Dalyan, Turkey's hidden paradise. Explore ancient Kaunos ruins, Lycian Rock Tombs, pristine Iztuzu Turtle Beach, relaxing mud baths, and the scenic Dalyan River.",
+    "keywords": "Dalyan Turkey, Dalyan tourism, Iztuzu Beach, Kaunos ancient city, Lycian Rock Tombs, Dalyan travel guide, mud baths, Caretta Caretta, Dalyan River, Turkey travel"
   },
   "nav": {
     "home": "Home",
     "ancientSites": "Ancient Sites",
-    "boatTours": "Boat Tours",
+    "boatTours": "River & Tours",
     "iztuzu": "Iztuzu Beach",
     "map": "Map",
-    "about": "About Dalyan",
-    "bookNow": "Book Now"
+    "about": "About Dalyan"
   },
   "hero": {
     "title": "Welcome to Dalyan",
     "subtitle": "Turkey's Hidden Paradise",
     "description": "Where ancient history meets untouched nature. Discover the magical Dalyan River, thousand-year-old rock tombs, pristine turtle beaches, and healing mud baths.",
-    "exploreTours": "Explore Tours",
+    "exploreTours": "Explore Dalyan",
     "discoverHistory": "Discover History",
     "watchVideo": "Watch Video"
   },
   "home": {
-    "featuredTitle": "Discover Dalyan",
-    "featuredSubtitle": "A timeless destination where nature, history, and adventure converge",
-    "ancientSitesCard": {
-      "title": "Ancient Sites",
-      "description": "Explore the 3,000-year-old Kaunos Ancient City and the magnificent Lycian Rock Tombs carved into cliffsides."
+    "discover": {
+      "badge": "Explore",
+      "title": "Discover Dalyan",
+      "subtitle": "A timeless destination where nature, history, and adventure converge in southwestern Turkey",
+      "learnMore": "Learn More",
+      "ancientSites": {
+        "title": "Ancient Sites",
+        "description": "Explore the 3,000-year-old Kaunos Ancient City and the magnificent Lycian Rock Tombs carved into cliffsides."
+      },
+      "boatTours": {
+        "title": "River & Waterways",
+        "description": "Cruise along the Dalyan River through reed-lined channels to discover hidden coves and natural wonders."
+      },
+      "iztuzu": {
+        "title": "Iztuzu Beach",
+        "description": "Visit one of Europe's finest beaches and nesting ground of the endangered Caretta Caretta sea turtles."
+      },
+      "mudBaths": {
+        "title": "Mud Baths & Springs",
+        "description": "Natural thermal mud baths and sulphur springs known for their healing and rejuvenating properties."
+      }
     },
-    "boatToursCard": {
-      "title": "Boat Tours",
-      "description": "Cruise along the Dalyan River through reed-lined channels to discover hidden coves and natural wonders."
-    },
-    "iztuuzCard": {
-      "title": "Iztuzu Beach",
-      "description": "Visit one of Europe's finest beaches and nesting ground of the endangered Caretta Caretta sea turtles."
-    },
-    "mudBathsCard": {
-      "title": "Mud Baths",
-      "description": "Rejuvenate in natural thermal mud baths and sulphur springs known for their healing properties."
-    },
-    "whyDalyan": "Why Visit Dalyan?",
-    "whyDescription": "Dalyan is one of Turkey's most unique destinations, offering a perfect blend of ancient history, pristine nature, and authentic Turkish culture. Unlike crowded tourist resorts, Dalyan preserves its natural charm and ecological treasures.",
     "stats": {
-      "years": "3,000+ Years of History",
-      "beach": "4.5 km Pristine Beach",
-      "turtles": "Protected Turtle Nesting Site",
-      "tours": "Daily River Boat Tours"
+      "title": "Why Visit Dalyan?",
+      "subtitle": "Dalyan offers a perfect blend of ancient history, pristine nature, and authentic Turkish culture.",
+      "years": {
+        "value": "3,000+",
+        "label": "Years of History"
+      },
+      "species": {
+        "value": "100+",
+        "label": "Protected Species"
+      },
+      "river": {
+        "value": "12 km",
+        "label": "Scenic River Canal"
+      },
+      "sun": {
+        "value": "300+",
+        "label": "Sunny Days / Year"
+      }
+    },
+    "map": {
+      "badge": "Interactive Map",
+      "title": "Explore Dalyan's Attractions",
+      "subtitle": "Find all points of interest, ancient sites, beaches, and natural wonders on the interactive map.",
+      "viewFull": "Open Full Map"
     },
     "testimonials": {
+      "badge": "Traveler Reviews",
       "title": "What Visitors Say",
-      "t1": {
-        "text": "Dalyan is the most beautiful place I've ever visited. The boat ride through the river with the rock tombs in the background was breathtaking.",
-        "author": "Sarah M.",
-        "country": "United Kingdom"
+      "1": {
+        "quote": "Dalyan is the most beautiful place I've ever visited. The river cruise with the rock tombs in the background was breathtaking.",
+        "name": "Sarah M.",
+        "location": "United Kingdom"
       },
-      "t2": {
-        "text": "The mud baths were so much fun, and Iztuzu Beach is absolutely stunning. A must-visit destination in Turkey.",
-        "author": "Hans W.",
-        "country": "Germany"
+      "2": {
+        "quote": "The mud baths were so much fun, and Iztuzu Beach is absolutely stunning. A must-visit destination in Turkey.",
+        "name": "Hans W.",
+        "location": "Germany"
       },
-      "t3": {
-        "text": "We spent a week in Dalyan and it wasn't enough. The history, nature, and friendly people made it unforgettable.",
-        "author": "Marie L.",
-        "country": "France"
+      "3": {
+        "quote": "We spent a week in Dalyan and it wasn't enough. The history, nature, and friendly people made it unforgettable.",
+        "name": "Marie L.",
+        "location": "France"
       }
     }
   },
   "ancientSites": {
     "title": "Ancient Sites & Historical Treasures",
     "subtitle": "Step back in time and explore millennia of civilizations that flourished in the Dalyan region",
+    "badge": "History & Heritage",
     "kaunos": {
       "title": "Kaunos Ancient City",
       "period": "Founded: 10th Century BC",
       "description": "Kaunos is one of the most important ancient cities in the Caria region, founded around the 10th century BC. Situated on a dramatic hilltop overlooking the Dalyan River, this archaeological site reveals layers of civilizations including Carian, Greek, Roman, and Byzantine periods.",
       "highlights": "The well-preserved Roman theatre with seating for 5,000 spectators, the ancient harbour (now a lake), the acropolis with panoramic views, Roman baths, Byzantine basilica, and impressive city walls stretching along the hillside.",
       "visiting": "Open daily. Accessible by boat from Dalyan town center (15 minutes) or by road. Allow 2-3 hours for a thorough visit. Bring water and comfortable walking shoes.",
-      "tip": "Visit in the early morning or late afternoon to avoid the heat and enjoy golden light on the ruins."
+      "visitingInfo": "Open daily year-round. Entrance fee applies. Accessible by boat (15 min) or road from Dalyan center. Allow 2-3 hours for a thorough visit.",
+      "tip": "Visit in the early morning or late afternoon to avoid the heat and enjoy golden light on the ruins.",
+      "proTip": "Visit in early morning or late afternoon for the best light and fewer crowds. Bring water and comfortable shoes."
     },
     "rockTombs": {
       "title": "Lycian Rock Tombs",
@@ -84,71 +109,70 @@
       "description": "The magnificent Lycian Rock Tombs of Dalyan are carved directly into the sheer cliff face overlooking the Dalyan River. Dating back to the 4th century BC, these temple-style tombs were created for Kaunos' elite citizens and represent some of the finest examples of Lycian funerary architecture.",
       "highlights": "Six major tomb facades carved in Ionic temple style, dramatic cliff-face location visible from the river, best viewed at sunset when they glow golden, illuminated at night creating a magical atmosphere.",
       "visiting": "Best viewed from a boat on the Dalyan River or from Dalyan town's riverside promenade. The tombs are illuminated after dark for stunning nighttime viewing.",
-      "tip": "Take an evening boat ride to see the tombs illuminated against the night sky — an unforgettable experience."
+      "visitingInfo": "Best viewed from the river or riverside promenade. Free to view. Illuminated at night for a spectacular experience.",
+      "tip": "Take an evening boat ride to see the tombs illuminated against the night sky — an unforgettable experience.",
+      "proTip": "Take an evening ride to see the tombs illuminated against the night sky — truly magical."
     },
     "canal": {
       "title": "Dalyan Canal & Ancient Waterway",
       "period": "Natural & Historical",
-      "description": "The Dalyan Canal is a 12-kilometer natural waterway connecting Lake Köyceğiz to the Mediterranean Sea. This ancient trade route was used by civilizations for thousands of years and today offers one of Turkey's most scenic boat journeys through reed-lined channels teeming with wildlife.",
+      "description": "The Dalyan Canal is a 12-kilometer natural waterway connecting Lake Köyceğiz to the Mediterranean Sea. This ancient trade route was used by civilizations for thousands of years and today offers one of Turkey's most scenic journeys through reed-lined channels teeming with wildlife.",
       "highlights": "12 km of winding waterways through pristine wetlands, rich bird life including kingfishers and herons, views of the Rock Tombs from the water, connection to both Lake Köyceğiz and the Mediterranean.",
       "visiting": "Regular boat services run between Dalyan town, Kaunos, Iztuzu Beach, and Lake Köyceğiz. The canal is the main transportation artery of the region.",
-      "tip": "A sunrise boat ride through the canal offers the best wildlife viewing and photography opportunities."
+      "visitingInfo": "Regular boat services available from Dalyan town. The canal is the main transportation route connecting all major attractions.",
+      "tip": "A sunrise boat ride through the canal offers the best wildlife viewing and photography opportunities.",
+      "proTip": "A sunrise ride through the canal offers the best wildlife viewing and photography opportunities."
     },
     "infoBox": {
       "period": "Period",
       "highlights": "Key Highlights",
       "visiting": "Visitor Information",
+      "visitingInfo": "Visitor Information",
       "proTip": "Pro Tip"
     }
   },
   "boatTours": {
-    "title": "Boat Tours & Excursions",
-    "subtitle": "Experience Dalyan from the water — the way it was meant to be explored",
-    "bookCta": "Book This Tour",
+    "title": "River Routes & Excursions",
+    "subtitle": "Explore Dalyan from the water — the way it was meant to be discovered",
     "duration": "Duration",
-    "included": "What's Included",
-    "highlights": "Tour Highlights",
+    "included": "What to Expect",
+    "highlights": "Highlights",
     "schedule": "Schedule",
     "tours": {
       "river": {
-        "title": "Dalyan River Classic Tour",
+        "title": "Dalyan River Classic Route",
         "duration": "Full Day (10:00 - 17:00)",
         "description": "The signature Dalyan experience. Cruise along the beautiful Dalyan River, visit the ancient city of Kaunos, marvel at the Lycian Rock Tombs, enjoy natural mud baths and thermal springs, and end the day at the magnificent Iztuzu Beach.",
-        "included": "Boat transportation, Kaunos entrance fee, mud baths access, lunch on board, soft drinks, snorkelling equipment",
-        "highlights": "Dalyan River cruise through reed channels, Lycian Rock Tombs viewing, Kaunos Ancient City visit, Natural mud baths and sulphur springs, Iztuzu Turtle Beach, Swimming stops in crystal-clear waters",
-        "price": "From €25 per person"
+        "included": "River cruise, Kaunos Ancient City visit, Rock Tombs viewing, mud baths, thermal springs, Iztuzu Beach, swimming stops",
+        "highlights": "Dalyan River cruise through reed channels, Lycian Rock Tombs viewing, Kaunos Ancient City visit, Natural mud baths and sulphur springs, Iztuzu Turtle Beach, Swimming stops in crystal-clear waters"
       },
       "turtle": {
-        "title": "Turtle Beach Express",
+        "title": "Turtle Beach Route",
         "duration": "Half Day (10:00 - 14:00)",
-        "description": "A shorter excursion perfect for those who want to visit the famous Iztuzu Beach by boat. Enjoy a scenic river cruise, spot Caretta Caretta turtles in their natural habitat, and spend time on one of Europe's finest beaches.",
-        "included": "Boat transportation, 2 hours beach time, soft drinks, turtle spotting guide",
-        "highlights": "Scenic Dalyan River cruise, Caretta Caretta turtle spotting, 4.5 km pristine sandy beach, Crystal-clear Mediterranean waters, Views of Lycian Rock Tombs en route",
-        "price": "From €15 per person"
+        "description": "A scenic river route perfect for those who want to visit the famous Iztuzu Beach by boat. Enjoy the scenic Dalyan River, spot Caretta Caretta turtles in their natural habitat, and spend time on one of Europe's finest beaches.",
+        "included": "Scenic river cruise, turtle spotting, 4.5 km beach access, Rock Tombs viewing en route",
+        "highlights": "Scenic Dalyan River cruise, Caretta Caretta turtle spotting, 4.5 km pristine sandy beach, Crystal-clear Mediterranean waters, Views of Lycian Rock Tombs en route"
       },
       "mud": {
-        "title": "Mud Bath & Thermal Springs Tour",
+        "title": "Mud Bath & Thermal Springs",
         "duration": "Half Day (09:00 - 13:00)",
         "description": "Discover the famous Dalyan mud baths and thermal sulphur springs renowned for their rejuvenating and healing properties. Coat yourself in mineral-rich mud, dry in the sun, then rinse off in hot thermal pools.",
-        "included": "Boat transportation, mud baths access, thermal springs access, towels, refreshments",
-        "highlights": "Natural mineral-rich mud pools, Hot sulphur thermal springs (39°C), Skin rejuvenation treatment, Relaxing river cruise, Beautiful natural surroundings",
-        "price": "From €15 per person"
+        "included": "River cruise, mud baths, thermal springs (39°C), natural mineral pools, scenic surroundings",
+        "highlights": "Natural mineral-rich mud pools, Hot sulphur thermal springs (39°C), Skin rejuvenation treatment, Relaxing river cruise, Beautiful natural surroundings"
       },
       "moonlight": {
         "title": "Moonlight River Cruise",
         "duration": "Evening (20:00 - 23:00)",
-        "description": "A magical evening cruise along the Dalyan River under the stars. See the Lycian Rock Tombs beautifully illuminated against the night sky, enjoy dinner on board, and experience the tranquil beauty of Dalyan after dark.",
-        "included": "Evening boat cruise, dinner on board, drinks, live music (seasonal), illuminated tombs viewing",
-        "highlights": "Illuminated Lycian Rock Tombs, Starlit river cruise, Dinner on board with local cuisine, Live Turkish music (seasonal), Magical evening atmosphere",
-        "price": "From €30 per person"
+        "description": "A magical evening cruise along the Dalyan River under the stars. See the Lycian Rock Tombs beautifully illuminated against the night sky and experience the tranquil beauty of Dalyan after dark.",
+        "included": "Evening river cruise, illuminated Rock Tombs viewing, starlit atmosphere, local cuisine options along the river",
+        "highlights": "Illuminated Lycian Rock Tombs, Starlit river cruise, Local riverside dining options, Live Turkish music (seasonal), Magical evening atmosphere"
       },
       "discovery": {
         "title": "Full-Day Dalyan Discovery",
         "duration": "Full Day (09:00 - 18:00)",
-        "description": "The ultimate Dalyan experience combining all major attractions in one comprehensive tour. Visit Kaunos Ancient City, the Rock Tombs, mud baths, thermal springs, Lake Köyceğiz, and Iztuzu Beach — perfect for first-time visitors.",
-        "included": "All entrance fees, lunch and drinks, mud baths, thermal springs, snorkelling gear, professional guide",
-        "highlights": "Complete Dalyan experience in one day, Kaunos Ancient City guided tour, Lycian Rock Tombs, Natural mud baths and thermal springs, Lake Köyceğiz, Iztuzu Turtle Beach, Professional English-speaking guide",
-        "price": "From €40 per person"
+        "description": "The ultimate Dalyan experience combining all major attractions in one comprehensive route. Visit Kaunos Ancient City, the Rock Tombs, mud baths, thermal springs, Lake Köyceğiz, and Iztuzu Beach — perfect for first-time visitors who want to see everything.",
+        "included": "All major sites, Kaunos Ancient City, Rock Tombs, mud baths, thermal springs, Lake Köyceğiz, Iztuzu Beach",
+        "highlights": "Complete Dalyan experience in one day, Kaunos Ancient City guided visit, Lycian Rock Tombs, Natural mud baths and thermal springs, Lake Köyceğiz, Iztuzu Turtle Beach"
       }
     }
   },
@@ -192,12 +216,12 @@
   },
   "map": {
     "title": "Interactive Tourism Map",
-    "subtitle": "Explore all of Dalyan's attractions, tours, and points of interest",
+    "subtitle": "Explore all of Dalyan's attractions and points of interest",
     "filters": {
       "all": "All",
       "ancient": "Ancient Sites",
       "beaches": "Beaches",
-      "tours": "Tour Stops",
+      "tours": "Points of Interest",
       "dining": "Dining",
       "nature": "Nature"
     },

@@ -1,7 +1,6 @@
 'use client';
 
-import { useTranslations, useLocale } from 'next-intl';
-import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 
 const sites = [
   {
@@ -30,7 +29,6 @@ const sites = [
 export default function AncientSitesPage() {
   const t = useTranslations('ancientSites');
   const tInfo = useTranslations('ancientSites.infoBox');
-  const locale = useLocale();
 
   return (
     <div>
@@ -144,34 +142,6 @@ export default function AncientSitesPage() {
         </section>
       ))}
 
-      {/* Call to Action */}
-      <section className="py-24 bg-gradient-to-b from-gray-50 to-white">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-6">
-            {t('cta.title')}
-          </h2>
-          <p className="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
-            {t('cta.description')}
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href={`/${locale}/boat-tours`}
-              className="inline-flex items-center justify-center px-8 py-4 bg-sky-700 text-white font-semibold rounded-full hover:bg-sky-800 transition-colors duration-300 shadow-lg hover:shadow-xl"
-            >
-              {t('cta.bookTour')}
-              <svg className="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-              </svg>
-            </Link>
-            <Link
-              href={`/${locale}/map`}
-              className="inline-flex items-center justify-center px-8 py-4 bg-white text-sky-700 font-semibold rounded-full border-2 border-sky-700 hover:bg-sky-50 transition-colors duration-300 shadow-lg hover:shadow-xl"
-            >
-              {t('cta.viewMap')}
-            </Link>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }

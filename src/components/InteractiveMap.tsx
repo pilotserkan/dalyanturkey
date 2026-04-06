@@ -86,7 +86,7 @@ export default function InteractiveMap({ fullPage = false }: { fullPage?: boolea
       )}
       <div
         id={fullPage ? 'dalyan-map-full' : 'dalyan-map-mini'}
-        className={`w-full ${fullPage ? 'flex-1' : 'h-[400px] rounded-2xl'}`}
+        className={`w-full ${fullPage ? 'flex-1' : 'h-[600px] rounded-2xl'}`}
         style={{ zIndex: 0 }}
       />
     </div>

@@ -1,82 +1,107 @@
 {
   "metadata": {
-    "title": "Dalyan Turchia - Guida Turistica Ufficiale | Gite in Barca, Siti Antichi e Spiaggia di Iztuzu",
-    "description": "Scopri Dalyan, il paradiso nascosto della Turchia. Esplora le antiche rovine di Kaunos, le Tombe Rupestri Licie, l'incontaminata spiaggia di Iztuzu, i rilassanti bagni di fango e le indimenticabili gite in barca lungo il fiume Dalyan.",
-    "keywords": "Dalyan Turchia, turismo Dalyan, spiaggia Iztuzu, città antica Kaunos, Tombe Rupestri Licie, gite in barca Dalyan, bagni di fango, Caretta Caretta, fiume Dalyan, viaggio Turchia"
+    "title": "Dalyan Turchia - Guida Turistica Ufficiale | Siti Antichi, Spiaggia di Iztuzu & Informazioni di Viaggio",
+    "description": "Scopri Dalyan, il paradiso nascosto della Turchia. Esplora le antiche rovine di Kaunos, le Tombe Rupestri Licie, l'incontaminata spiaggia di Iztuzu, i rilassanti bagni di fango e il pittoresco fiume Dalyan.",
+    "keywords": "Dalyan Turchia, turismo Dalyan, spiaggia Iztuzu, città antica Kaunos, Tombe Rupestri Licie, guida viaggio Dalyan, bagni di fango, Caretta Caretta, fiume Dalyan, viaggio Turchia"
   },
   "nav": {
     "home": "Home",
     "ancientSites": "Siti Antichi",
-    "boatTours": "Gite in Barca",
+    "boatTours": "Fiume & Escursioni",
     "iztuzu": "Spiaggia di Iztuzu",
     "map": "Mappa",
-    "about": "Informazioni su Dalyan",
-    "bookNow": "Prenota Ora"
+    "about": "Informazioni su Dalyan"
   },
   "hero": {
     "title": "Benvenuti a Dalyan",
     "subtitle": "Il Paradiso Nascosto della Turchia",
     "description": "Dove la storia antica incontra la natura incontaminata. Scopri il magico fiume Dalyan, tombe rupestri millenarie, spiagge di tartarughe incontaminate e bagni di fango dalle proprietà curative.",
-    "exploreTours": "Esplora le Escursioni",
+    "exploreTours": "Esplora Dalyan",
     "discoverHistory": "Scopri la Storia",
     "watchVideo": "Guarda il Video"
   },
   "home": {
-    "featuredTitle": "Scopri Dalyan",
-    "featuredSubtitle": "Una destinazione senza tempo dove natura, storia e avventura si incontrano",
-    "ancientSitesCard": {
-      "title": "Siti Antichi",
-      "description": "Esplora l'antica città di Kaunos, vecchia di 3.000 anni, e le magnifiche Tombe Rupestri Licie scolpite nelle pareti rocciose."
+    "discover": {
+      "badge": "Esplora",
+      "title": "Scopri Dalyan",
+      "subtitle": "Una destinazione senza tempo dove natura, storia e avventura convergono nel sud-ovest della Turchia",
+      "learnMore": "Scopri di Più",
+      "ancientSites": {
+        "title": "Siti Antichi",
+        "description": "Esplora l'antica città di Kaunos, vecchia di 3.000 anni, e le magnifiche Tombe Rupestri Licie scolpite nelle pareti rocciose."
+      },
+      "boatTours": {
+        "title": "Fiume & Vie d'Acqua",
+        "description": "Naviga lungo il fiume Dalyan attraverso canali fiancheggiati da canneti per scoprire calette nascoste e meraviglie naturali."
+      },
+      "iztuzu": {
+        "title": "Spiaggia di Iztuzu",
+        "description": "Visita una delle più belle spiagge d'Europa e sito di nidificazione delle tartarughe marine Caretta Caretta, una specie in via di estinzione."
+      },
+      "mudBaths": {
+        "title": "Bagni di Fango & Sorgenti",
+        "description": "Bagni di fango termali naturali e sorgenti sulfuree conosciute per le loro proprietà curative e rigeneranti."
+      }
     },
-    "boatToursCard": {
-      "title": "Gite in Barca",
-      "description": "Naviga lungo il fiume Dalyan attraverso canali fiancheggiati da canneti per scoprire calette nascoste e meraviglie naturali."
-    },
-    "iztuuzCard": {
-      "title": "Spiaggia di Iztuzu",
-      "description": "Visita una delle più belle spiagge d'Europa e sito di nidificazione delle tartarughe marine Caretta Caretta, una specie in via di estinzione."
-    },
-    "mudBathsCard": {
-      "title": "Bagni di Fango",
-      "description": "Rigenerati nei bagni di fango termali naturali e nelle sorgenti sulfuree conosciute per le loro proprietà curative."
-    },
-    "whyDalyan": "Perché visitare Dalyan?",
-    "whyDescription": "Dalyan è una delle destinazioni più uniche della Turchia, che offre una perfetta combinazione di storia antica, natura incontaminata e autentica cultura turca. A differenza delle località turistiche affollate, Dalyan preserva il suo fascino naturale e i suoi tesori ecologici.",
     "stats": {
-      "years": "Oltre 3.000 anni di storia",
-      "beach": "4,5 km di spiaggia incontaminata",
-      "turtles": "Sito di nidificazione protetto",
-      "tours": "Gite giornaliere in barca sul fiume"
+      "title": "Perché Visitare Dalyan?",
+      "subtitle": "Dalyan offre una perfetta combinazione di storia antica, natura incontaminata e autentica cultura turca.",
+      "years": {
+        "value": "3.000+",
+        "label": "Anni di Storia"
+      },
+      "species": {
+        "value": "100+",
+        "label": "Specie Protette"
+      },
+      "river": {
+        "value": "12 km",
+        "label": "Canale Fluviale Panoramico"
+      },
+      "sun": {
+        "value": "300+",
+        "label": "Giorni di Sole / Anno"
+      }
+    },
+    "map": {
+      "badge": "Mappa Interattiva",
+      "title": "Esplora le Attrazioni di Dalyan",
+      "subtitle": "Trova tutti i punti di interesse, siti antichi, spiagge e meraviglie naturali sulla mappa interattiva.",
+      "viewFull": "Apri Mappa Completa"
     },
     "testimonials": {
-      "title": "Cosa dicono i nostri visitatori",
-      "t1": {
-        "text": "Dalyan è il luogo più bello che abbia mai visitato. La gita in barca lungo il fiume con le tombe rupestri sullo sfondo è stata mozzafiato.",
-        "author": "Sarah M.",
-        "country": "Regno Unito"
+      "badge": "Recensioni dei Viaggiatori",
+      "title": "Cosa Dicono i Visitatori",
+      "1": {
+        "quote": "Dalyan è il luogo più bello che abbia mai visitato. La gita in barca lungo il fiume con le tombe rupestri sullo sfondo è stata mozzafiato.",
+        "name": "Sarah M.",
+        "location": "Regno Unito"
       },
-      "t2": {
-        "text": "I bagni di fango sono stati molto divertenti e la spiaggia di Iztuzu è assolutamente splendida. Una meta imperdibile in Turchia.",
-        "author": "Hans W.",
-        "country": "Germania"
+      "2": {
+        "quote": "I bagni di fango sono stati molto divertenti e la spiaggia di Iztuzu è assolutamente splendida. Una meta imperdibile in Turchia.",
+        "name": "Hans W.",
+        "location": "Germania"
       },
-      "t3": {
-        "text": "Abbiamo trascorso una settimana a Dalyan e non è stata sufficiente. La storia, la natura e la cordialità della gente l'hanno resa indimenticabile.",
-        "author": "Marie L.",
-        "country": "Francia"
+      "3": {
+        "quote": "Abbiamo trascorso una settimana a Dalyan e non è stata sufficiente. La storia, la natura e la cordialità della gente l'hanno resa indimenticabile.",
+        "name": "Marie L.",
+        "location": "Francia"
       }
     }
   },
   "ancientSites": {
     "title": "Siti Antichi e Tesori Storici",
     "subtitle": "Torna indietro nel tempo ed esplora millenni di civiltà che fiorirono nella regione di Dalyan",
+    "badge": "Storia & Patrimonio",
     "kaunos": {
       "title": "Città Antica di Kaunos",
       "period": "Fondazione: X secolo a.C.",
       "description": "Kaunos è una delle città antiche più importanti della regione della Caria, fondata intorno al X secolo a.C. Situata su una suggestiva collina che domina il fiume Dalyan, questo sito archeologico rivela strati di civiltà tra cui i periodi cario, greco, romano e bizantino.",
       "highlights": "Il teatro romano splendidamente conservato con una capienza di 5.000 spettatori, l'antico porto (oggi un lago), l'acropoli con viste panoramiche, le terme romane, la basilica bizantina e le imponenti mura cittadine che si estendono lungo il pendio.",
       "visiting": "Aperto tutti i giorni. Raggiungibile in barca dal centro di Dalyan (15 minuti) o su strada. Prevedi 2-3 ore per una visita completa. Porta acqua e scarpe comode da camminata.",
-      "tip": "Visita al mattino presto o nel tardo pomeriggio per evitare il caldo e goderti la luce dorata sulle rovine."
+      "visitingInfo": "Aperto tutti i giorni tutto l'anno. Si applica biglietto d'ingresso. Raggiungibile in barca (15 min) o su strada dal centro di Dalyan. Prevedi 2-3 ore per una visita completa.",
+      "tip": "Visita al mattino presto o nel tardo pomeriggio per evitare il caldo e goderti la luce dorata sulle rovine.",
+      "proTip": "Visita al mattino presto o nel tardo pomeriggio per la luce migliore e meno folla. Porta acqua e scarpe comode."
     },
     "rockTombs": {
       "title": "Tombe Rupestri Licie",
@@ -84,7 +109,9 @@
       "description": "Le magnifiche Tombe Rupestri Licie di Dalyan sono scolpite direttamente nella parete rocciosa che sovrasta il fiume Dalyan. Risalenti al IV secolo a.C., queste tombe a forma di tempio furono create per i cittadini più illustri di Kaunos e rappresentano alcuni dei più bei esempi di architettura funeraria licia.",
       "highlights": "Sei facciate principali scolpite in stile tempio ionico, posizione spettacolare sulla scogliera visibile dal fiume, vista migliore al tramonto quando si colorano d'oro, illuminate di notte creando un'atmosfera magica.",
       "visiting": "Si ammirano al meglio da una barca sul fiume Dalyan o dalla passeggiata lungo il fiume nel centro di Dalyan. Le tombe vengono illuminate dopo il tramonto per una suggestiva contemplazione notturna.",
-      "tip": "Fai una gita in barca serale per vedere le tombe illuminate contro il cielo notturno — un'esperienza indimenticabile."
+      "visitingInfo": "Si ammirano al meglio dal fiume o dalla passeggiata fluviale. Accesso gratuito. Illuminate di notte per un'esperienza spettacolare.",
+      "tip": "Fai una gita in barca serale per vedere le tombe illuminate contro il cielo notturno — un'esperienza indimenticabile.",
+      "proTip": "Fai una gita serale per vedere le tombe illuminate contro il cielo notturno — veramente magico."
     },
     "canal": {
       "title": "Canale di Dalyan e Via d'Acqua Antica",
@@ -92,63 +119,60 @@
       "description": "Il Canale di Dalyan è una via d'acqua naturale di 12 chilometri che collega il lago Köyceğiz al Mar Mediterraneo. Questa antica rotta commerciale è stata utilizzata dalle civiltà per migliaia di anni e oggi offre una delle più suggestive crociere fluviali della Turchia, attraverso canali fiancheggiati da canneti ricchi di fauna selvatica.",
       "highlights": "12 km di canali tortuosi attraverso zone umide incontaminate, ricca avifauna che include martin pescatori e aironi, viste delle Tombe Rupestri dall'acqua, collegamento tra il lago Köyceğiz e il Mediterraneo.",
       "visiting": "Servizi regolari di barche collegano il centro di Dalyan, Kaunos, la spiaggia di Iztuzu e il lago Köyceğiz. Il canale è l'arteria principale di trasporto della regione.",
-      "tip": "Una gita in barca all'alba lungo il canale offre le migliori opportunità per l'osservazione della fauna e la fotografia."
+      "visitingInfo": "Servizi regolari di barche dal centro di Dalyan. Il canale è la via di trasporto principale che collega tutte le attrazioni principali.",
+      "tip": "Una gita in barca all'alba lungo il canale offre le migliori opportunità per l'osservazione della fauna e la fotografia.",
+      "proTip": "Una gita all'alba lungo il canale offre le migliori opportunità per l'osservazione della fauna e la fotografia."
     },
     "infoBox": {
       "period": "Periodo",
       "highlights": "Punti Salienti",
       "visiting": "Informazioni per il Visitatore",
+      "visitingInfo": "Informazioni per il Visitatore",
       "proTip": "Consiglio"
     }
   },
   "boatTours": {
-    "title": "Gite in Barca ed Escursioni",
-    "subtitle": "Vivi Dalyan dall'acqua — il modo in cui è stata pensata per essere esplorata",
-    "bookCta": "Prenota questa Escursione",
+    "title": "Percorsi Fluviali & Escursioni",
+    "subtitle": "Esplora Dalyan dall'acqua — il modo in cui è stata pensata per essere scoperta",
     "duration": "Durata",
-    "included": "Cosa è Incluso",
-    "highlights": "Punti Salienti dell'Escursione",
+    "included": "Cosa Aspettarsi",
+    "highlights": "Punti Salienti",
     "schedule": "Orari",
     "tours": {
       "river": {
-        "title": "Escursione Classica sul Fiume Dalyan",
+        "title": "Percorso Classico del Fiume Dalyan",
         "duration": "Giornata intera (10:00 - 17:00)",
         "description": "L'esperienza simbolo di Dalyan. Naviga lungo il bellissimo fiume Dalyan, visita l'antica città di Kaunos, ammira le Tombe Rupestri Licie, goditi i bagni di fango naturali e le sorgenti termali, e concludi la giornata sulla magnifica spiaggia di Iztuzu.",
-        "included": "Trasporto in barca, ingresso a Kaunos, accesso ai bagni di fango, pranzo a bordo, bevande analcoliche, attrezzatura per snorkeling",
-        "highlights": "Crociera sul fiume Dalyan tra i canneti, vista delle Tombe Rupestri Licie, visita alla città antica di Kaunos, bagni di fango naturali e sorgenti sulfuree, spiaggia di Iztuzu, soste per il bagno in acque cristalline",
-        "price": "A partire da 25 € a persona"
+        "included": "Crociera fluviale, visita alla città antica di Kaunos, vista delle Tombe Rupestri, bagni di fango, sorgenti termali, spiaggia di Iztuzu, soste per il bagno",
+        "highlights": "Crociera sul fiume Dalyan tra i canneti, vista delle Tombe Rupestri Licie, visita alla città antica di Kaunos, bagni di fango naturali e sorgenti sulfuree, spiaggia di Iztuzu, soste per il bagno in acque cristalline"
       },
       "turtle": {
-        "title": "Escursione Express Spiaggia delle Tartarughe",
+        "title": "Percorso Spiaggia delle Tartarughe",
         "duration": "Mezza giornata (10:00 - 14:00)",
-        "description": "Un'escursione più breve, perfetta per chi desidera visitare la famosa spiaggia di Iztuzu in barca. Goditi una pittoresca crociera fluviale, avvista le tartarughe Caretta Caretta nel loro habitat naturale e trascorri del tempo su una delle più belle spiagge d'Europa.",
-        "included": "Trasporto in barca, 2 ore in spiaggia, bevande analcoliche, guida per l'avvistamento delle tartarughe",
-        "highlights": "Pittoresca crociera sul fiume Dalyan, avvistamento delle tartarughe Caretta Caretta, 4,5 km di spiaggia di sabbia incontaminata, acque cristalline del Mediterraneo, vista delle Tombe Rupestri Licie lungo il percorso",
-        "price": "A partire da 15 € a persona"
+        "description": "Un percorso fluviale panoramico, perfetto per chi desidera visitare la famosa spiaggia di Iztuzu in barca. Goditi il fiume Dalyan, avvista le tartarughe Caretta Caretta nel loro habitat naturale e trascorri del tempo su una delle più belle spiagge d'Europa.",
+        "included": "Crociera fluviale panoramica, avvistamento tartarughe, accesso a 4,5 km di spiaggia, vista delle Tombe Rupestri lungo il percorso",
+        "highlights": "Pittoresca crociera sul fiume Dalyan, avvistamento delle tartarughe Caretta Caretta, 4,5 km di spiaggia di sabbia incontaminata, acque cristalline del Mediterraneo, vista delle Tombe Rupestri Licie lungo il percorso"
       },
       "mud": {
-        "title": "Escursione Bagni di Fango e Sorgenti Termali",
+        "title": "Bagni di Fango & Sorgenti Termali",
         "duration": "Mezza giornata (09:00 - 13:00)",
         "description": "Scopri i famosi bagni di fango e le sorgenti termali sulfuree di Dalyan, rinomati per le loro proprietà rigeneranti e curative. Ricopriti di fango ricco di minerali, asciugati al sole, poi risciacquati nelle calde piscine termali.",
-        "included": "Trasporto in barca, accesso ai bagni di fango, accesso alle sorgenti termali, asciugamani, rinfreschi",
-        "highlights": "Piscine di fango naturale ricco di minerali, sorgenti termali sulfuree calde (39°C), trattamento rigenerante per la pelle, rilassante crociera fluviale, splendido paesaggio naturale",
-        "price": "A partire da 15 € a persona"
+        "included": "Crociera fluviale, bagni di fango, sorgenti termali (39°C), piscine di minerali naturali, paesaggio panoramico",
+        "highlights": "Piscine di fango naturale ricco di minerali, sorgenti termali sulfuree calde (39°C), trattamento rigenerante per la pelle, rilassante crociera fluviale, splendido paesaggio naturale"
       },
       "moonlight": {
         "title": "Crociera al Chiaro di Luna",
         "duration": "Serata (20:00 - 23:00)",
-        "description": "Una magica crociera serale lungo il fiume Dalyan sotto le stelle. Ammira le Tombe Rupestri Licie splendidamente illuminate contro il cielo notturno, gustati una cena a bordo e vivi la tranquilla bellezza di Dalyan dopo il tramonto.",
-        "included": "Crociera serale, cena a bordo, bevande, musica dal vivo (stagionale), vista delle tombe illuminate",
-        "highlights": "Tombe Rupestri Licie illuminate, crociera sotto le stelle, cena a bordo con cucina locale, musica turca dal vivo (stagionale), magica atmosfera serale",
-        "price": "A partire da 30 € a persona"
+        "description": "Una magica crociera serale lungo il fiume Dalyan sotto le stelle. Ammira le Tombe Rupestri Licie splendidamente illuminate contro il cielo notturno e vivi la tranquilla bellezza di Dalyan dopo il tramonto.",
+        "included": "Crociera fluviale serale, vista delle Tombe Rupestri illuminate, atmosfera stellata, opzioni di cucina locale lungo il fiume",
+        "highlights": "Tombe Rupestri Licie illuminate, crociera sotto le stelle, opzioni di ristorazione lungo il fiume, musica turca dal vivo (stagionale), magica atmosfera serale"
       },
       "discovery": {
         "title": "Scoperta Completa di Dalyan",
         "duration": "Giornata intera (09:00 - 18:00)",
-        "description": "L'esperienza definitiva di Dalyan che combina tutte le principali attrazioni in un'escursione completa. Visita la città antica di Kaunos, le Tombe Rupestri, i bagni di fango, le sorgenti termali, il lago Köyceğiz e la spiaggia di Iztuzu — perfetta per chi visita per la prima volta.",
-        "included": "Tutti gli ingressi inclusi, pranzo e bevande, bagni di fango, sorgenti termali, attrezzatura per snorkeling, guida professionale",
-        "highlights": "Esperienza completa di Dalyan in un giorno, visita guidata alla città antica di Kaunos, Tombe Rupestri Licie, bagni di fango naturali e sorgenti termali, lago Köyceğiz, spiaggia di Iztuzu, guida professionale in italiano",
-        "price": "A partire da 40 € a persona"
+        "description": "L'esperienza definitiva di Dalyan che combina tutte le principali attrazioni in un percorso completo. Visita la città antica di Kaunos, le Tombe Rupestri, i bagni di fango, le sorgenti termali, il lago Köyceğiz e la spiaggia di Iztuzu — perfetta per chi visita per la prima volta e vuole vedere tutto.",
+        "included": "Tutti i siti principali, città antica di Kaunos, Tombe Rupestri, bagni di fango, sorgenti termali, lago Köyceğiz, spiaggia di Iztuzu",
+        "highlights": "Esperienza completa di Dalyan in un giorno, visita guidata alla città antica di Kaunos, Tombe Rupestri Licie, bagni di fango naturali e sorgenti termali, lago Köyceğiz, spiaggia di Iztuzu"
       }
     }
   },
@@ -192,12 +216,12 @@
   },
   "map": {
     "title": "Mappa Turistica Interattiva",
-    "subtitle": "Esplora tutte le attrazioni, le escursioni e i punti di interesse di Dalyan",
+    "subtitle": "Esplora tutte le attrazioni e i punti di interesse di Dalyan",
     "filters": {
       "all": "Tutto",
       "ancient": "Siti Antichi",
       "beaches": "Spiagge",
-      "tours": "Tappe delle Escursioni",
+      "tours": "Punti di Interesse",
       "dining": "Ristoranti",
       "nature": "Natura"
     },

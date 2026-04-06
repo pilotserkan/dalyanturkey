@@ -112,24 +112,6 @@ export default function BoatToursPage() {
                       </div>
                     </div>
 
-                    {/* Price & CTA */}
-                    <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between pt-6 border-t border-gray-200 gap-4">
-                      <span className="text-2xl font-bold text-gray-900">
-                        {t(`tours.${key}.price`)}
-                      </span>
-                      <button
-                        type="button"
-                        className={`px-8 py-3 rounded-xl font-semibold text-white shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${
-                          key === 'river' ? 'bg-blue-600 hover:bg-blue-700' :
-                          key === 'turtle' ? 'bg-green-600 hover:bg-green-700' :
-                          key === 'mud' ? 'bg-amber-600 hover:bg-amber-700' :
-                          key === 'moonlight' ? 'bg-indigo-600 hover:bg-indigo-700' :
-                          'bg-rose-600 hover:bg-rose-700'
-                        }`}
-                      >
-                        {t('bookCta')}
-                      </button>
-                    </div>
                   </div>
                 </div>
               </div>

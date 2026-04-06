@@ -1,82 +1,107 @@
 {
   "metadata": {
-    "title": "Dalyan Türkei – Offizieller Reiseführer | Bootstouren, antike Stätten & Iztuzu-Strand",
-    "description": "Entdecken Sie Dalyan, das verborgene Paradies der Türkei. Erkunden Sie die antike Stadt Kaunos, lykische Felsengräber, den unberührten Iztuzu-Schildkrötenstrand, entspannende Schlammbäder und unvergessliche Bootstouren entlang des Dalyan-Flusses.",
-    "keywords": "Dalyan Türkei, Dalyan Tourismus, Iztuzu Strand, Kaunos antike Stadt, lykische Felsengräber, Dalyan Bootstouren, Schlammbäder, Caretta Caretta, Dalyan Fluss, Türkei Reise"
+    "title": "Dalyan Türkei – Offizieller Reiseführer | Antike Stätten, Iztuzu-Strand & Reiseinfos",
+    "description": "Entdecken Sie Dalyan, das verborgene Paradies der Türkei. Erkunden Sie die antike Stadt Kaunos, lykische Felsengräber, den unberührten Iztuzu-Schildkrötenstrand, entspannende Schlammbäder und den malerischen Dalyan-Fluss.",
+    "keywords": "Dalyan Türkei, Dalyan Tourismus, Iztuzu Strand, Kaunos antike Stadt, lykische Felsengräber, Dalyan Reiseführer, Schlammbäder, Caretta Caretta, Dalyan Fluss, Türkei Reise"
   },
   "nav": {
     "home": "Startseite",
     "ancientSites": "Antike Stätten",
-    "boatTours": "Bootstouren",
+    "boatTours": "Fluss & Touren",
     "iztuzu": "Iztuzu-Strand",
     "map": "Karte",
-    "about": "Über Dalyan",
-    "bookNow": "Jetzt buchen"
+    "about": "Über Dalyan"
   },
   "hero": {
     "title": "Willkommen in Dalyan",
     "subtitle": "Das verborgene Paradies der Türkei",
     "description": "Wo antike Geschichte auf unberührte Natur trifft. Entdecken Sie den zauberhaften Dalyan-Fluss, jahrtausendealte Felsengräber, unberührte Schildkrötenstrände und heilende Schlammbäder.",
-    "exploreTours": "Touren entdecken",
+    "exploreTours": "Dalyan entdecken",
     "discoverHistory": "Geschichte erleben",
     "watchVideo": "Video ansehen"
   },
   "home": {
-    "featuredTitle": "Dalyan entdecken",
-    "featuredSubtitle": "Ein zeitloses Reiseziel, an dem Natur, Geschichte und Abenteuer aufeinandertreffen",
-    "ancientSitesCard": {
-      "title": "Antike Stätten",
-      "description": "Erkunden Sie die 3.000 Jahre alte antike Stadt Kaunos und die prächtigen lykischen Felsengräber, die in steile Felswände gehauen wurden."
+    "discover": {
+      "badge": "Entdecken",
+      "title": "Dalyan entdecken",
+      "subtitle": "Ein zeitloses Reiseziel, an dem Natur, Geschichte und Abenteuer im Südwesten der Türkei aufeinandertreffen",
+      "learnMore": "Mehr erfahren",
+      "ancientSites": {
+        "title": "Antike Stätten",
+        "description": "Erkunden Sie die 3.000 Jahre alte antike Stadt Kaunos und die prächtigen lykischen Felsengräber, die in steile Felswände gehauen wurden."
+      },
+      "boatTours": {
+        "title": "Fluss & Wasserwege",
+        "description": "Fahren Sie entlang des Dalyan-Flusses durch schilfgesäumte Kanäle und entdecken Sie versteckte Buchten und Naturwunder."
+      },
+      "iztuzu": {
+        "title": "Iztuzu-Strand",
+        "description": "Besuchen Sie einen der schönsten Strände Europas und den Nistplatz der vom Aussterben bedrohten Caretta-Caretta-Meeresschildkröten."
+      },
+      "mudBaths": {
+        "title": "Schlammbäder & Quellen",
+        "description": "Natürliche Thermal-Schlammbäder und Schwefelquellen, die für ihre heilenden und verjüngenden Eigenschaften bekannt sind."
+      }
     },
-    "boatToursCard": {
-      "title": "Bootstouren",
-      "description": "Fahren Sie entlang des Dalyan-Flusses durch schilfgesäumte Kanäle und entdecken Sie versteckte Buchten und Naturwunder."
-    },
-    "iztuuzCard": {
-      "title": "Iztuzu-Strand",
-      "description": "Besuchen Sie einen der schönsten Strände Europas und den Nistplatz der vom Aussterben bedrohten Caretta-Caretta-Meeresschildkröten."
-    },
-    "mudBathsCard": {
-      "title": "Schlammbäder",
-      "description": "Regenerieren Sie sich in natürlichen Thermal-Schlammbädern und Schwefelquellen, die für ihre heilenden Eigenschaften bekannt sind."
-    },
-    "whyDalyan": "Warum Dalyan besuchen?",
-    "whyDescription": "Dalyan ist eines der einzigartigsten Reiseziele der Türkei und bietet eine perfekte Mischung aus antiker Geschichte, unberührter Natur und authentischer türkischer Kultur. Anders als überfüllte Touristenorte bewahrt Dalyan seinen natürlichen Charme und seine ökologischen Schätze.",
     "stats": {
-      "years": "Über 3.000 Jahre Geschichte",
-      "beach": "4,5 km unberührter Strand",
-      "turtles": "Geschützter Schildkröten-Nistplatz",
-      "tours": "Tägliche Fluss-Bootstouren"
+      "title": "Warum Dalyan besuchen?",
+      "subtitle": "Dalyan bietet eine perfekte Mischung aus antiker Geschichte, unberührter Natur und authentischer türkischer Kultur.",
+      "years": {
+        "value": "3.000+",
+        "label": "Jahre Geschichte"
+      },
+      "species": {
+        "value": "100+",
+        "label": "Geschützte Arten"
+      },
+      "river": {
+        "value": "12 km",
+        "label": "Malerischer Flusskanal"
+      },
+      "sun": {
+        "value": "300+",
+        "label": "Sonnentage / Jahr"
+      }
+    },
+    "map": {
+      "badge": "Interaktive Karte",
+      "title": "Dalyans Sehenswürdigkeiten erkunden",
+      "subtitle": "Finden Sie alle Sehenswürdigkeiten, antike Stätten, Strände und Naturwunder auf der interaktiven Karte.",
+      "viewFull": "Vollständige Karte öffnen"
     },
     "testimonials": {
+      "badge": "Reisebewertungen",
       "title": "Was Besucher sagen",
-      "t1": {
-        "text": "Dalyan ist der schönste Ort, den ich je besucht habe. Die Bootsfahrt auf dem Fluss mit den Felsengräbern im Hintergrund war atemberaubend.",
-        "author": "Sarah M.",
-        "country": "Vereinigtes Königreich"
+      "1": {
+        "quote": "Dalyan ist der schönste Ort, den ich je besucht habe. Die Bootsfahrt auf dem Fluss mit den Felsengräbern im Hintergrund war atemberaubend.",
+        "name": "Sarah M.",
+        "location": "Vereinigtes Königreich"
       },
-      "t2": {
-        "text": "Die Schlammbäder haben so viel Spaß gemacht, und der Iztuzu-Strand ist absolut beeindruckend. Ein Muss in der Türkei.",
-        "author": "Hans W.",
-        "country": "Deutschland"
+      "2": {
+        "quote": "Die Schlammbäder haben so viel Spaß gemacht, und der Iztuzu-Strand ist absolut beeindruckend. Ein Muss in der Türkei.",
+        "name": "Hans W.",
+        "location": "Deutschland"
       },
-      "t3": {
-        "text": "Wir haben eine Woche in Dalyan verbracht und es war nicht genug. Die Geschichte, die Natur und die freundlichen Menschen machten es unvergesslich.",
-        "author": "Marie L.",
-        "country": "Frankreich"
+      "3": {
+        "quote": "Wir haben eine Woche in Dalyan verbracht und es war nicht genug. Die Geschichte, die Natur und die freundlichen Menschen machten es unvergesslich.",
+        "name": "Marie L.",
+        "location": "Frankreich"
       }
     }
   },
   "ancientSites": {
     "title": "Antike Stätten & historische Schätze",
     "subtitle": "Reisen Sie in die Vergangenheit und erkunden Sie Jahrtausende an Zivilisationen, die in der Region Dalyan blühten",
+    "badge": "Geschichte & Kulturerbe",
     "kaunos": {
       "title": "Antike Stadt Kaunos",
       "period": "Gründung: 10. Jahrhundert v. Chr.",
       "description": "Kaunos ist eine der bedeutendsten antiken Städte der Region Karien und wurde um das 10. Jahrhundert v. Chr. gegründet. Auf einer dramatischen Anhöhe über dem Dalyan-Fluss gelegen, offenbart diese archäologische Stätte Schichten von Zivilisationen, darunter karische, griechische, römische und byzantinische Epochen.",
       "highlights": "Das gut erhaltene römische Theater mit Platz für 5.000 Zuschauer, der antike Hafen (heute ein See), die Akropolis mit Panoramablick, römische Bäder, eine byzantinische Basilika und beeindruckende Stadtmauern, die sich den Hügel entlangziehen.",
       "visiting": "Täglich geöffnet. Erreichbar per Boot vom Stadtzentrum Dalyan (15 Minuten) oder über die Straße. Planen Sie 2–3 Stunden für eine ausführliche Besichtigung ein. Bringen Sie Wasser und bequeme Wanderschuhe mit.",
-      "tip": "Besuchen Sie die Stätte am frühen Morgen oder späten Nachmittag, um die Hitze zu vermeiden und das goldene Licht auf den Ruinen zu genießen."
+      "visitingInfo": "Täglich ganzjährig geöffnet. Eintritt kostenpflichtig. Erreichbar per Boot (15 Min.) oder über die Straße vom Zentrum Dalyans. Planen Sie 2–3 Stunden für eine ausführliche Besichtigung.",
+      "tip": "Besuchen Sie die Stätte am frühen Morgen oder späten Nachmittag, um die Hitze zu vermeiden und das goldene Licht auf den Ruinen zu genießen.",
+      "proTip": "Besuchen Sie die Stätte am frühen Morgen oder späten Nachmittag für das beste Licht und weniger Besucher. Bringen Sie Wasser und bequeme Schuhe mit."
     },
     "rockTombs": {
       "title": "Lykische Felsengräber",
@@ -84,7 +109,9 @@
       "description": "Die prächtigen lykischen Felsengräber von Dalyan sind direkt in die steile Felswand über dem Dalyan-Fluss gehauen. Sie stammen aus dem 4. Jahrhundert v. Chr. und wurden als tempelartige Gräber für die Elite von Kaunos geschaffen. Sie gehören zu den schönsten Beispielen lykischer Grabarchitektur.",
       "highlights": "Sechs große Grabfassaden im ionischen Tempelstil, dramatische Felswandlage vom Fluss aus sichtbar, am besten bei Sonnenuntergang zu bewundern, wenn sie golden leuchten, nachts beleuchtet für eine magische Atmosphäre.",
       "visiting": "Am besten von einem Boot auf dem Dalyan-Fluss oder von der Uferpromenade der Stadt Dalyan aus zu betrachten. Die Gräber werden nach Einbruch der Dunkelheit für eine eindrucksvolle Nachtbesichtigung beleuchtet.",
-      "tip": "Unternehmen Sie eine abendliche Bootsfahrt, um die Gräber vor dem Nachthimmel beleuchtet zu sehen — ein unvergessliches Erlebnis."
+      "visitingInfo": "Am besten vom Fluss oder der Uferpromenade zu betrachten. Kostenlos zu besichtigen. Nachts beleuchtet für ein spektakuläres Erlebnis.",
+      "tip": "Unternehmen Sie eine abendliche Bootsfahrt, um die Gräber vor dem Nachthimmel beleuchtet zu sehen — ein unvergessliches Erlebnis.",
+      "proTip": "Unternehmen Sie eine abendliche Fahrt, um die beleuchteten Gräber vor dem Nachthimmel zu sehen — wirklich magisch."
     },
     "canal": {
       "title": "Dalyan-Kanal & antiker Wasserweg",
@@ -92,63 +119,60 @@
       "description": "Der Dalyan-Kanal ist ein 12 Kilometer langer natürlicher Wasserweg, der den Köyceğiz-See mit dem Mittelmeer verbindet. Diese antike Handelsroute wurde seit Jahrtausenden von Zivilisationen genutzt und bietet heute eine der landschaftlich schönsten Bootsfahrten der Türkei durch schilfgesäumte Kanäle voller Wildtiere.",
       "highlights": "12 km gewundene Wasserwege durch unberührte Feuchtgebiete, reiche Vogelwelt mit Eisvögeln und Reihern, Blick auf die Felsengräber vom Wasser aus, Verbindung zum Köyceğiz-See und zum Mittelmeer.",
       "visiting": "Regelmäßige Bootsdienste verkehren zwischen der Stadt Dalyan, Kaunos, dem Iztuzu-Strand und dem Köyceğiz-See. Der Kanal ist die Hauptverkehrsader der Region.",
-      "tip": "Eine Bootsfahrt bei Sonnenaufgang durch den Kanal bietet die besten Möglichkeiten zur Wildtierbeobachtung und Fotografie."
+      "visitingInfo": "Regelmäßige Bootsdienste ab der Stadt Dalyan verfügbar. Der Kanal ist die Hauptverkehrsroute, die alle wichtigen Sehenswürdigkeiten verbindet.",
+      "tip": "Eine Bootsfahrt bei Sonnenaufgang durch den Kanal bietet die besten Möglichkeiten zur Wildtierbeobachtung und Fotografie.",
+      "proTip": "Eine Fahrt bei Sonnenaufgang durch den Kanal bietet die besten Möglichkeiten zur Wildtierbeobachtung und Fotografie."
     },
     "infoBox": {
       "period": "Epoche",
       "highlights": "Wichtige Highlights",
       "visiting": "Besucherinformationen",
+      "visitingInfo": "Besucherinformationen",
       "proTip": "Profi-Tipp"
     }
   },
   "boatTours": {
-    "title": "Bootstouren & Ausflüge",
-    "subtitle": "Erleben Sie Dalyan vom Wasser aus — so wie es entdeckt werden sollte",
-    "bookCta": "Diese Tour buchen",
+    "title": "Flussrouten & Ausflüge",
+    "subtitle": "Erkunden Sie Dalyan vom Wasser aus — so wie es entdeckt werden sollte",
     "duration": "Dauer",
-    "included": "Im Preis inbegriffen",
-    "highlights": "Tour-Highlights",
+    "included": "Was Sie erwartet",
+    "highlights": "Highlights",
     "schedule": "Zeitplan",
     "tours": {
       "river": {
-        "title": "Dalyan Fluss Klassik-Tour",
+        "title": "Dalyan Fluss Klassik-Route",
         "duration": "Ganztägig (10:00 – 17:00)",
         "description": "Das Dalyan-Erlebnis schlechthin. Fahren Sie entlang des wunderschönen Dalyan-Flusses, besuchen Sie die antike Stadt Kaunos, bestaunen Sie die lykischen Felsengräber, genießen Sie natürliche Schlammbäder und Thermalquellen und beenden Sie den Tag am herrlichen Iztuzu-Strand.",
-        "included": "Bootstransport, Eintritt Kaunos, Zugang Schlammbäder, Mittagessen an Bord, Softdrinks, Schnorchelausrüstung",
-        "highlights": "Dalyan-Flussfahrt durch Schilfkanäle, Besichtigung der lykischen Felsengräber, Besuch der antiken Stadt Kaunos, natürliche Schlammbäder und Schwefelquellen, Iztuzu-Schildkrötenstrand, Badestopps in kristallklarem Wasser",
-        "price": "Ab 25 € pro Person"
+        "included": "Flussfahrt, Besuch der antiken Stadt Kaunos, Besichtigung der Felsengräber, Schlammbäder, Thermalquellen, Iztuzu-Strand, Badestopps",
+        "highlights": "Dalyan-Flussfahrt durch Schilfkanäle, Besichtigung der lykischen Felsengräber, Besuch der antiken Stadt Kaunos, natürliche Schlammbäder und Schwefelquellen, Iztuzu-Schildkrötenstrand, Badestopps in kristallklarem Wasser"
       },
       "turtle": {
-        "title": "Schildkrötenstrand Express",
+        "title": "Schildkrötenstrand-Route",
         "duration": "Halbtägig (10:00 – 14:00)",
-        "description": "Ein kürzerer Ausflug, ideal für alle, die den berühmten Iztuzu-Strand per Boot besuchen möchten. Genießen Sie eine malerische Flussfahrt, beobachten Sie Caretta-Caretta-Schildkröten in ihrem natürlichen Lebensraum und verbringen Sie Zeit an einem der schönsten Strände Europas.",
-        "included": "Bootstransport, 2 Stunden Strandzeit, Softdrinks, Schildkröten-Beobachtungsführer",
-        "highlights": "Malerische Dalyan-Flussfahrt, Caretta-Caretta-Schildkrötenbeobachtung, 4,5 km unberührter Sandstrand, kristallklares Mittelmeerwasser, Blick auf die lykischen Felsengräber unterwegs",
-        "price": "Ab 15 € pro Person"
+        "description": "Eine malerische Flussroute, ideal für alle, die den berühmten Iztuzu-Strand per Boot besuchen möchten. Genießen Sie die malerische Dalyan-Flussfahrt, beobachten Sie Caretta-Caretta-Schildkröten in ihrem natürlichen Lebensraum und verbringen Sie Zeit an einem der schönsten Strände Europas.",
+        "included": "Malerische Flussfahrt, Schildkrötenbeobachtung, 4,5 km Strandzugang, Besichtigung der Felsengräber unterwegs",
+        "highlights": "Malerische Dalyan-Flussfahrt, Caretta-Caretta-Schildkrötenbeobachtung, 4,5 km unberührter Sandstrand, kristallklares Mittelmeerwasser, Blick auf die lykischen Felsengräber unterwegs"
       },
       "mud": {
-        "title": "Schlammbad- & Thermalquellen-Tour",
+        "title": "Schlammbad & Thermalquellen",
         "duration": "Halbtägig (09:00 – 13:00)",
         "description": "Entdecken Sie die berühmten Dalyan-Schlammbäder und Schwefel-Thermalquellen, die für ihre verjüngenden und heilenden Eigenschaften bekannt sind. Bedecken Sie sich mit mineralreichem Schlamm, trocknen Sie in der Sonne und spülen Sie sich in heißen Thermalbecken ab.",
-        "included": "Bootstransport, Zugang Schlammbäder, Zugang Thermalquellen, Handtücher, Erfrischungen",
-        "highlights": "Natürliche mineralreiche Schlammbecken, heiße Schwefel-Thermalquellen (39 °C), Hautverjüngungsbehandlung, entspannende Flussfahrt, wunderschöne Naturkulisse",
-        "price": "Ab 15 € pro Person"
+        "included": "Flussfahrt, Schlammbäder, Thermalquellen (39 °C), natürliche Mineralbecken, malerische Umgebung",
+        "highlights": "Natürliche mineralreiche Schlammbecken, heiße Schwefel-Thermalquellen (39 °C), Hautverjüngungsbehandlung, entspannende Flussfahrt, wunderschöne Naturkulisse"
       },
       "moonlight": {
         "title": "Mondschein-Flussfahrt",
         "duration": "Abends (20:00 – 23:00)",
-        "description": "Eine zauberhafte abendliche Bootsfahrt auf dem Dalyan-Fluss unter dem Sternenhimmel. Bewundern Sie die wunderschön beleuchteten lykischen Felsengräber vor dem Nachthimmel, genießen Sie ein Abendessen an Bord und erleben Sie die ruhige Schönheit von Dalyan nach Einbruch der Dunkelheit.",
-        "included": "Abendliche Bootsfahrt, Abendessen an Bord, Getränke, Live-Musik (saisonal), beleuchtete Gräberbesichtigung",
-        "highlights": "Beleuchtete lykische Felsengräber, Flussfahrt unter Sternen, Abendessen an Bord mit lokaler Küche, Live-Musik mit türkischer Musik (saisonal), magische Abendatmosphäre",
-        "price": "Ab 30 € pro Person"
+        "description": "Eine zauberhafte abendliche Bootsfahrt auf dem Dalyan-Fluss unter dem Sternenhimmel. Bewundern Sie die wunderschön beleuchteten lykischen Felsengräber vor dem Nachthimmel und erleben Sie die ruhige Schönheit von Dalyan nach Einbruch der Dunkelheit.",
+        "included": "Abendliche Flussfahrt, Besichtigung der beleuchteten Felsengräber, Atmosphäre unter Sternen, lokale Küche entlang des Flusses",
+        "highlights": "Beleuchtete lykische Felsengräber, Flussfahrt unter Sternen, lokale Restaurants am Flussufer, Live-Musik mit türkischer Musik (saisonal), magische Abendatmosphäre"
       },
       "discovery": {
         "title": "Ganztägige Dalyan-Entdeckungstour",
         "duration": "Ganztägig (09:00 – 18:00)",
-        "description": "Das ultimative Dalyan-Erlebnis, das alle wichtigen Sehenswürdigkeiten in einer umfassenden Tour vereint. Besuchen Sie die antike Stadt Kaunos, die Felsengräber, Schlammbäder, Thermalquellen, den Köyceğiz-See und den Iztuzu-Strand — perfekt für Erstbesucher.",
-        "included": "Alle Eintrittsgelder, Mittagessen und Getränke, Schlammbäder, Thermalquellen, Schnorchelausrüstung, professioneller Reiseführer",
-        "highlights": "Komplettes Dalyan-Erlebnis an einem Tag, geführte Tour durch die antike Stadt Kaunos, lykische Felsengräber, natürliche Schlammbäder und Thermalquellen, Köyceğiz-See, Iztuzu-Schildkrötenstrand, professioneller deutschsprachiger Reiseführer",
-        "price": "Ab 40 € pro Person"
+        "description": "Das ultimative Dalyan-Erlebnis, das alle wichtigen Sehenswürdigkeiten in einer umfassenden Route vereint. Besuchen Sie die antike Stadt Kaunos, die Felsengräber, Schlammbäder, Thermalquellen, den Köyceğiz-See und den Iztuzu-Strand — perfekt für Erstbesucher, die alles sehen möchten.",
+        "included": "Alle wichtigen Sehenswürdigkeiten, antike Stadt Kaunos, Felsengräber, Schlammbäder, Thermalquellen, Köyceğiz-See, Iztuzu-Strand",
+        "highlights": "Komplettes Dalyan-Erlebnis an einem Tag, geführte Tour durch die antike Stadt Kaunos, lykische Felsengräber, natürliche Schlammbäder und Thermalquellen, Köyceğiz-See, Iztuzu-Schildkrötenstrand"
       }
     }
   },
@@ -192,12 +216,12 @@
   },
   "map": {
     "title": "Interaktive Tourismuskarte",
-    "subtitle": "Entdecken Sie alle Sehenswürdigkeiten, Touren und interessanten Orte in Dalyan",
+    "subtitle": "Entdecken Sie alle Sehenswürdigkeiten und interessanten Orte in Dalyan",
     "filters": {
       "all": "Alle",
       "ancient": "Antike Stätten",
       "beaches": "Strände",
-      "tours": "Tourstopps",
+      "tours": "Sehenswürdigkeiten",
       "dining": "Gastronomie",
       "nature": "Natur"
     },
