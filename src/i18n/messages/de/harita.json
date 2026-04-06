@@ -1,0 +1,101 @@
+{
+  "harita": {
+    "title": "Interactive Map of Dalyan",
+    "subtitle": "Explore Every Corner of Dalyan",
+    "heroDescription": "Use our interactive map to discover all of Dalyan's attractions, landmarks, beaches, restaurants, and essential services. Filter by category to plan your perfect visit.",
+    "filters": {
+      "all": "All",
+      "attractions": "Attractions",
+      "beaches": "Beaches",
+      "historical": "Historical Sites",
+      "nature": "Nature",
+      "wellness": "Wellness & Spas",
+      "restaurants": "Restaurants & Cafes",
+      "hotels": "Hotels & Accommodation",
+      "services": "Services",
+      "transport": "Transport",
+      "shopping": "Shopping",
+      "tours": "Tour Departures"
+    },
+    "controls": {
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "resetView": "Reset View",
+      "fullscreen": "Fullscreen",
+      "myLocation": "My Location",
+      "layers": "Map Layers",
+      "satellite": "Satellite",
+      "terrain": "Terrain",
+      "standard": "Standard"
+    },
+    "pois": {
+      "kaunos": {
+        "name": "Kaunos Ancient City",
+        "description": "One of the most important ancient cities of Caria, founded in the 10th century BCE. Features a well-preserved theater, temple ruins, Roman baths, and the city acropolis with panoramic views over the Dalyan Delta."
+      },
+      "rockTombs": {
+        "name": "Lycian Rock Tombs",
+        "description": "Magnificent temple-style tombs carved into the sheer cliff face overlooking the Dalyan River. Dating to the 4th century BCE, these tombs are among the most photographed landmarks in southwestern Turkey."
+      },
+      "iztuzu": {
+        "name": "Iztuzu Beach",
+        "description": "A pristine 4.5-kilometer sand spit separating the Dalyan River Delta from the Mediterranean Sea. This protected beach serves as a critical nesting site for endangered Caretta Caretta (loggerhead) sea turtles."
+      },
+      "mudBaths": {
+        "name": "Dalyan Mud Baths",
+        "description": "Natural mineral mud pools and adjacent thermal springs on the shore of Lake Koycegiz. Known for their skin-rejuvenating properties and legendary association with Cleopatra."
+      },
+      "sultaniye": {
+        "name": "Sultaniye Hot Springs",
+        "description": "Geothermal springs flowing at 39 degrees Celsius on the southwestern shore of Lake Koycegiz. Rich in sulfur, calcium, and magnesium minerals with documented therapeutic benefits."
+      },
+      "dalyanRiver": {
+        "name": "Dalyan River & Canal",
+        "description": "A 12-kilometer scenic waterway connecting Lake Koycegiz to the Mediterranean Sea. The reed-lined channels are home to diverse birdlife and provide the main route for boat tours to the area's attractions."
+      },
+      "koycegizLake": {
+        "name": "Lake Koycegiz",
+        "description": "A large freshwater lake north of Dalyan town, surrounded by mountains and pine forests. The lake supports a rich ecosystem and offers opportunities for swimming, fishing, and kayaking."
+      },
+      "turtleHospital": {
+        "name": "Sea Turtle Research Center (DEKAMER)",
+        "description": "A rescue and rehabilitation center for injured sea turtles located near Iztuzu Beach. Visitors can learn about conservation efforts and observe turtles being treated before their return to the wild."
+      },
+      "boatCooperative": {
+        "name": "Dalyan Boat Cooperative",
+        "description": "The main departure point for river boat tours in the center of Dalyan town. The cooperative operates daily scheduled services to Iztuzu Beach, Kaunos, the mud baths, and Lake Koycegiz."
+      },
+      "townCenter": {
+        "name": "Dalyan Town Center",
+        "description": "The charming heart of Dalyan with riverside promenades, restaurants, shops, and cafes. The main street (Maras Caddesi) runs parallel to the river and is the social hub of the town."
+      },
+      "mosqueMosque": {
+        "name": "Dalyan Mosque",
+        "description": "The central mosque of Dalyan town, located near the main market area. A local landmark and gathering point."
+      },
+      "market": {
+        "name": "Dalyan Saturday Market",
+        "description": "A vibrant weekly market held every Saturday morning in the town center. Local farmers sell fresh produce, olives, honey, spices, textiles, and handcrafted goods."
+      },
+      "ekincik": {
+        "name": "Ekincik Bay",
+        "description": "A sheltered bay approximately 30 kilometers south of Dalyan, known for its turquoise waters and access to the Blue Cave. A popular destination for day trips by boat or road."
+      },
+      "calbis": {
+        "name": "Calbis Beach",
+        "description": "A quiet pebble beach along the Dalyan coast, reachable by boat. Popular with visitors seeking a more secluded alternative to Iztuzu Beach."
+      }
+    },
+    "popup": {
+      "getDirections": "Get Directions",
+      "moreInfo": "More Information",
+      "openInMaps": "Open in Google Maps",
+      "category": "Category",
+      "distance": "Distance from town center"
+    },
+    "emptyState": {
+      "title": "No results found",
+      "description": "Try adjusting your filters or zooming out to see more locations on the map."
+    }
+  }
+}

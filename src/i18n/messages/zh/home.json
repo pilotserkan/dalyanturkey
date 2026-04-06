@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Welcome to Dalyan",
+    "subtitle": "Turkey's Hidden Paradise",
+    "description": "Where ancient history meets untouched nature \u2014 discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
+    "exploreCta": "Explore Dalyan",
+    "discoverCta": "Discover History"
+  },
+  "home": {
+    "hubs": {
+      "title": "Discover Dalyan",
+      "subtitle": "A timeless destination where nature, history, and adventure converge"
+    },
+    "stats": {
+      "title": "Why Visit Dalyan?",
+      "subtitle": "A rare corner of Turkey where 3,000 years of civilisation blend seamlessly with protected nature",
+      "years": { "value": "3,000+", "label": "Years of History" },
+      "species": { "value": "180+", "label": "Bird Species" },
+      "river": { "value": "12 km", "label": "Scenic Canal" },
+      "sun": { "value": "300+", "label": "Sunny Days/Year" }
+    },
+    "testimonials": {
+      "title": "What Travelers Say",
+      "1": {
+        "quote": "We took the river boat past the rock tombs at sunset and it was genuinely breathtaking. Dalyan feels like a secret the rest of the world hasn't found yet.",
+        "name": "Sarah M.",
+        "location": "United Kingdom"
+      },
+      "2": {
+        "quote": "The combination of ancient ruins, thermal springs and unspoiled beaches is unlike anything else in the Mediterranean. We keep coming back every summer.",
+        "name": "Hans W.",
+        "location": "Germany"
+      },
+      "3": {
+        "quote": "Watching a Caretta Caretta turtle swim alongside our boat was a once-in-a-lifetime moment. Dalyan is a paradise for nature lovers and families alike.",
+        "name": "Marie L.",
+        "location": "France"
+      }
+    }
+  }
+}

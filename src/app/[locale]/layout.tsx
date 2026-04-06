@@ -2,8 +2,8 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing, locales } from '@/i18n/routing';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
 
 type Props = {
   children: React.ReactNode;
@@ -15,7 +15,7 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: { locale: string } }) {
-  const t = await getTranslations({ locale: params.locale, namespace: 'metadata' });
+  const t = await getTranslations({ locale: params.locale, namespace: 'metadata.home' });
 
   const alternateLanguages: Record<string, string> = {};
   for (const loc of locales) {
@@ -25,7 +25,6 @@ export async function generateMetadata({ params }: { params: { locale: string } 
   return {
     title: t('title'),
     description: t('description'),
-    keywords: t('keywords'),
     alternates: {
       canonical: `https://dalyanturkey.com/${params.locale}`,
       languages: alternateLanguages,

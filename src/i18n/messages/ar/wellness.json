@@ -1,0 +1,111 @@
+{
+  "wellness": {
+    "hub": {
+      "title": "Wellness & Thermal Springs",
+      "subtitle": "Healing Waters of the Ancient World",
+      "badge": "Wellness",
+      "heroDescription": "For over two millennia, travelers have journeyed to Dalyan's thermal springs and mineral-rich mud baths seeking rejuvenation and healing. Nestled between Lake Koycegiz and the Dalyan River, these natural wellness sites combine the power of geothermal activity with centuries of tradition.",
+      "intro": "Dalyan is home to two of Turkey's most celebrated natural wellness experiences. The Sultaniye Hot Springs deliver mineral-laden thermal waters from deep within the earth, while the famous mud baths offer a unique ritual that visitors have enjoyed since antiquity. Together, they form a wellness destination unlike any other in the Mediterranean.",
+      "cards": {
+        "sultaniye": {
+          "title": "Sultaniye Hot Springs",
+          "description": "Thermal waters rich in sulfur, calcium, and magnesium flow at a natural 39 degrees Celsius, offering relief for skin conditions, joint pain, and respiratory ailments."
+        },
+        "camur": {
+          "title": "Dalyan Mud Baths",
+          "description": "Cover yourself in mineral-rich mud, bake in the sun, and rinse in thermal pools. This ancient beauty ritual is said to have been a favorite of Cleopatra herself."
+        }
+      }
+    },
+    "sultaniye": {
+      "title": "Sultaniye Hot Springs",
+      "subtitle": "2,000 Years of Healing",
+      "heroDescription": "On the southwestern shore of Lake Koycegiz, the Sultaniye Hot Springs have been a place of pilgrimage for those seeking natural healing since the time of the ancient Carians. Today, these geothermal waters remain one of Turkey's most treasured thermal destinations.",
+      "sections": {
+        "intro": {
+          "title": "A Living Thermal Heritage",
+          "content": "The Sultaniye Hot Springs (Sultaniye Kaplicalari) emerge from deep geological faults at a constant temperature of approximately 39 degrees Celsius. These waters are classified among Turkey's most mineral-rich thermal sources, containing high concentrations of sulfur, calcium, magnesium, bromide, and bicarbonate. Located just a short boat ride from Dalyan town center across Lake Koycegiz, the springs have served as a natural healing center for thousands of years, drawing visitors from across the ancient Mediterranean world."
+        },
+        "ancient": {
+          "title": "An Ancient Sacred Site",
+          "content": "Historical records suggest that the thermal springs at Sultaniye were revered as a sacred healing site as early as the 4th century BCE. The ancient Carians, who built the nearby city of Kaunos, believed these waters held divine curative powers. During the Roman period, elaborate bathing complexes were constructed around the springs, and the site became an important stop along regional trade routes. Ottoman-era travelers also documented the springs, noting that local villagers attributed remarkable healing properties to the mineral waters. Archaeological remains near the springs hint at continuous use spanning more than two millennia."
+        },
+        "benefits": {
+          "title": "Health Benefits",
+          "content": "Modern balneological studies confirm many of the traditional health claims associated with Sultaniye's thermal waters. The high sulfur content is particularly beneficial for chronic skin conditions such as psoriasis, eczema, and dermatitis, helping to reduce inflammation and promote cell regeneration. The mineral composition also supports relief from rheumatic conditions, arthritis, and musculoskeletal pain. Regular thermal bathing has been shown to improve blood circulation, reduce stress hormones, and support respiratory health. Visitors often report improved skin texture, reduced joint stiffness, and a deep sense of relaxation after bathing in the springs."
+        },
+        "experience": {
+          "title": "The Experience",
+          "content": "A visit to Sultaniye typically begins with a scenic boat journey across Lake Koycegiz or along the Dalyan River, passing through reed beds teeming with birdlife. Upon arrival, visitors can soak in the open-air thermal pools set against a backdrop of pine-forested mountains. The main pool maintains a comfortable bathing temperature year-round, while smaller pools offer varying mineral concentrations. Many visitors combine their hot spring experience with a visit to the adjacent mud baths, creating a complete wellness circuit. Simple changing facilities, showers, and a small cafe are available on-site. The springs are open daily throughout the year, making them accessible in every season."
+        }
+      },
+      "highlights": [
+        "Thermal waters at a natural 39 degrees Celsius year-round",
+        "Rich in sulfur, calcium, magnesium, and bicarbonate minerals",
+        "Over 2,000 years of documented healing tradition",
+        "Scenic boat journey across Lake Koycegiz to reach the springs",
+        "Open-air bathing pools surrounded by pine forests",
+        "Combined wellness circuit with nearby mud baths",
+        "Beneficial for skin conditions, joint pain, and respiratory health",
+        "Open daily throughout all four seasons"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "location": "Sultaniye, southwestern shore of Lake Koycegiz, Mugla Province",
+        "access": "Accessible by boat from Dalyan (approximately 30 minutes) or by road from Koycegiz town",
+        "hours": "Open daily, typically 08:00 to 20:00 (hours may vary seasonally)",
+        "fee": "Small entrance fee applies; boat tours from Dalyan usually include admission",
+        "facilities": "Changing rooms, showers, lockers, and a small refreshment area",
+        "tips": "Bring a towel and swimwear. The sulfur content may discolor silver jewelry, so leave valuables in your locker. Arrive early in the morning or late afternoon to avoid peak crowds.",
+        "bestTime": "The springs are enjoyable year-round. Winter visits offer a uniquely atmospheric experience with steam rising from the warm pools into cool mountain air."
+      }
+    },
+    "camur": {
+      "title": "Dalyan Mud Baths",
+      "subtitle": "Cleopatra's Beauty Secret",
+      "heroDescription": "The Dalyan Mud Baths are one of Turkey's most iconic wellness experiences. Located near the Sultaniye Hot Springs on the shore of Lake Koycegiz, these mineral-rich mud pools have attracted visitors for centuries with promises of rejuvenated skin and restored vitality.",
+      "sections": {
+        "ritual": {
+          "title": "The Mud Bath Ritual",
+          "content": "The traditional mud bath experience follows a time-honored sequence that maximizes the therapeutic benefits of the mineral-rich clay. Visitors begin by coating their entire body in the thick, gray-green mud drawn from natural deposits near the thermal springs. After applying a generous layer, you allow the mud to dry slowly under the warm Mediterranean sun for approximately 15 to 20 minutes. As the mud dries, it draws impurities from the skin and tightens pores. Once fully dry, visitors rinse off in the adjacent thermal pools, where warm mineral waters complete the cleansing process. Many people repeat the cycle two or three times for maximum effect."
+        },
+        "minerals": {
+          "title": "Mineral Composition & Skin Benefits",
+          "content": "Scientific analysis of the Dalyan mud reveals an exceptionally rich mineral profile that explains its renowned skin benefits. The mud contains high concentrations of sulfur, zinc, magnesium, calcium, and various trace elements that are readily absorbed through the skin. Sulfur acts as a natural antibacterial and anti-inflammatory agent, making the mud particularly effective for acne-prone and sensitive skin. Zinc supports collagen production and wound healing, while magnesium helps to calm irritated skin and improve hydration. Regular application has been associated with improved skin elasticity, reduced appearance of fine lines, and a noticeable radiant glow. Dermatologists have noted the similarity of the mineral composition to commercially produced therapeutic skin products."
+        },
+        "cleopatra": {
+          "title": "The Cleopatra Legend",
+          "content": "Local tradition holds that Queen Cleopatra of Egypt herself visited these very mud baths during her travels through the ancient Mediterranean world. According to the legend, Cleopatra learned of the remarkable beautifying properties of the Dalyan mud from traders along the Carian coast and made a special journey to experience them firsthand. While historical verification of this specific claim remains elusive, the legend speaks to the ancient and widespread reputation of these mud deposits as a beauty treatment of extraordinary power. Whether or not Cleopatra truly bathed here, the mud baths have been used for cosmetic and therapeutic purposes since at least the Hellenistic period, giving the legend a solid foundation in historical practice."
+        },
+        "whichBath": {
+          "title": "Choosing the Right Bath",
+          "content": "The Dalyan mud bath complex offers several distinct bathing areas, each with its own character and benefits. The main mud pool is the largest and most popular, featuring the thickest and most mineral-concentrated mud deposits. It is ideal for first-time visitors seeking the classic experience. Adjacent to the mud pool, the thermal sulfur pool provides warm, clear mineral water perfect for rinsing and extended soaking. A cooler freshwater pool is also available for those who prefer a refreshing contrast bath. Some visitors prefer to follow the traditional circuit: mud pool first, then thermal pool, then cool pool, creating a contrast therapy effect that invigorates circulation and leaves the skin feeling exceptionally smooth and renewed."
+        },
+        "tips": {
+          "title": "Tips for Your Visit",
+          "content": "To make the most of your mud bath experience, arrive wearing a dark-colored swimsuit, as the mineral mud can permanently stain light fabrics. Remove all jewelry before entering the mud, especially silver pieces, which react with the sulfur content and may tarnish. Apply the mud generously and evenly, paying special attention to the face, neck, and shoulders. Allow adequate drying time for the full therapeutic effect. Bring a waterproof phone case if you want photos of the experience. Drinking water is essential, as the warm conditions and mineral absorption can be dehydrating. The mud baths are suitable for all ages, though young children should be supervised near the deeper pools."
+        }
+      },
+      "highlights": [
+        "Mineral-rich mud with sulfur, zinc, magnesium, and calcium",
+        "Legendary beauty treatment associated with Cleopatra",
+        "Natural open-air setting on the shore of Lake Koycegiz",
+        "Three-pool circuit: mud pool, thermal pool, and cool pool",
+        "Beneficial for skin rejuvenation, acne, and anti-aging",
+        "Combined visit with Sultaniye Hot Springs recommended",
+        "Suitable for all ages and fitness levels",
+        "Accessible by boat from Dalyan town center"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "location": "Adjacent to Sultaniye Hot Springs, Lake Koycegiz shore",
+        "access": "Most visitors arrive by boat from Dalyan as part of a combined wellness tour",
+        "hours": "Open daily, typically 08:00 to 19:00 (seasonal variations apply)",
+        "fee": "Entrance fee applies; often included in Dalyan boat tour packages",
+        "facilities": "Changing rooms, showers, refreshment kiosk, and sunbathing areas",
+        "tips": "Wear a dark swimsuit to avoid staining. Remove silver jewelry before bathing. Bring plenty of drinking water and sun protection.",
+        "bestTime": "May through October offers the warmest weather for outdoor mud bathing. Morning visits tend to be less crowded than afternoons."
+      }
+    }
+  }
+}

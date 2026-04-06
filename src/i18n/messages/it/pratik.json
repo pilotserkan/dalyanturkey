@@ -1,0 +1,316 @@
+{
+  "pratik": {
+    "hub": {
+      "title": "Practical Information",
+      "subtitle": "Everything You Need to Know Before You Visit",
+      "badge": "Practical Info",
+      "heroDescription": "Plan your trip to Dalyan with confidence. From airport transfers and seasonal weather advice to local markets and sustainability tips, this section covers all the practical details you need for a smooth and enjoyable visit.",
+      "intro": "Dalyan is a welcoming and easy-to-navigate destination, but a little advance knowledge goes a long way toward making your visit exceptional. Browse the guides below for information on getting here, the best times to visit, local customs, and answers to the questions travelers ask most frequently.",
+      "cards": {
+        "airport": {
+          "title": "Airport to Dalyan",
+          "description": "How to get from Dalaman Airport to Dalyan town center, with transfer options, travel times, and cost comparisons."
+        },
+        "bestTime": {
+          "title": "When to Visit",
+          "description": "Month-by-month guide to Dalyan's weather, crowds, and seasonal highlights to help you choose the perfect time."
+        },
+        "market": {
+          "title": "Koycegiz Market",
+          "description": "Everything you need to know about the famous weekly market, including what to buy and how to get there."
+        },
+        "faq": {
+          "title": "Frequently Asked Questions",
+          "description": "Answers to the most common questions visitors ask about Dalyan, from currency and language to safety and health."
+        },
+        "sustainability": {
+          "title": "Sustainable Tourism",
+          "description": "How Dalyan balances tourism with environmental conservation, and how visitors can contribute to responsible travel."
+        }
+      }
+    },
+    "dalamanHavalimani": {
+      "title": "Dalaman Airport to Dalyan",
+      "subtitle": "Your Journey Starts Here",
+      "heroDescription": "Dalaman Airport (DLM) is the nearest international airport to Dalyan, located approximately 25 kilometers to the northwest. Multiple transfer options connect the airport to Dalyan town center, with journey times ranging from 25 minutes to one hour depending on traffic and transport type.",
+      "sections": {
+        "overview": {
+          "title": "Getting from the Airport",
+          "content": "Dalaman Airport serves as the main gateway to the Dalyan region, receiving direct flights from major cities across Europe and Turkey throughout the year, with significantly increased frequency during the summer season from May to October. The airport features a modern terminal with car rental desks, currency exchange facilities, ATMs, and a small shopping area. The distance from the airport to Dalyan town center is approximately 25 kilometers by road, making the transfer one of the shortest airport-to-resort journeys on the Turkish coast. Several transfer options are available, ranging from private taxis and pre-booked shuttle services to public transport connections."
+        },
+        "privateTaxi": {
+          "title": "Private Taxi & Transfer",
+          "content": "Private taxi transfers offer the most convenient and comfortable option for reaching Dalyan from the airport. Licensed taxis are available outside the arrivals hall at all times, and the journey to Dalyan typically takes 25 to 35 minutes via the main highway. Fares should be agreed upon before departure or confirmed to be running on the meter. Pre-booked private transfer services are also available through hotels and online booking platforms, offering the advantage of a driver waiting in the arrivals hall with your name displayed. These services often provide air-conditioned vehicles and can accommodate larger groups or families with luggage. Private transfers are the recommended option for late-night arrivals when public transport options are limited."
+        },
+        "shuttle": {
+          "title": "Shared Shuttle Services",
+          "content": "Shared airport shuttle services (havaalani servisi) operate between Dalaman Airport and Dalyan, providing an affordable alternative to private taxis. These minibus services typically wait until they have a reasonable number of passengers before departing, which may add some waiting time but significantly reduces the per-person cost. Several companies operate this route, with schedules aligned to major flight arrival times during the peak season. The journey takes approximately 40 to 50 minutes including potential stops to drop off other passengers. Booking in advance through your hotel or a transfer company is recommended to guarantee a seat, especially during busy arrival periods."
+        },
+        "publicTransport": {
+          "title": "Public Transport Options",
+          "content": "Public bus connections between Dalaman Airport and Dalyan are available but require a change in Dalaman town or at the Ortaca junction. Municipal buses (belediye otobusu) and minibuses (dolmus) run from the airport to Dalaman town center, from where regular dolmus services continue to Dalyan. The total journey takes approximately 60 to 90 minutes depending on connection times. While this is the most budget-friendly option, it requires some patience and is best suited to travelers with light luggage and flexible schedules. Dolmus services from Ortaca to Dalyan run frequently during daylight hours but are limited in the evening."
+        },
+        "carRental": {
+          "title": "Car Rental",
+          "content": "Renting a car at Dalaman Airport is a practical option for visitors who want the flexibility to explore the wider region at their own pace. Several international and local car rental companies have desks in the airport terminal, and vehicles can be pre-booked online for collection on arrival. The drive to Dalyan follows a straightforward route via the D400 highway and is well-signposted. A rental car is particularly useful for day trips to destinations like Fethiye, Oludeniz, Saklikent Gorge, and Marmaris. Note that parking in Dalyan town center can be limited during peak season, and many hotels offer free parking for guests. An international driving license is recommended alongside your national license."
+        }
+      },
+      "highlights": [
+        "Dalaman Airport is just 25 kilometers from Dalyan town center",
+        "Private taxi transfers take approximately 25-35 minutes",
+        "Shared shuttle services offer an affordable alternative",
+        "Public dolmus connections available via Ortaca junction",
+        "Car rental desks available in the airport terminal",
+        "Pre-booking transfers is recommended for peak season arrivals",
+        "Airport receives direct international flights year-round",
+        "Journey is one of the shortest airport transfers on the Turkish coast"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "airportCode": "DLM (Dalaman Airport)",
+        "distance": "Approximately 25 km from Dalyan town center",
+        "transferTime": "25-90 minutes depending on transport type",
+        "tips": "Have your hotel address written down in Turkish for taxi drivers. Currency exchange rates are generally better in Dalyan town than at the airport. Download an offline map before arrival in case of limited mobile data coverage on first arrival."
+      }
+    },
+    "neZamanGidilir": {
+      "title": "When to Visit Dalyan",
+      "subtitle": "A Month-by-Month Guide",
+      "heroDescription": "Dalyan enjoys a Mediterranean climate with hot, dry summers and mild, wet winters. The best time to visit depends on your priorities: beach lovers should aim for June through September, while history enthusiasts and hikers may prefer the cooler spring and autumn months.",
+      "sections": {
+        "overview": {
+          "title": "Climate Overview",
+          "content": "Dalyan benefits from a classic Mediterranean climate characterized by long, hot summers and short, mild winters. The region receives over 300 days of sunshine per year, with virtually no rainfall from June through September. Summer temperatures regularly reach 35 to 40 degrees Celsius, while winter temperatures rarely drop below 10 degrees Celsius. The swimming season extends from May through November, one of the longest on the Turkish coast. Spring (April-May) and autumn (October-November) offer the most comfortable conditions for active sightseeing, with warm temperatures, low humidity, and minimal crowds."
+        },
+        "peakSeason": {
+          "title": "Peak Season (July - August)",
+          "content": "July and August represent the peak of the tourist season in Dalyan, with the warmest sea temperatures, the longest daylight hours, and the most vibrant atmosphere in town. Temperatures frequently exceed 35 degrees Celsius, and the sun is intense from mid-morning to late afternoon. This is the ideal time for beach lovers and water activities, but the heat can make archaeological site visits and hiking uncomfortable during the middle of the day. Accommodation should be booked well in advance, and popular boat tours may be crowded. Despite the heat, evenings are pleasant, and the riverside restaurants and bars create a lively atmosphere after sunset."
+        },
+        "shoulderSeason": {
+          "title": "Shoulder Season (May-June, September-October)",
+          "content": "The shoulder season months offer what many experienced travelers consider the ideal conditions for visiting Dalyan. Temperatures are warm but manageable, typically ranging from 25 to 32 degrees Celsius, and the sea is comfortable for swimming from late May through October. Crowds are significantly thinner than in peak summer, accommodation prices are lower, and the light is particularly beautiful for photography. September and October are excellent for wildlife observation, as migratory birds pass through the delta in large numbers. June is the beginning of the turtle nesting season, adding an extra dimension to beach visits. These months represent the sweet spot between good weather and a relaxed, uncrowded atmosphere."
+        },
+        "offSeason": {
+          "title": "Off Season (November - April)",
+          "content": "Dalyan's off-season brings cooler temperatures, occasional rainfall, and a dramatically quieter atmosphere. While many tourist-oriented businesses reduce their hours or close entirely from December through March, the town retains its charm and offers a very different but equally rewarding experience. Winter temperatures hover around 12 to 18 degrees Celsius, and the surrounding hills turn vivid green. This is an excellent time for hiking, cycling, and exploring archaeological sites without crowds. The Sultaniye Hot Springs are particularly atmospheric in winter, with steam rising from the warm pools into cool mountain air. Birdwatchers will find the delta at its most productive during winter migration months."
+        }
+      },
+      "monthlyTable": {
+        "title": "Monthly Weather Guide",
+        "headers": {
+          "month": "Month",
+          "avgTemp": "Avg. Temp",
+          "seaTemp": "Sea Temp",
+          "rainfall": "Rainfall",
+          "sunshine": "Sunshine",
+          "crowds": "Crowds",
+          "rating": "Rating"
+        },
+        "months": {
+          "january": { "month": "January", "avgTemp": "11°C", "seaTemp": "17°C", "rainfall": "High", "sunshine": "5 hrs", "crowds": "Very Low", "rating": "Off-Season" },
+          "february": { "month": "February", "avgTemp": "12°C", "seaTemp": "16°C", "rainfall": "Moderate", "sunshine": "6 hrs", "crowds": "Very Low", "rating": "Off-Season" },
+          "march": { "month": "March", "avgTemp": "14°C", "seaTemp": "17°C", "rainfall": "Moderate", "sunshine": "7 hrs", "crowds": "Low", "rating": "Early Spring" },
+          "april": { "month": "April", "avgTemp": "18°C", "seaTemp": "18°C", "rainfall": "Low", "sunshine": "9 hrs", "crowds": "Low", "rating": "Good" },
+          "may": { "month": "May", "avgTemp": "23°C", "seaTemp": "20°C", "rainfall": "Very Low", "sunshine": "11 hrs", "crowds": "Moderate", "rating": "Excellent" },
+          "june": { "month": "June", "avgTemp": "28°C", "seaTemp": "23°C", "rainfall": "None", "sunshine": "13 hrs", "crowds": "Moderate", "rating": "Excellent" },
+          "july": { "month": "July", "avgTemp": "33°C", "seaTemp": "26°C", "rainfall": "None", "sunshine": "14 hrs", "crowds": "High", "rating": "Peak Season" },
+          "august": { "month": "August", "avgTemp": "33°C", "seaTemp": "28°C", "rainfall": "None", "sunshine": "13 hrs", "crowds": "Very High", "rating": "Peak Season" },
+          "september": { "month": "September", "avgTemp": "29°C", "seaTemp": "26°C", "rainfall": "Very Low", "sunshine": "11 hrs", "crowds": "Moderate", "rating": "Excellent" },
+          "october": { "month": "October", "avgTemp": "23°C", "seaTemp": "23°C", "rainfall": "Low", "sunshine": "8 hrs", "crowds": "Low", "rating": "Very Good" },
+          "november": { "month": "November", "avgTemp": "17°C", "seaTemp": "20°C", "rainfall": "Moderate", "sunshine": "6 hrs", "crowds": "Very Low", "rating": "Late Autumn" },
+          "december": { "month": "December", "avgTemp": "12°C", "seaTemp": "18°C", "rainfall": "High", "sunshine": "5 hrs", "crowds": "Very Low", "rating": "Off-Season" }
+        }
+      },
+      "highlights": [
+        "Over 300 days of sunshine per year",
+        "Swimming season from May through November",
+        "Peak season in July and August with hottest temperatures",
+        "Shoulder season (May-June, September-October) offers ideal conditions",
+        "Spring wildflowers and autumn bird migration are seasonal highlights",
+        "Winter hot springs visits are uniquely atmospheric",
+        "Turtle nesting season runs from May to October",
+        "Accommodation prices are lowest from November to April"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "bestOverall": "May, June, September, and October offer the best balance of weather, crowds, and prices",
+        "forBeach": "July and August for the warmest sea temperatures",
+        "forCulture": "April, May, October, and November for comfortable sightseeing weather",
+        "forBudget": "November through March for the lowest accommodation prices",
+        "tips": "Pack layers for spring and autumn evenings, which can be cool near the river. Sunscreen with high SPF is essential year-round. Mosquito repellent is advisable for riverside dining in summer evenings."
+      }
+    },
+    "koycegizPazari": {
+      "title": "Koycegiz Market",
+      "subtitle": "A Traditional Turkish Market Experience",
+      "heroDescription": "The weekly Koycegiz Market is one of the most authentic and vibrant traditional markets in southwestern Turkey. Held every Monday on the shores of Lake Koycegiz, this bustling market draws farmers, artisans, and shoppers from across the Dalyan-Koycegiz region.",
+      "sections": {
+        "overview": {
+          "title": "Market Overview",
+          "content": "The Koycegiz weekly market (pazar) is a living tradition that has served as the commercial and social heart of the region for generations. Every Monday morning, the lakeside town of Koycegiz transforms as hundreds of stalls fill the streets with an extraordinary array of fresh produce, textiles, household goods, spices, and artisan products. Unlike tourist-oriented bazaars found in larger resort towns, the Koycegiz Market is primarily a local market where regional farmers sell their harvests directly to consumers. This authenticity is its greatest charm, offering visitors a genuine window into daily life and agricultural culture in rural southwestern Turkey."
+        },
+        "whatToBuy": {
+          "title": "What to Buy",
+          "content": "The market is organized into loose sections, with fresh produce dominating the central area. Seasonal fruits and vegetables form the core of the market, with stalls piled high with tomatoes, peppers, aubergines, figs, pomegranates, citrus fruits, and watermelons depending on the season. Local honey, sold in jars and still in the comb, is a prized regional product known for its exceptional quality. Dried herbs and spices including thyme, oregano, sumac, and pul biber (Turkish red pepper flakes) are available at a fraction of supermarket prices. Locally pressed olive oil, village cheeses, home-made jams, and cured olives make excellent edible souvenirs. Textile stalls offer hand-loomed cotton towels (pestemal), tablecloths, scarves, and traditional clothing. Leather goods, handmade baskets, and pottery are also available."
+        },
+        "gettingThere": {
+          "title": "Getting There from Dalyan",
+          "content": "Koycegiz is located approximately 25 kilometers north of Dalyan, and the journey takes about 30 minutes by road. Regular dolmus (minibus) services connect Dalyan to Koycegiz throughout the day, departing from the Dalyan dolmus station near the mosque. The fare is modest and the ride passes through attractive countryside along the western shore of Lake Koycegiz. Alternatively, some visitors combine a market visit with a boat trip across the lake from Dalyan, which is a more scenic but less frequent option. The market operates from early morning (around 07:00) until mid-afternoon (approximately 15:00), with the best selection and liveliest atmosphere before noon. Arriving by 09:00 or 10:00 is recommended for the fullest experience."
+        },
+        "tips": {
+          "title": "Market Tips",
+          "content": "Bargaining is expected and part of the enjoyment at the Koycegiz Market, particularly for textiles, clothing, and household goods. However, produce prices are generally fixed and already very reasonable. Bring cash in Turkish Lira, as most stalls do not accept credit cards. A reusable shopping bag is useful, though plastic bags are usually provided. Wear comfortable walking shoes, as the market covers a considerable area. The market can get hot by midday in summer, so morning visits are advisable. Try the freshly squeezed orange juice from street vendors and sample some gozleme (savory filled flatbread) from one of the stalls for an authentic market breakfast."
+        }
+      },
+      "highlights": [
+        "Authentic weekly market serving locals and visitors alike",
+        "Fresh seasonal produce direct from regional farms",
+        "Exceptional local honey, olive oil, and dried herbs",
+        "Hand-loomed cotton towels and traditional textiles",
+        "Very affordable prices compared to tourist markets",
+        "Scenic dolmus ride from Dalyan along Lake Koycegiz",
+        "Freshly prepared gozleme and squeezed juice from vendors",
+        "A genuine slice of rural Turkish market culture"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "day": "Every Monday",
+        "hours": "Approximately 07:00 to 15:00 (arrive before noon for best selection)",
+        "location": "Koycegiz town center, along the lakefront streets",
+        "gettingThere": "Dolmus from Dalyan (30 minutes, frequent service) or by private car/taxi",
+        "parking": "Free street parking available in Koycegiz; arrive early to secure a spot",
+        "tips": "Bring Turkish Lira cash. Bargain for textiles but not produce. Try the local honey, it is among the best in Turkey. Combine with a walk along the Koycegiz lakefront promenade."
+      }
+    },
+    "sikSorulanSorular": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Quick Answers for Dalyan Visitors",
+      "heroDescription": "Find answers to the most commonly asked questions about visiting Dalyan. From practical matters like currency and language to travel logistics and local customs, this guide covers everything you need to know.",
+      "sections": {
+        "intro": {
+          "title": "About This FAQ",
+          "content": "We have compiled answers to the questions that visitors most frequently ask about Dalyan. Whether you are planning your first visit or returning for another season, this guide provides up-to-date practical information to help you make the most of your time in this beautiful corner of Turkey."
+        }
+      },
+      "questions": [
+        {
+          "question": "How do I get to Dalyan from the airport?",
+          "answer": "Dalaman Airport (DLM) is the nearest airport, located approximately 25 kilometers from Dalyan. Private taxi transfers take about 30 minutes, shared shuttles around 45 minutes, and public transport via Ortaca about 60-90 minutes. Most hotels can arrange an airport transfer for you if booked in advance."
+        },
+        {
+          "question": "What is the best time of year to visit Dalyan?",
+          "answer": "The shoulder season months of May, June, September, and October offer the best combination of warm weather, comfortable sightseeing conditions, and manageable crowds. July and August are the hottest months and peak tourist season, ideal for beach lovers. Winter (November-March) is quiet but mild, perfect for hot springs and hiking."
+        },
+        {
+          "question": "Is Dalyan safe for tourists?",
+          "answer": "Dalyan is considered one of the safest destinations in Turkey for tourists. The town has a very low crime rate, and visitors regularly comment on the friendly and welcoming nature of the local community. Normal travel precautions apply, such as keeping valuables secure and being aware of your surroundings, but serious incidents involving tourists are extremely rare."
+        },
+        {
+          "question": "What currency is used in Dalyan?",
+          "answer": "The official currency is the Turkish Lira (TRY). ATMs are widely available in Dalyan town center and accept international debit and credit cards. Most restaurants, hotels, and tour operators accept credit cards, but cash is preferred at local markets, small shops, and dolmus services. Some businesses also accept Euros and British Pounds, though the exchange rate may not be favorable."
+        },
+        {
+          "question": "Do people speak English in Dalyan?",
+          "answer": "English is widely spoken in Dalyan's hotels, restaurants, and tour companies, particularly during the tourist season. Many local business owners and guides speak good English, and some also speak German, Dutch, or Russian. Learning a few basic Turkish phrases (merhaba for hello, tesekkur ederim for thank you) is appreciated and warmly received by locals."
+        },
+        {
+          "question": "Can I swim with the sea turtles?",
+          "answer": "While it is possible to see Caretta Caretta sea turtles while swimming at Iztuzu Beach or in the Dalyan River, intentionally chasing or touching turtles is prohibited. Responsible turtle watching tours operate with trained guides who know how to observe turtles without disturbing them. If a turtle approaches you while swimming, remain calm and still, and do not attempt to touch or ride the animal."
+        },
+        {
+          "question": "Is Dalyan suitable for families with children?",
+          "answer": "Dalyan is an excellent family destination. The calm river-side of Iztuzu Beach offers safe, shallow swimming for children, and the boat tours are enjoyable for all ages. The mud baths are a particular hit with children, and the jeep safari provides adventure for older kids. Most restaurants are family-friendly, and the relaxed pace of the town makes it easy to travel with young children."
+        },
+        {
+          "question": "What should I wear in Dalyan?",
+          "answer": "Dalyan is a relaxed, casual destination where beachwear and summer clothing are perfectly appropriate during the day. Lightweight, breathable fabrics are recommended in summer. For visits to mosques, both men and women should cover shoulders and knees, and women should bring a headscarf. Evening dining along the river is smart-casual. Comfortable walking shoes are essential for archaeological site visits."
+        },
+        {
+          "question": "Is tap water safe to drink?",
+          "answer": "Tap water in Dalyan is not recommended for drinking. Bottled water is inexpensive and widely available at all shops, restaurants, and hotels. Most hotels provide complimentary bottled water in rooms. Large refillable water containers (damacana) are commonly used by locals and can be purchased for longer stays."
+        },
+        {
+          "question": "How do I get around Dalyan?",
+          "answer": "Dalyan town center is compact and easily walkable. For trips to Iztuzu Beach, the mud baths, and Kaunos, river boats are the primary and most scenic transport option. Dolmus (shared minibus) services connect Dalyan to Ortaca, Koycegiz, and Dalaman. Taxis are available for longer journeys. Bicycle and scooter rental is popular for independent exploration of the surrounding area."
+        },
+        {
+          "question": "Do I need travel insurance?",
+          "answer": "Travel insurance is strongly recommended for all visitors to Turkey. A good policy should cover medical emergencies, trip cancellation, lost luggage, and activity-related injuries. Turkey has good medical facilities, but treatment costs for foreigners can be significant without insurance. Check that your policy covers any specific activities you plan to do, such as jeep safaris or water sports."
+        },
+        {
+          "question": "What is the tipping culture in Dalyan?",
+          "answer": "Tipping is appreciated but not obligatory in Turkey. A tip of 10% is customary at sit-down restaurants. For boat tour captains and guides, a small tip at the end of the trip is a kind gesture. Rounding up the fare for taxi drivers is common practice. Hotel staff who carry luggage or provide special services appreciate a small tip. At casual eateries and cafes, rounding up the bill is sufficient."
+        },
+        {
+          "question": "Are there any health precautions I should take?",
+          "answer": "No special vaccinations are required for Turkey, but ensure your routine vaccinations are up to date. Apply mosquito repellent in the evenings, especially near the river. Use high-SPF sunscreen throughout your visit, as the sun is very strong from May through September. The thermal mud baths and hot springs are generally safe, but visitors with heart conditions or pregnant women should consult their doctor before thermal bathing."
+        },
+        {
+          "question": "Can I use my mobile phone in Dalyan?",
+          "answer": "Most international mobile phones work in Dalyan with roaming. EU roaming regulations may apply for European visitors. Local SIM cards can be purchased at phone shops in town for more affordable data access, though registration requirements apply for stays longer than 120 days. Wi-Fi is available at most hotels, restaurants, and cafes throughout Dalyan."
+        }
+      ],
+      "highlights": [
+        "Dalaman Airport is just 25 km away with easy transfer options",
+        "Turkish Lira is the local currency; ATMs are widely available",
+        "English is widely spoken in tourist areas",
+        "Dalyan is considered very safe for tourists",
+        "Town center is compact and walkable",
+        "Travel insurance is strongly recommended",
+        "No special vaccinations required",
+        "Family-friendly destination with activities for all ages"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "emergencyNumber": "112 (general emergency), 155 (police), 110 (fire)",
+        "timezone": "Turkey Standard Time (TRT), UTC+3, no daylight saving changes",
+        "electricalPlugs": "Type F (European two-pin), 220V/50Hz",
+        "tips": "Download offline maps before arrival. Keep a photocopy of your passport separate from the original. Register for e-visa online before travel if required for your nationality."
+      }
+    },
+    "surdurulebilirTurizm": {
+      "title": "Sustainable Tourism in Dalyan",
+      "subtitle": "Protecting Paradise for Future Generations",
+      "heroDescription": "Dalyan stands at the forefront of sustainable tourism in Turkey. From the historic campaign to save the Caretta Caretta nesting beach to ongoing conservation efforts in the Koycegiz-Dalyan Special Environmental Protection Area, the region demonstrates how tourism and environmental stewardship can work hand in hand.",
+      "sections": {
+        "overview": {
+          "title": "A Conservation Success Story",
+          "content": "Dalyan's journey toward sustainable tourism began with a defining moment in 1988, when a proposed luxury hotel development on Iztuzu Beach was halted following an international campaign to protect the Caretta Caretta turtle nesting grounds. This victory, which attracted worldwide attention, established Dalyan as a symbol of environmental conservation in Turkey and set the tone for how the region would develop in the decades that followed. Today, the entire Koycegiz-Dalyan basin is designated as a Special Environmental Protection Area (SEPA), placing strict controls on construction, waste management, and natural resource use across the region."
+        },
+        "wildlife": {
+          "title": "Wildlife Conservation",
+          "content": "The Dalyan Delta and its surrounding ecosystems support an extraordinary diversity of wildlife that is actively protected through conservation programs. The Caretta Caretta loggerhead sea turtle remains the flagship species, with the DEKAMER research center monitoring nest sites, rescuing injured turtles, and conducting ongoing population studies. Beyond turtles, the delta is recognized as an Important Bird Area (IBA) by BirdLife International, hosting over 200 recorded bird species including the rare Dalmatian pelican, white-tailed eagle, and Smyrna kingfisher. The Liquidambar orientalis (sweetgum) forests near Koycegiz are among the last remaining stands of this ancient tree species in the world, and are protected under national conservation legislation."
+        },
+        "howToHelp": {
+          "title": "How Visitors Can Help",
+          "content": "Every visitor to Dalyan has the power to contribute positively to the region's conservation efforts through simple, mindful choices. Respect the turtle nesting beach regulations, including nighttime closures and distance requirements from marked nest sites. Choose tour operators who follow responsible wildlife watching guidelines and support local conservation organizations. Reduce plastic waste by carrying a reusable water bottle and refusing single-use bags. Support the local economy by eating at family-run restaurants, shopping at local markets, and choosing locally owned accommodation. Avoid disturbing wildlife habitats, including nesting birds in the reed beds and marine life in the delta. Take only photographs and leave only footprints."
+        },
+        "localInitiatives": {
+          "title": "Local Conservation Initiatives",
+          "content": "The Dalyan community has developed several pioneering conservation initiatives that visitors can support and participate in. The Dalyan Boat Cooperative has adopted engine noise and speed restrictions in the turtle habitats along the river channel. Local beach clean-up events are organized regularly and welcome volunteer participation from visitors. Agricultural cooperatives in the Koycegiz-Dalyan basin promote organic farming practices and sell their products at local markets. Several hotels and guesthouses have achieved environmental certifications and implemented water conservation, solar energy, and waste reduction programs. The municipality has invested in wastewater treatment infrastructure to protect the water quality of the river, lake, and delta ecosystem."
+        },
+        "responsibleTravel": {
+          "title": "Responsible Travel Tips",
+          "content": "Practicing responsible tourism in Dalyan enriches both your experience and the community you visit. Stay on marked paths when visiting archaeological sites and natural areas to prevent erosion and damage. Use reef-safe sunscreen when swimming in the river and sea to protect aquatic ecosystems. Respect local customs and dress codes, particularly when visiting mosques or rural villages. Minimize energy consumption in your accommodation by turning off lights and air conditioning when not in the room. Consider offsetting the carbon emissions from your flight through a reputable program. Engage with local culture authentically by learning a few Turkish phrases, attending local events, and showing genuine interest in the community and its traditions."
+        }
+      },
+      "highlights": [
+        "Koycegiz-Dalyan Special Environmental Protection Area designation",
+        "Historic 1988 campaign that saved Iztuzu Beach from development",
+        "DEKAMER sea turtle research and rehabilitation center",
+        "Over 200 bird species recorded in the Dalyan Delta",
+        "Protected Liquidambar orientalis sweetgum forests",
+        "Boat cooperative with wildlife-friendly speed restrictions",
+        "Growing network of eco-certified accommodations",
+        "Community beach clean-up and organic farming initiatives"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "dekamar": "DEKAMER Sea Turtle Center is open to visitors near Iztuzu Beach; small donation requested",
+        "volunteering": "Contact local organizations for beach clean-up and conservation volunteering opportunities",
+        "ecoStays": "Several hotels and pensions in Dalyan hold environmental certifications; ask at booking",
+        "tips": "Carry a reusable water bottle and shopping bag. Choose tour operators who demonstrate environmental responsibility. Respect wildlife viewing distances and beach closure times. Support local producers by buying directly at markets."
+      }
+    }
+  }
+}

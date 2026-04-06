@@ -1,0 +1,65 @@
+{
+  "yemeIcme": {
+    "hub": {
+      "title": "Food & Drink in Dalyan",
+      "subtitle": "A Taste of the Aegean-Mediterranean Crossroads",
+      "badge": "Food & Drink",
+      "heroDescription": "Dalyan's cuisine reflects its unique position at the meeting point of Aegean and Mediterranean culinary traditions. Fresh seafood from the river and sea, wild herbs gathered from hillsides, and olive oil from ancient groves combine to create a dining experience that is both deeply traditional and wonderfully fresh.",
+      "intro": "Eating in Dalyan is more than a meal; it is a connection to the land, the river, and centuries of Anatolian food culture. From simple riverside fish restaurants to family-run lokanta serving home-cooked specialties, the town offers an authentic culinary journey that larger resort destinations simply cannot match."
+    },
+    "dalyanMutfagi": {
+      "title": "Dalyan Kitchen: A Culinary Guide",
+      "subtitle": "From River to Table",
+      "heroDescription": "The cuisine of Dalyan draws from the incredible natural abundance of southwestern Turkey. The Dalyan River provides fresh sea bass and grey mullet, the surrounding hills yield wild thyme and sage, and local farms produce some of Turkey's finest olive oil, citrus, and pomegranates.",
+      "sections": {
+        "seafood": {
+          "title": "Seafood & River Fish",
+          "content": "The Dalyan River and the adjacent Mediterranean coast provide an extraordinary bounty of fresh seafood that forms the backbone of local cuisine. Sea bass (levrek) caught in the brackish waters where the river meets the sea is considered among the finest in Turkey, prized for its delicate flavor and firm texture. Grey mullet (kefal) is another local staple, often grilled whole over charcoal and served with a squeeze of lemon. Blue crab (mavi yengec), once considered a nuisance species, has become a celebrated local delicacy, prepared in various ways from simple steamed preparations to rich crab casseroles. During the autumn months, the annual fish migration through the Dalyan channel provides an abundance of fresh catches that riverside restaurants serve within hours of being landed."
+        },
+        "oliveOil": {
+          "title": "Olive Oil Dishes (Zeytinyagli)",
+          "content": "The olive oil-based cold dishes known as zeytinyaglilar represent one of the most distinctive elements of Dalyan's culinary identity. These dishes are prepared by slowly braising seasonal vegetables in generous quantities of locally pressed extra-virgin olive oil, then served at room temperature as part of a traditional meze spread. Classic preparations include green beans (zeytinyagli fasulye), artichokes (zeytinyagli enginar), and stuffed vine leaves (yaprak sarma) filled with rice, pine nuts, and currants. Wild greens foraged from the surrounding hillsides, such as purslane and samphire, are also prepared in this style. The olive oil itself is produced from ancient groves in the Koycegiz-Dalyan basin, where trees hundreds of years old continue to yield fruit with exceptional flavor profiles."
+        },
+        "wildHerbs": {
+          "title": "Wild Herbs & Foraged Greens",
+          "content": "The hills and meadows surrounding Dalyan are a forager's paradise, yielding an impressive variety of wild herbs and edible greens that play a central role in local cooking. Wild thyme (kekik), oregano, and sage grow abundantly on the limestone slopes above the river valley, and local cooks gather them throughout the spring and early summer. These herbs are used fresh in salads, dried for seasoning grilled meats and fish, and brewed as aromatic herbal teas believed to aid digestion and boost immunity. Wild rocket, dandelion greens, and nettle are collected in spring and prepared as borek fillings, sauteed side dishes, or hearty soups. The tradition of gathering wild herbs remains a living practice in Dalyan, connecting modern kitchens with food traditions stretching back millennia."
+        },
+        "breakfast": {
+          "title": "Traditional Dalyan Breakfast",
+          "content": "Breakfast in Dalyan is a lavish affair that showcases the region's agricultural abundance in a single magnificent spread. A traditional Turkish breakfast (kahvalti) in Dalyan typically includes locally produced white cheese, aged kasar cheese, thick strained yogurt drizzled with honey from mountain apiaries, home-made jams from seasonal fruits including fig, mulberry, and bitter orange, fresh eggs from village chickens, cured olives in several varieties, and thick slices of village bread baked in wood-fired ovens. Many riverside restaurants and pensions serve this breakfast on open-air terraces overlooking the Dalyan River and the Lycian Rock Tombs, creating a morning experience that visitors consistently describe as one of the highlights of their trip."
+        },
+        "desserts": {
+          "title": "Sweets & Desserts",
+          "content": "Dalyan and the wider Mugla region offer a tempting array of traditional desserts that balance sweetness with the natural flavors of local ingredients. Incir tatlisi, made from locally grown figs stuffed with walnuts and simmered in light syrup, is a signature regional dessert that showcases the exceptional quality of Dalyan-area figs. Kabak tatlisi, prepared from pumpkin slow-cooked with sugar and served with crushed walnuts and clotted cream (kaymak), appears on menus throughout autumn and winter. Kemalpaşa, a semolina-based dessert soaked in light syrup, is a beloved classic throughout the region. Traditional Turkish ice cream (dondurma), made with mastic and salep for its distinctive stretchy texture, is a favorite refreshment during the warm summer months."
+        },
+        "drinks": {
+          "title": "Local Drinks & Beverages",
+          "content": "The beverage culture of Dalyan reflects broader Turkish traditions enriched by local ingredients and customs. Turkish tea (cay), served in small tulip-shaped glasses, accompanies every meal and social occasion throughout the day. Turkish coffee, prepared in a copper cezve and served with a glass of water, is the traditional choice for mid-morning and after-dinner enjoyment. Fresh-squeezed orange and pomegranate juices are widely available from October through spring, thanks to the region's prolific citrus groves. Ayran, a refreshing salted yogurt drink, is the classic accompaniment to grilled meats and kebabs. In the evenings, locally produced wines from the Mugla region and the classic anise-flavored spirit raki are enjoyed alongside meze spreads in riverside restaurants."
+        },
+        "restaurantTypes": {
+          "title": "Where to Eat in Dalyan",
+          "content": "Dalyan offers a range of dining experiences suited to every taste and budget. Riverside fish restaurants (balik restoran) line the banks of the Dalyan River, offering freshly caught seafood served on terraces with views of the illuminated Rock Tombs at night. Traditional lokanta-style eateries serve daily-changing menus of home-cooked Turkish dishes at modest prices, offering an authentic taste of regional cuisine. Small family-run pansiyons often serve home-cooked evening meals that represent some of the finest traditional cooking in town. For a more casual experience, grilled kofte and kebab shops along the main street provide quick, satisfying meals. During summer, many restaurants extend their service outdoors, creating a vibrant al-fresco dining atmosphere along the riverside promenade."
+        }
+      },
+      "highlights": [
+        "Fresh sea bass and grey mullet caught daily from the Dalyan River",
+        "Locally pressed extra-virgin olive oil from ancient groves",
+        "Wild herbs and greens foraged from surrounding hillsides",
+        "Traditional Turkish breakfast overlooking the Lycian Rock Tombs",
+        "Regional fig desserts and locally produced honey",
+        "Riverside dining with illuminated Rock Tomb views at night",
+        "Fresh-squeezed pomegranate and orange juice from local orchards",
+        "Authentic lokanta-style home cooking at affordable prices"
+      ],
+      "practicalInfo": {
+        "title": "Practical Information",
+        "priceRange": "Budget meals from approximately 150-250 TL per person; riverside fish restaurants from 400-800 TL per person",
+        "tipping": "A 10% tip is customary at sit-down restaurants. Rounding up the bill is sufficient at casual eateries.",
+        "reservations": "Recommended for riverside fish restaurants during peak summer season (July-August), especially for dinner",
+        "dietaryNotes": "Vegetarian options are widely available through meze and zeytinyagli dishes. Vegan options can be arranged with advance notice at most restaurants. Gluten-free diners should note that bread accompanies nearly every meal but alternatives can be requested.",
+        "bestTime": "Lunch is typically served between 12:00 and 15:00, dinner from 19:00 to 23:00. Many restaurants stay open later during summer months.",
+        "tips": "Ask for the daily catch (gunun baligi) at fish restaurants for the freshest options. Many riverside restaurants offer complimentary fruit or tea after the meal."
+      }
+    }
+  }
+}

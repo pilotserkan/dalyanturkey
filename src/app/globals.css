@@ -26,6 +26,23 @@
   [dir="rtl"] {
     font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
   }
+
+  /* Responsive typography scale */
+  h1 {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold leading-tight;
+  }
+
+  h2 {
+    @apply text-2xl md:text-3xl lg:text-4xl font-bold leading-snug;
+  }
+
+  h3 {
+    @apply text-xl md:text-2xl font-semibold leading-snug;
+  }
+
+  h4 {
+    @apply text-lg md:text-xl font-semibold;
+  }
 }
 
 @layer components {
@@ -63,6 +80,179 @@
 
   .gradient-overlay {
     @apply absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60;
+  }
+
+  /* Magazine-style article content */
+  .content-article {
+    @apply text-gray-700 leading-relaxed;
+  }
+
+  .content-article p {
+    @apply mb-6 text-base md:text-lg leading-relaxed;
+  }
+
+  .content-article h2 {
+    @apply text-2xl md:text-3xl font-bold text-sky-900 mt-12 mb-4;
+  }
+
+  .content-article h3 {
+    @apply text-xl md:text-2xl font-semibold text-sky-800 mt-8 mb-3;
+  }
+
+  .content-article ul,
+  .content-article ol {
+    @apply mb-6 pl-6;
+  }
+
+  .content-article li {
+    @apply mb-2 text-base md:text-lg;
+  }
+
+  .content-article blockquote {
+    @apply border-l-4 border-dalyan-gold pl-6 py-2 my-8 italic text-gray-600 bg-dalyan-sand/50 rounded-r-lg;
+  }
+
+  .content-article img {
+    @apply rounded-xl shadow-lg my-8;
+  }
+
+  /* Hub card hover effects */
+  .hub-card {
+    @apply relative bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-500;
+  }
+
+  .hub-card:hover {
+    @apply shadow-2xl -translate-y-2;
+  }
+
+  .hub-card::after {
+    content: '';
+    @apply absolute bottom-0 left-0 right-0 h-1 transition-all duration-500;
+    transform: scaleX(0);
+  }
+
+  .hub-card:hover::after {
+    transform: scaleX(1);
+  }
+
+  /* Breadcrumb styles */
+  .breadcrumb {
+    @apply flex items-center gap-2 text-sm text-gray-500 py-4;
+  }
+
+  .breadcrumb a {
+    @apply hover:text-sky-700 transition-colors;
+  }
+
+  .breadcrumb .separator {
+    @apply text-gray-300;
+  }
+
+  .breadcrumb .current {
+    @apply text-gray-800 font-medium;
+  }
+
+  /* Info box variants */
+  .info-box {
+    @apply rounded-xl p-5 my-6 border-l-4;
+  }
+
+  .info-box-tip {
+    @apply info-box bg-emerald-50 border-emerald-500 text-emerald-900;
+  }
+
+  .info-box-info {
+    @apply info-box bg-sky-50 border-sky-500 text-sky-900;
+  }
+
+  .info-box-warning {
+    @apply info-box bg-amber-50 border-amber-500 text-amber-900;
+  }
+
+  /* FAQ accordion */
+  .faq-item {
+    @apply border-b border-gray-200;
+  }
+
+  .faq-question {
+    @apply w-full flex items-center justify-between py-5 text-left text-lg font-medium text-gray-800
+    hover:text-sky-700 transition-colors cursor-pointer;
+  }
+
+  .faq-answer {
+    @apply overflow-hidden transition-all duration-300 ease-in-out;
+  }
+
+  .faq-answer-content {
+    @apply pb-5 text-gray-600 leading-relaxed;
+  }
+
+  .faq-icon {
+    @apply w-5 h-5 transition-transform duration-300 flex-shrink-0 ml-4;
+  }
+
+  .faq-item.open .faq-icon {
+    transform: rotate(180deg);
+  }
+
+  /* Table of contents sticky */
+  .toc-sticky {
+    @apply sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto;
+  }
+
+  .toc-sticky a {
+    @apply block py-1.5 px-3 text-sm text-gray-500 border-l-2 border-transparent
+    hover:text-sky-700 hover:border-sky-300 transition-all;
+  }
+
+  .toc-sticky a.active {
+    @apply text-sky-700 border-sky-600 font-medium;
+  }
+
+  /* Image hover zoom */
+  .img-zoom {
+    @apply overflow-hidden rounded-xl;
+  }
+
+  .img-zoom img {
+    @apply transition-transform duration-700 ease-out;
+  }
+
+  .img-zoom:hover img {
+    @apply scale-110;
+  }
+
+  /* Hub-specific gradient classes */
+  .gradient-tarih {
+    @apply bg-gradient-to-br from-dalyan-river to-sky-700;
+  }
+
+  .gradient-doga {
+    @apply bg-gradient-to-br from-dalyan-forest to-emerald-500;
+  }
+
+  .gradient-wellness {
+    @apply bg-gradient-to-br from-dalyan-thermal to-pink-400;
+  }
+
+  .gradient-turlar {
+    @apply bg-gradient-to-br from-dalyan-sky to-cyan-400;
+  }
+
+  .gradient-yeme-icme {
+    @apply bg-gradient-to-br from-dalyan-gold to-amber-400;
+  }
+
+  .gradient-pratik {
+    @apply bg-gradient-to-br from-dalyan-stone to-gray-500;
+  }
+
+  .gradient-harita {
+    @apply bg-gradient-to-br from-teal-700 to-teal-400;
+  }
+
+  .gradient-hakkinda {
+    @apply bg-gradient-to-br from-dalyan-river to-dalyan-forest;
   }
 }
 
