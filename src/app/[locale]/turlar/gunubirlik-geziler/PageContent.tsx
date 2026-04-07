@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'fethiye', 'kayakoy', 'marmaris']}
       hubSlug="turlar"
       backgroundImage="/images/dalyan-river-boats.jpg"
+      lat={36.8333}
+      lng={28.6333}
+      mapIcon="🧭"
     />
   );
 }

@@ -3,6 +3,7 @@
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import HomeMap from '@/components/ui/HomeMap';
+import WeatherWidget from '@/components/ui/WeatherWidget';
 import { HUBS, HUB_ORDER } from '@/lib/navigation';
 
 /* ------------------------------------------------------------------ */
@@ -56,6 +57,7 @@ const FEATURED = [
 export default function HomePageContent() {
   const hero = useTranslations('hero');
   const t    = useTranslations('home');
+  const w    = useTranslations('weather');
   const nav  = useTranslations('nav');
   const locale = useLocale();
 
@@ -320,6 +322,26 @@ export default function HomePageContent() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ============================================================ */}
+      {/*  WEATHER & ACTIVITIES                                         */}
+      {/* ============================================================ */}
+      <section className="py-24 bg-gradient-to-b from-amber-50 to-sky-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <span className="inline-block px-4 py-1.5 bg-sky-100 text-sky-700 text-sm font-bold rounded-full mb-4 tracking-wide uppercase">
+              {w('badge')}
+            </span>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
+              {w('title')}
+            </h2>
+            <p className="text-lg text-gray-500 max-w-2xl mx-auto">
+              {w('subtitle')}
+            </p>
+          </div>
+          <WeatherWidget />
         </div>
       </section>
 

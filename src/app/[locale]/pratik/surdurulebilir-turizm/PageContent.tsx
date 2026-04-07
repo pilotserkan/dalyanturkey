@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'wildlife', 'howToHelp', 'localInitiatives', 'responsibleTravel']}
       hubSlug="pratik"
       backgroundImage="/images/dalyan-nature-path.jpg"
+      lat={36.8333}
+      lng={28.6333}
+      mapIcon="🌿"
     />
   );
 }

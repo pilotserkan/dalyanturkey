@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'itinerary', 'benefits']}
       hubSlug="turlar"
       backgroundImage="/images/dalyan-riverside.jpg"
+      lat={36.8450}
+      lng={28.6550}
+      mapIcon="✨"
     />
   );
 }

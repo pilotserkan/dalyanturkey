@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['seafood', 'oliveOil', 'wildHerbs', 'breakfast', 'desserts', 'drinks', 'restaurantTypes']}
       hubSlug="yeme-icme"
       backgroundImage="/images/dalyan-river-view.jpg"
+      lat={36.8345}
+      lng={28.6320}
+      mapIcon="🍽️"
     />
   );
 }

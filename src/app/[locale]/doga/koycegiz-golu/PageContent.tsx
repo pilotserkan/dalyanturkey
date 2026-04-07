@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'ecology', 'activities']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-riverside-terrace.jpg"
+      lat={36.8667}
+      lng={28.6833}
+      mapIcon="🌊"
     />
   );
 }

@@ -3,6 +3,7 @@
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import PageHero from '@/components/ui/PageHero';
+import LocationMiniMap from '@/components/ui/LocationMiniMap';
 import { HUBS, type HubSlug } from '@/lib/navigation';
 
 interface ContentPageTemplateProps {
@@ -11,6 +12,9 @@ interface ContentPageTemplateProps {
   sectionKeys: string[];
   hubSlug: string;
   backgroundImage: string;
+  lat?: number;
+  lng?: number;
+  mapIcon?: string;
 }
 
 export default function ContentPageTemplate({
@@ -19,6 +23,9 @@ export default function ContentPageTemplate({
   sectionKeys,
   hubSlug,
   backgroundImage,
+  lat,
+  lng,
+  mapIcon,
 }: ContentPageTemplateProps) {
   const t = useTranslations(namespace);
   const ct = useTranslations('common');
@@ -95,6 +102,21 @@ export default function ContentPageTemplate({
             </div>
           </section>
         ))}
+
+        {/* Location Map */}
+        {lat && lng && (
+          <section className="mb-12 md:mb-16">
+            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+              📍 Location
+            </h2>
+            <LocationMiniMap
+              lat={lat}
+              lng={lng}
+              title={t(`${pageKey}.title`)}
+              icon={mapIcon || '📍'}
+            />
+          </section>
+        )}
 
         {/* Highlights */}
         {highlights.length > 0 && (

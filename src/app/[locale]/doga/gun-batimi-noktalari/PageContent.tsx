@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'bestSpots', 'photography']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-river-night.jpg"
+      lat={36.8358}
+      lng={28.6275}
+      mapIcon="🌅"
     />
   );
 }

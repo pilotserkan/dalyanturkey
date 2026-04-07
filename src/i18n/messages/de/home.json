@@ -124,5 +124,42 @@
       "title": "Alle Sehenswurdigkeiten finden",
       "subtitle": "Klicken Sie auf eine Markierung, um zu erkunden — jede fuhrt direkt zur zugehorigen Seite mit allen Details."
     }
+  },
+  "weather": {
+    "badge": "Wetter & Klima",
+    "title": "Dalyan Wetter-Ratgeber",
+    "subtitle": "Planen Sie Ihren perfekten Besuch mit monatlichen Wetterdaten, Meerestemperaturen und Aktivitatsempfehlungen",
+    "airTemp": "Lufttemperatur",
+    "seaTemp": "Wassertemperatur",
+    "wind": "Windgeschwindigkeit",
+    "sunshine": "Tagliche Sonnenstunden",
+    "swimOk": "Ideal zum Schwimmen",
+    "swimCold": "Zu kalt zum Schwimmen",
+    "windCalm": "Ruhige Bedingungen",
+    "windModerate": "Massige Brise",
+    "month": "Monat",
+    "airShort": "Luft",
+    "seaShort": "Meer",
+    "sunShort": "Sonne",
+    "windShort": "Wind",
+    "rainShort": "Regen",
+    "swimShort": "Schwimmen",
+    "months": {
+      "jan": "Januar", "feb": "Februar", "mar": "Marz", "apr": "April",
+      "may": "Mai", "jun": "Juni", "jul": "Juli", "aug": "August",
+      "sep": "September", "oct": "Oktober", "nov": "November", "dec": "Dezember"
+    },
+    "activitiesTitle": "Empfohlene Aktivitaten diesen Monat",
+    "activities": {
+      "boatTour": "Bootstouren",
+      "swimming": "Schwimmen",
+      "turtles": "Schildkrotenbeobachtung",
+      "mudBath": "Schlammbader",
+      "birdwatch": "Vogelbeobachtung",
+      "hiking": "Wandern",
+      "diving": "Tauchen",
+      "cultural": "Kulturtouren"
+    },
+    "available": "Jetzt verfugbar"
   }
 }

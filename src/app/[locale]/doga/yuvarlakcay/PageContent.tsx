@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'nature', 'visiting']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-mountain.jpg"
+      lat={36.8550}
+      lng={28.7300}
+      mapIcon="💧"
     />
   );
 }

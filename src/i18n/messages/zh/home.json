@@ -124,5 +124,42 @@
       "title": "查找每个景点",
       "subtitle": "点击任意标记进行探索——每个标记直接链接到其专属页面，包含完整详情。"
     }
+  },
+  "weather": {
+    "badge": "天气与气候",
+    "title": "达利安天气指南",
+    "subtitle": "通过每月天气数据、海水温度和活动推荐，规划您的完美之旅",
+    "airTemp": "气温",
+    "seaTemp": "海水温度",
+    "wind": "风速",
+    "sunshine": "日照时长",
+    "swimOk": "非常适合游泳",
+    "swimCold": "水温过低不宜游泳",
+    "windCalm": "风平浪静",
+    "windModerate": "微风",
+    "month": "月份",
+    "airShort": "气温",
+    "seaShort": "海温",
+    "sunShort": "日照",
+    "windShort": "风速",
+    "rainShort": "降雨",
+    "swimShort": "游泳",
+    "months": {
+      "jan": "一月", "feb": "二月", "mar": "三月", "apr": "四月",
+      "may": "五月", "jun": "六月", "jul": "七月", "aug": "八月",
+      "sep": "九月", "oct": "十月", "nov": "十一月", "dec": "十二月"
+    },
+    "activitiesTitle": "本月推荐活动",
+    "activities": {
+      "boatTour": "游船之旅",
+      "swimming": "游泳",
+      "turtles": "海龟观赏",
+      "mudBath": "泥浴",
+      "birdwatch": "观鸟",
+      "hiking": "徒步",
+      "diving": "潜水",
+      "cultural": "文化之旅"
+    },
+    "available": "现在可用"
   }
 }

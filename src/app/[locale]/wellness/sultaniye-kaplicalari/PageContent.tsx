@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['intro', 'ancient', 'benefits', 'experience']}
       hubSlug="wellness"
       backgroundImage="/images/dalyan-riverside.jpg"
+      lat={36.8450}
+      lng={28.6550}
+      mapIcon="♨️"
     />
   );
 }

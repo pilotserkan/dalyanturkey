@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'culinary', 'ecosystem']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-mountain.jpg"
+      lat={36.8345}
+      lng={28.6320}
+      mapIcon="🦀"
     />
   );
 }

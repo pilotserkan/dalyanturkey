@@ -124,5 +124,42 @@
       "title": "Vind Elke Attractie",
       "subtitle": "Klik op een marker om te verkennen — elke marker linkt direct naar de bijbehorende pagina met alle details."
     }
+  },
+  "weather": {
+    "badge": "Weer & Klimaat",
+    "title": "Dalyan Weergids",
+    "subtitle": "Plan uw perfecte bezoek met maandelijkse weergegevens, zeetemperaturen en activiteitenaanbevelingen",
+    "airTemp": "Luchttemperatuur",
+    "seaTemp": "Zeetemperatuur",
+    "wind": "Windsnelheid",
+    "sunshine": "Dagelijkse Zonneschijn",
+    "swimOk": "Ideaal om te zwemmen",
+    "swimCold": "Te koud om te zwemmen",
+    "windCalm": "Kalme omstandigheden",
+    "windModerate": "Matige bries",
+    "month": "Maand",
+    "airShort": "Lucht",
+    "seaShort": "Zee",
+    "sunShort": "Zon",
+    "windShort": "Wind",
+    "rainShort": "Regen",
+    "swimShort": "Zwemmen",
+    "months": {
+      "jan": "Januari", "feb": "Februari", "mar": "Maart", "apr": "April",
+      "may": "Mei", "jun": "Juni", "jul": "Juli", "aug": "Augustus",
+      "sep": "September", "oct": "Oktober", "nov": "November", "dec": "December"
+    },
+    "activitiesTitle": "Aanbevolen Activiteiten Deze Maand",
+    "activities": {
+      "boatTour": "Boottochten",
+      "swimming": "Zwemmen",
+      "turtles": "Schildpadden Spotten",
+      "mudBath": "Modderbaden",
+      "birdwatch": "Vogels Kijken",
+      "hiking": "Wandelen",
+      "diving": "Duiken",
+      "cultural": "Culturele Rondleidingen"
+    },
+    "available": "Nu beschikbaar"
   }
 }

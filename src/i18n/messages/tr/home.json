@@ -124,5 +124,42 @@
       "title": "Tüm Gezilecek Yerleri Bulun",
       "subtitle": "Herhangi bir işaretçiye tıklayarak keşfedin — her biri tüm ayrıntıların yer aldığı özel sayfasına yönlendirir."
     }
+  },
+  "weather": {
+    "badge": "Hava Durumu ve İklim",
+    "title": "Dalyan Hava Durumu Rehberi",
+    "subtitle": "Aylık hava verileri, deniz suyu sıcaklıkları ve aktivite önerileriyle mükemmel ziyaretinizi planlayın",
+    "airTemp": "Hava Sıcaklığı",
+    "seaTemp": "Deniz Suyu Sıcaklığı",
+    "wind": "Rüzgar Hızı",
+    "sunshine": "Günlük Güneşlenme",
+    "swimOk": "Yüzmek için harika",
+    "swimCold": "Yüzmek için çok soğuk",
+    "windCalm": "Sakin koşullar",
+    "windModerate": "Orta şiddette rüzgar",
+    "month": "Ay",
+    "airShort": "Hava",
+    "seaShort": "Deniz",
+    "sunShort": "Güneş",
+    "windShort": "Rüzgar",
+    "rainShort": "Yağmur",
+    "swimShort": "Yüzme",
+    "months": {
+      "jan": "Ocak", "feb": "Şubat", "mar": "Mart", "apr": "Nisan",
+      "may": "Mayıs", "jun": "Haziran", "jul": "Temmuz", "aug": "Ağustos",
+      "sep": "Eylül", "oct": "Ekim", "nov": "Kasım", "dec": "Aralık"
+    },
+    "activitiesTitle": "Bu Ay Önerilen Aktiviteler",
+    "activities": {
+      "boatTour": "Tekne Turları",
+      "swimming": "Yüzme",
+      "turtles": "Kaplumbağa İzleme",
+      "mudBath": "Çamur Banyoları",
+      "birdwatch": "Kuş Gözlemciliği",
+      "hiking": "Yürüyüş",
+      "diving": "Dalış",
+      "cultural": "Kültür Turları"
+    },
+    "available": "Şu anda mevcut"
   }
 }

@@ -2,6 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import PageHero from '@/components/ui/PageHero';
+import LocationMiniMap from '@/components/ui/LocationMiniMap';
 export default function PageContent() {
   const t = useTranslations('hakkinda');
   const nav = useTranslations('nav');
@@ -79,6 +80,16 @@ export default function PageContent() {
             </ul>
           </section>
         )}
+
+        {/* Location Mini Map */}
+        <section className="mb-12 md:mb-16">
+          <LocationMiniMap
+            lat={36.8333}
+            lng={28.6333}
+            title={t('title')}
+            icon="📍"
+          />
+        </section>
       </div>
     </div>
   );

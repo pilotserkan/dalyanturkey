@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'rescued', 'caretta', 'rules', 'dekamer', 'gettingThere']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-mountain.jpg"
+      lat={36.7833}
+      lng={28.5950}
+      mapIcon="🏖️"
     />
   );
 }

@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'whatToBuy', 'gettingThere', 'tips']}
       hubSlug="pratik"
       backgroundImage="/images/dalyan-town-night.jpg"
+      lat={36.9708}
+      lng={28.6869}
+      mapIcon="🛒"
     />
   );
 }

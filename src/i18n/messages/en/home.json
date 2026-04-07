@@ -124,5 +124,42 @@
       "title": "Find Every Attraction",
       "subtitle": "Click any marker to explore — each links directly to its dedicated page with full details."
     }
+  },
+  "weather": {
+    "badge": "Weather & Climate",
+    "title": "Dalyan Weather Guide",
+    "subtitle": "Plan your perfect visit with monthly weather data, sea temperatures, and activity recommendations",
+    "airTemp": "Air Temperature",
+    "seaTemp": "Sea Temperature",
+    "wind": "Wind Speed",
+    "sunshine": "Daily Sunshine",
+    "swimOk": "Great for swimming",
+    "swimCold": "Too cold for swimming",
+    "windCalm": "Calm conditions",
+    "windModerate": "Moderate breeze",
+    "month": "Month",
+    "airShort": "Air",
+    "seaShort": "Sea",
+    "sunShort": "Sun",
+    "windShort": "Wind",
+    "rainShort": "Rain",
+    "swimShort": "Swim",
+    "months": {
+      "jan": "January", "feb": "February", "mar": "March", "apr": "April",
+      "may": "May", "jun": "June", "jul": "July", "aug": "August",
+      "sep": "September", "oct": "October", "nov": "November", "dec": "December"
+    },
+    "activitiesTitle": "Recommended Activities This Month",
+    "activities": {
+      "boatTour": "Boat Tours",
+      "swimming": "Swimming",
+      "turtles": "Turtle Watching",
+      "mudBath": "Mud Baths",
+      "birdwatch": "Birdwatching",
+      "hiking": "Hiking",
+      "diving": "Diving",
+      "cultural": "Cultural Tours"
+    },
+    "available": "Available now"
   }
 }

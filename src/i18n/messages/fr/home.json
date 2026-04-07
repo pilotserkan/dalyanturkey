@@ -124,5 +124,42 @@
       "title": "Trouvez Chaque Attraction",
       "subtitle": "Cliquez sur un marqueur pour explorer — chacun renvoie directement à sa page dédiée avec tous les détails."
     }
+  },
+  "weather": {
+    "badge": "Meteo & Climat",
+    "title": "Guide Meteo de Dalyan",
+    "subtitle": "Planifiez votre visite ideale avec les donnees meteorologiques mensuelles, les temperatures de la mer et les recommandations d'activites",
+    "airTemp": "Temperature de l'air",
+    "seaTemp": "Temperature de la mer",
+    "wind": "Vitesse du vent",
+    "sunshine": "Ensoleillement quotidien",
+    "swimOk": "Ideal pour la baignade",
+    "swimCold": "Trop froid pour la baignade",
+    "windCalm": "Conditions calmes",
+    "windModerate": "Brise moderee",
+    "month": "Mois",
+    "airShort": "Air",
+    "seaShort": "Mer",
+    "sunShort": "Soleil",
+    "windShort": "Vent",
+    "rainShort": "Pluie",
+    "swimShort": "Baignade",
+    "months": {
+      "jan": "Janvier", "feb": "Fevrier", "mar": "Mars", "apr": "Avril",
+      "may": "Mai", "jun": "Juin", "jul": "Juillet", "aug": "Aout",
+      "sep": "Septembre", "oct": "Octobre", "nov": "Novembre", "dec": "Decembre"
+    },
+    "activitiesTitle": "Activites Recommandees Ce Mois",
+    "activities": {
+      "boatTour": "Excursions en bateau",
+      "swimming": "Baignade",
+      "turtles": "Observation des tortues",
+      "mudBath": "Bains de boue",
+      "birdwatch": "Observation des oiseaux",
+      "hiking": "Randonnee",
+      "diving": "Plongee",
+      "cultural": "Visites culturelles"
+    },
+    "available": "Disponible maintenant"
   }
 }

@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'resin', 'visiting']}
       hubSlug="doga"
       backgroundImage="/images/dalyan-trees.jpg"
+      lat={36.8917}
+      lng={28.7000}
+      mapIcon="🌲"
     />
   );
 }

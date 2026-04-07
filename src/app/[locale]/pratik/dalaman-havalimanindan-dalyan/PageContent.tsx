@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'privateTaxi', 'shuttle', 'publicTransport', 'carRental']}
       hubSlug="pratik"
       backgroundImage="/images/dalyan-town-night.jpg"
+      lat={36.7131}
+      lng={28.7925}
+      mapIcon="✈️"
     />
   );
 }

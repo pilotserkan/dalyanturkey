@@ -124,5 +124,42 @@
       "title": "Encuentra Cada Atracción",
       "subtitle": "Haz clic en cualquier marcador para explorar — cada uno enlaza directamente a su página dedicada con todos los detalles."
     }
+  },
+  "weather": {
+    "badge": "Clima y Tiempo",
+    "title": "Guia del Clima de Dalyan",
+    "subtitle": "Planifica tu visita perfecta con datos meteorologicos mensuales, temperaturas del mar y recomendaciones de actividades",
+    "airTemp": "Temperatura del aire",
+    "seaTemp": "Temperatura del mar",
+    "wind": "Velocidad del viento",
+    "sunshine": "Horas de sol diarias",
+    "swimOk": "Ideal para nadar",
+    "swimCold": "Demasiado frio para nadar",
+    "windCalm": "Condiciones tranquilas",
+    "windModerate": "Brisa moderada",
+    "month": "Mes",
+    "airShort": "Aire",
+    "seaShort": "Mar",
+    "sunShort": "Sol",
+    "windShort": "Viento",
+    "rainShort": "Lluvia",
+    "swimShort": "Nadar",
+    "months": {
+      "jan": "Enero", "feb": "Febrero", "mar": "Marzo", "apr": "Abril",
+      "may": "Mayo", "jun": "Junio", "jul": "Julio", "aug": "Agosto",
+      "sep": "Septiembre", "oct": "Octubre", "nov": "Noviembre", "dec": "Diciembre"
+    },
+    "activitiesTitle": "Actividades Recomendadas Este Mes",
+    "activities": {
+      "boatTour": "Paseos en barco",
+      "swimming": "Natacion",
+      "turtles": "Avistamiento de tortugas",
+      "mudBath": "Banos de barro",
+      "birdwatch": "Observacion de aves",
+      "hiking": "Senderismo",
+      "diving": "Buceo",
+      "cultural": "Tours culturales"
+    },
+    "available": "Disponible ahora"
   }
 }

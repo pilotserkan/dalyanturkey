@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'conservation', 'whatYouSee']}
       hubSlug="turlar"
       backgroundImage="/images/dalyan-river-boats.jpg"
+      lat={36.7850}
+      lng={28.5983}
+      mapIcon="🐢"
     />
   );
 }

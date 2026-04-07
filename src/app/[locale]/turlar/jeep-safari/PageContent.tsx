@@ -10,6 +10,9 @@ export default function PageContent() {
       sectionKeys={['overview', 'route', 'experience']}
       hubSlug="turlar"
       backgroundImage="/images/dalyan-mountain.jpg"
+      lat={36.8500}
+      lng={28.6500}
+      mapIcon="🚙"
     />
   );
 }
