@@ -1,6 +1,7 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useLocale } from 'next-intl';
+import { getWeatherText } from '@/lib/weather-i18n';
 
 /* ------------------------------------------------------------------ */
 /*  Dalyan average monthly data (historical averages)                  */
@@ -32,8 +33,9 @@ const ACTIVITIES = [
 ];
 
 export default function WeatherWidget() {
-  const t = useTranslations('weather');
-  const currentMonth = new Date().getMonth(); // 0-11
+  const locale = useLocale();
+  const t = (key: string) => getWeatherText(locale, key);
+  const currentMonth = new Date().getMonth();
   const current = MONTHS[currentMonth];
 
   return (
@@ -116,7 +118,7 @@ export default function WeatherWidget() {
                 <tr key={m.key} className={`border-b border-gray-50 ${i === currentMonth ? 'bg-amber-50 font-semibold' : i % 2 === 0 ? 'bg-gray-50/50' : ''}`}>
                   <td className="px-3 py-2.5 font-medium text-gray-900">
                     {i === currentMonth && <span className="inline-block w-2 h-2 rounded-full bg-amber-500 mr-1.5" />}
-                    {t(`months.${m.key}`)}
+                    {t(m.key)}
                   </td>
                   <td className="px-3 py-2.5 text-center">
                     <span className={`font-bold ${m.airHigh >= 30 ? 'text-red-600' : m.airHigh >= 20 ? 'text-orange-600' : 'text-blue-600'}`}>{m.airHigh}°</span>
@@ -160,7 +162,7 @@ export default function WeatherWidget() {
                 }`}
               >
                 <span className="text-2xl block mb-1">{act.icon}</span>
-                <span className="text-xs font-semibold block">{t(`activities.${act.key}`)}</span>
+                <span className="text-xs font-semibold block">{t(act.key)}</span>
                 {isAvailable && (
                   <span className="text-[10px] block mt-1 opacity-70">✓ {t('available')}</span>
                 )}

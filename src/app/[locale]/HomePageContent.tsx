@@ -4,6 +4,7 @@ import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import HomeMap from '@/components/ui/HomeMap';
 import WeatherWidget from '@/components/ui/WeatherWidget';
+import { getWeatherText } from '@/lib/weather-i18n';
 import { HUBS, HUB_ORDER } from '@/lib/navigation';
 
 /* ------------------------------------------------------------------ */
@@ -57,9 +58,9 @@ const FEATURED = [
 export default function HomePageContent() {
   const hero = useTranslations('hero');
   const t    = useTranslations('home');
-  const w    = useTranslations('weather');
   const nav  = useTranslations('nav');
   const locale = useLocale();
+  const w = (key: string) => getWeatherText(locale, key);
 
   return (
     <div className="overflow-x-hidden">

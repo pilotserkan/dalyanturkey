@@ -1,7 +1,8 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useLocale, useTranslations } from 'next-intl';
+import { useLocale } from 'next-intl';
+import { getWeatherText } from '@/lib/weather-i18n';
 import Link from 'next/link';
 
 interface LocationMiniMapProps {
@@ -14,7 +15,7 @@ interface LocationMiniMapProps {
 
 export default function LocationMiniMap({ lat, lng, title, icon = '\u{1F4CD}', zoom = 14 }: LocationMiniMapProps) {
   const locale = useLocale();
-  const t = useTranslations('weather');
+  const t = (key: string) => getWeatherText(locale, key);
   const mapId = `mini-map-${lat}-${lng}`.replace(/\./g, '-');
   const [copied, setCopied] = useState<'coords' | 'link' | null>(null);
 
