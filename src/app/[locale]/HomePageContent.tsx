@@ -82,26 +82,26 @@ export default function HomePageContent() {
             dalyanturkey.com
           </span>
 
-          <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold text-white mb-6 leading-[1.05] animate-fade-in-up" style={{ textShadow: '0 4px 24px rgba(0,0,0,0.5)' }}>
+          <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-extrabold text-white mb-4 sm:mb-6 leading-[1.1] animate-fade-in-up" style={{ textShadow: '0 4px 24px rgba(0,0,0,0.5)' }}>
             {hero('title')}
           </h1>
 
-          <p className="text-2xl sm:text-3xl md:text-4xl font-light text-amber-200 mb-6 animate-fade-in-up" style={{ textShadow: '0 2px 12px rgba(0,0,0,0.4)', animationDelay: '0.15s' }}>
+          <p className="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-light text-amber-200 mb-4 sm:mb-6 animate-fade-in-up" style={{ textShadow: '0 2px 12px rgba(0,0,0,0.4)', animationDelay: '0.15s' }}>
             {hero('subtitle')}
           </p>
 
-          <p className="text-base sm:text-lg md:text-xl text-white/80 mb-10 max-w-3xl mx-auto leading-relaxed animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
+          <p className="text-sm sm:text-base md:text-lg text-white/80 mb-6 sm:mb-10 max-w-3xl mx-auto leading-relaxed animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
             {hero('description')}
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up" style={{ animationDelay: '0.45s' }}>
-            <a href="#highlights" className="group inline-flex items-center gap-3 px-10 py-5 bg-gradient-to-r from-amber-500 to-orange-500 text-white font-bold rounded-full shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300 text-lg">
+          <div className="flex flex-col sm:flex-row gap-3 justify-center animate-fade-in-up px-4" style={{ animationDelay: '0.45s' }}>
+            <a href="#highlights" className="group inline-flex items-center justify-center gap-2 px-6 py-3 sm:px-10 sm:py-5 bg-gradient-to-r from-amber-500 to-orange-500 text-white font-bold rounded-full shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300 text-base sm:text-lg">
               {hero('exploreCta')}
-              <svg className="w-5 h-5 group-hover:translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+              <svg className="w-4 h-4 sm:w-5 sm:h-5 group-hover:translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
               </svg>
             </a>
-            <Link href={`/${locale}/tarih`} className="inline-flex items-center gap-2 px-10 py-5 bg-white/15 backdrop-blur-md text-white font-bold rounded-full border border-white/30 hover:bg-white/25 transition-all duration-300 text-lg">
+            <Link href={`/${locale}/tarih`} className="inline-flex items-center justify-center gap-2 px-6 py-3 sm:px-10 sm:py-5 bg-white/15 backdrop-blur-md text-white font-bold rounded-full border border-white/30 hover:bg-white/25 transition-all duration-300 text-base sm:text-lg">
               {hero('discoverCta')}
             </Link>
           </div>
@@ -181,6 +181,26 @@ export default function HomePageContent() {
               </Link>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* ============================================================ */}
+      {/*  INTERACTIVE MAP — right after highlights                     */}
+      {/* ============================================================ */}
+      <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <span className="inline-block px-4 py-1.5 bg-emerald-100 text-emerald-700 text-sm font-bold rounded-full mb-4 tracking-wide uppercase">
+              {t('map.badge')}
+            </span>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
+              {t('map.title')}
+            </h2>
+            <p className="text-lg text-gray-500 max-w-2xl mx-auto">
+              {t('map.subtitle')}
+            </p>
+          </div>
+          <HomeMap />
         </div>
       </section>
 
@@ -396,26 +416,6 @@ export default function HomePageContent() {
       </section>
 
       {/* ============================================================ */}
-      {/*  INTERACTIVE MAP                                              */}
-      {/* ============================================================ */}
-      <section className="py-24 bg-gradient-to-b from-sky-50 to-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <span className="inline-block px-4 py-1.5 bg-emerald-100 text-emerald-700 text-sm font-bold rounded-full mb-4 tracking-wide uppercase">
-              {t('map.badge')}
-            </span>
-            <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
-              {t('map.title')}
-            </h2>
-            <p className="text-xl text-gray-500 max-w-2xl mx-auto">
-              {t('map.subtitle')}
-            </p>
-          </div>
-          <HomeMap />
-        </div>
-      </section>
-
-      {/* ============================================================ */}
       {/*  CTA — Final call to action                                   */}
       {/* ============================================================ */}
       <section className="relative py-24 overflow-hidden">
@@ -430,10 +430,10 @@ export default function HomePageContent() {
             {t('cta.subtitle')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={`/${locale}/pratik/dalaman-havalimanindan-dalyan`} className="inline-flex items-center gap-2 px-10 py-5 bg-amber-500 hover:bg-amber-600 text-white font-bold rounded-full shadow-xl hover:shadow-2xl transition-all text-lg">
+            <Link href={`/${locale}/pratik/dalaman-havalimanindan-dalyan`} className="inline-flex items-center gap-2 px-6 py-3 sm:px-10 sm:py-5 bg-amber-500 hover:bg-amber-600 text-white font-bold rounded-full shadow-xl hover:shadow-2xl transition-all text-lg">
               {t('cta.plan')}
             </Link>
-            <Link href={`/${locale}/harita`} className="inline-flex items-center gap-2 px-10 py-5 bg-white/15 backdrop-blur-md text-white font-bold rounded-full border border-white/30 hover:bg-white/25 transition-all text-lg">
+            <Link href={`/${locale}/harita`} className="inline-flex items-center gap-2 px-6 py-3 sm:px-10 sm:py-5 bg-white/15 backdrop-blur-md text-white font-bold rounded-full border border-white/30 hover:bg-white/25 transition-all text-lg">
               {t('cta.map')}
             </Link>
           </div>

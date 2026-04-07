@@ -277,7 +277,7 @@ export default function Header() {
       {/* ---- Mobile Drawer ---- */}
       {/* Backdrop */}
       <div
-        className={`fixed inset-0 bg-black/40 transition-opacity duration-300 lg:hidden ${
+        className={`fixed inset-0 bg-black/40 transition-opacity duration-300 lg:hidden z-[60] ${
           mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
         }`}
         onClick={closeMobile}
@@ -285,7 +285,7 @@ export default function Header() {
 
       {/* Slide-out panel */}
       <div
-        className={`fixed top-0 right-0 h-full w-full max-w-sm bg-white shadow-2xl transition-transform duration-300 ease-in-out lg:hidden flex flex-col ${
+        className={`fixed top-0 right-0 h-full w-full max-w-sm bg-white shadow-2xl transition-transform duration-300 ease-in-out lg:hidden flex flex-col z-[70] ${
           mobileOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
