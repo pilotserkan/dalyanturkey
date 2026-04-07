@@ -4,23 +4,99 @@
     "subtitle": "Türkiye'nin Saklı Cenneti",
     "description": "Antik tarihin el değmemiş doğayla buluştuğu yer — Likya kaya mezarlarını keşfedin, sazlıklarla kaplı deltada tekne turu yapın, bembeyaz Kaplumbağa Plajı'nda yürüyün ve binlerce yıldır şifa arayan gezginlere ev sahipliği yapan kaplıcalarda rahatlayın.",
     "exploreCta": "Dalyan'ı Keşfet",
-    "discoverCta": "Tarihi Keşfet"
+    "discoverCta": "Tarihi Keşfet",
+    "scrollDown": "Keşfetmek için kaydırın"
   },
   "home": {
+    "highlights": {
+      "badge": "Neden Dalyan?",
+      "title": "Yaşayan Bir Açık Hava Müzesi",
+      "subtitle": "3.000 yıllık tarihin el değmemiş Akdeniz doğasıyla buluştuğu yer",
+      "history": {
+        "title": "3.000 Yıllık Tarih",
+        "text": "Görkemli Kaunos Antik Kenti'nden dik kayalara oyulmuş ikonik Likya Kaya Mezarları'na kadar — Dalyan, Karya, Yunan, Roma ve Bizans uygarlıklarının canlı bir zaman çizelgesidir."
+      },
+      "nature": {
+        "title": "Bozulmamış Doğa",
+        "text": "Akdeniz'deki son Caretta Caretta yuvalama alanlarından biri olan İztuzu Plajı, tek bir yapı olmaksızın 12 km uzanır. Dalyan Deltası 180'den fazla kuş türüne ev sahipliği yapar."
+      },
+      "wellness": {
+        "title": "Kadim Şifa Suları",
+        "text": "Sultaniye Kaplıcaları 2.000 yıldır ziyaretçilerine şifa vermektedir. Doğal mineralli çamur banyoları, antik çağlardan bu yana değişmeyen bir gençleşme deneyimi sunar."
+      },
+      "cuisine": {
+        "title": "Otantik Akdeniz Lezzetleri",
+        "text": "Nehirden taze levrek, dağlardan yabani otlar, Köyceğiz Gölü'nün efsanevi mavi yengeci — Dalyan mutfağı kara ve denizin bir kutlamasıdır."
+      }
+    },
     "hubs": {
-      "title": "Dalyan'ı Keşfedin",
-      "subtitle": "Doğanın, tarihin ve macerinin bir araya geldiği zamansız bir destinasyon"
+      "badge": "Keşfet",
+      "title": "Dalyan'ın Her Köşesini Keşfedin",
+      "subtitle": "Tarih, doğa, sağlık, macera, mutfak ve yerel bilgi arasında altı özenle hazırlanmış yolculuk"
+    },
+    "featured": {
+      "badge": "Mutlaka Görün",
+      "kaunos": {
+        "title": "Kaunos Antik Kenti",
+        "text": "3.000 yıllık bir kentin kalıntıları arasında yürüyün — 5.000 kişilik Roma tiyatrosundan, Kaunos'u antik dünyaya bağlayan limana kadar."
+      },
+      "rockTombs": {
+        "title": "Likya Kaya Mezarları",
+        "text": "MÖ 4. yüzyılda dik kayalara oyulmuş bu tapınak tarzı mezarlar, gün batımında altın rengiyle parlar ve geceleri aydınlatılır — Dalyan'ın en ikonik manzarası."
+      },
+      "iztuzu": {
+        "title": "İztuzu Kaplumbağa Plajı",
+        "text": "Hiçbir yapı bulunmayan 12 kilometrelik altın kumlu bir şerit; 1988'den bu yana Akdeniz'in en önemli Caretta Caretta yuvalama alanlarından biri olarak korunmaktadır."
+      }
     },
     "stats": {
-      "title": "Neden Dalyan?",
-      "subtitle": "3.000 yıllık medeniyetin korunan doğayla iç içe olduğu Türkiye'nin nadir köşelerinden biri",
+      "title": "Rakamlarla Dalyan",
+      "subtitle": "Antik medeniyetin korunan doğayla kusursuzca bütünleştiği Türkiye'nin nadir köşelerinden biri",
       "years": { "value": "3.000+", "label": "Yıllık Tarih" },
       "species": { "value": "180+", "label": "Kuş Türü" },
       "river": { "value": "12 km", "label": "Doğal Kanal" },
-      "sun": { "value": "300+", "label": "Güneşli Gün/Yıl" }
+      "sun": { "value": "300+", "label": "Güneşli Gün/Yıl" },
+      "turtles": { "value": "300+", "label": "Kaplumbağa Yuvası/Yıl" },
+      "airport": { "value": "25 km", "label": "Havalimanından" }
+    },
+    "experience": {
+      "badge": "Dalyan Deneyimi",
+      "title": "Bir Gün, Sonsuz Anılar",
+      "subtitle": "Dalyan'da tipik bir gün — sabahtan gün batımına",
+      "morning": {
+        "time": "08:00",
+        "title": "Nehir Kıyısında Kahvaltı",
+        "text": "Güne Kaya Mezarları manzaralı geleneksel bir Türk kahvaltısıyla başlayın — taze peynir, bal, zeytin ve bitmeyen çay."
+      },
+      "midMorning": {
+        "time": "10:00",
+        "title": "Nehir Tekne Turu",
+        "text": "Geleneksel ahşap bir tekneye binin ve sazlıklarla kaplı deltadan Kaunos Antik Kenti'ne doğru süzülün."
+      },
+      "noon": {
+        "time": "12:00",
+        "title": "Çamur Banyosu ve Kaplıca",
+        "text": "Mineral bakımından zengin çamura bürünün, güneşte kurutun ve 39°C termal sularda durulayın — 2.000 yıllık bir sağlık ritüeli."
+      },
+      "afternoon": {
+        "time": "14:00",
+        "title": "İztuzu Plajı",
+        "text": "Türkiye'nin en ünlü kaplumbağa plajına varın — her yaz Caretta Caretta kaplumbağalarının yuvaladığı 12 km'lik bozulmamış kum."
+      },
+      "evening": {
+        "time": "18:00",
+        "title": "Altın Saat Gün Batımı",
+        "text": "Güneş dağların ardına batarken Kaya Mezarları'nın önce kehribar, sonra altın, ardından koyu turuncu renkte parlamasını izleyin. Saf büyü."
+      },
+      "night": {
+        "time": "20:00",
+        "title": "Nehir Kıyısında Akşam Yemeği",
+        "text": "Yıldızların altında taze balık, yerel mezeler ve Türk şarabı — aydınlatılmış mezarların durgun nehir suyundaki yansımasıyla."
+      }
     },
     "testimonials": {
-      "title": "Gezginler Ne Diyor?",
+      "badge": "Gezgin Hikayeleri",
+      "title": "Ziyaretçiler Dalyan Hakkında Ne Diyor?",
       "1": {
         "quote": "Gün batımında kaya mezarlarının önünden tekneyle geçtik ve manzara gerçekten nefes kesiciydi. Dalyan, dünyanın henüz keşfetmediği gizli bir hazine gibi hissettiriyor.",
         "name": "Sarah M.",
@@ -36,6 +112,17 @@
         "name": "Marie L.",
         "location": "Fransa"
       }
+    },
+    "cta": {
+      "title": "Dalyan'ı Keşfetmeye Hazır mısınız?",
+      "subtitle": "Dalaman Uluslararası Havalimanı'na sadece 25 km — Akdeniz cennetiniz sizi bekliyor.",
+      "plan": "Seyahatinizi Planlayın",
+      "map": "Haritayı Keşfedin"
+    },
+    "map": {
+      "badge": "İnteraktif Harita",
+      "title": "Tüm Gezilecek Yerleri Bulun",
+      "subtitle": "Herhangi bir işaretçiye tıklayarak keşfedin — her biri tüm ayrıntıların yer aldığı özel sayfasına yönlendirir."
     }
   }
 }

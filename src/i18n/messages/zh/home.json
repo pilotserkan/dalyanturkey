@@ -1,41 +1,128 @@
 {
   "hero": {
-    "title": "Welcome to Dalyan",
-    "subtitle": "Turkey's Hidden Paradise",
-    "description": "Where ancient history meets untouched nature \u2014 discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
-    "exploreCta": "Explore Dalyan",
-    "discoverCta": "Discover History"
+    "title": "欢迎来到达利安",
+    "subtitle": "土耳其的隐秘天堂",
+    "description": "古老历史与原始自然在此交汇——探索吕基亚岩墓，泛舟芦苇环绕的三角洲，漫步原始海龟海滩，沐浴在千年来治愈旅人的温泉之中。",
+    "exploreCta": "探索达利安",
+    "discoverCta": "发现历史",
+    "scrollDown": "向下滚动探索"
   },
   "home": {
+    "highlights": {
+      "badge": "为什么选择达利安？",
+      "title": "一座活的露天博物馆",
+      "subtitle": "三千年历史与原始地中海自然在此交汇",
+      "history": {
+        "title": "三千年历史",
+        "text": "从雄伟的Kaunos古城到镌刻在陡峭崖壁上的标志性吕基亚岩墓——达利安是卡里亚、希腊、罗马和拜占庭文明的活历史。"
+      },
+      "nature": {
+        "title": "原始自然",
+        "text": "İztuzu海滩是地中海仅存的Caretta Caretta海龟筑巢地之一，绵延12公里，没有任何建筑。达利安三角洲栖息着超过180种鸟类。"
+      },
+      "wellness": {
+        "title": "千年疗愈之泉",
+        "text": "Sultaniye温泉两千年来持续为游客带来健康。天然富含矿物质的泥浴提供自古以来未曾改变的焕新体验。"
+      },
+      "cuisine": {
+        "title": "正宗地中海风味",
+        "text": "来自河流的新鲜鲈鱼，来自山间的野生香草，来自Köyceğiz湖的传奇蓝蟹——达利安的美食是对山海的礼赞。"
+      }
+    },
     "hubs": {
-      "title": "Discover Dalyan",
-      "subtitle": "A timeless destination where nature, history, and adventure converge"
+      "badge": "探索",
+      "title": "发现达利安的每一个角落",
+      "subtitle": "六条精选之旅，穿越历史、自然、养生、冒险、美食与当地智慧"
+    },
+    "featured": {
+      "badge": "必看景点",
+      "kaunos": {
+        "title": "Kaunos古城",
+        "text": "漫步于这座三千年古城的遗迹之间——从可容纳五千人的罗马剧场到曾经连接Kaunos与古代世界的港口。"
+      },
+      "rockTombs": {
+        "title": "吕基亚岩墓",
+        "text": "公元前四世纪镌刻在陡峭崖壁上，这些神殿式墓穴在日落时闪耀金光，夜晚则被灯光照亮——达利安最具标志性的景观。"
+      },
+      "iztuzu": {
+        "title": "İztuzu海龟海滩",
+        "text": "一条12公里长的金色沙带，没有任何建筑，自1988年起受到保护，是地中海最重要的Caretta Caretta海龟筑巢地之一。"
+      }
     },
     "stats": {
-      "title": "Why Visit Dalyan?",
-      "subtitle": "A rare corner of Turkey where 3,000 years of civilisation blend seamlessly with protected nature",
-      "years": { "value": "3,000+", "label": "Years of History" },
-      "species": { "value": "180+", "label": "Bird Species" },
-      "river": { "value": "12 km", "label": "Scenic Canal" },
-      "sun": { "value": "300+", "label": "Sunny Days/Year" }
+      "title": "达利安数据一览",
+      "subtitle": "土耳其一个珍稀的角落，古老文明与受保护的自然完美融合",
+      "years": { "value": "3,000+", "label": "年历史" },
+      "species": { "value": "180+", "label": "鸟类种类" },
+      "river": { "value": "12公里", "label": "风景河道" },
+      "sun": { "value": "300+", "label": "晴天/年" },
+      "turtles": { "value": "300+", "label": "海龟巢穴/年" },
+      "airport": { "value": "25公里", "label": "距机场" }
+    },
+    "experience": {
+      "badge": "体验达利安",
+      "title": "一天之内，无限回忆",
+      "subtitle": "达利安的典型一天——从清晨到日落",
+      "morning": {
+        "time": "08:00",
+        "title": "河畔早餐",
+        "text": "以一顿传统土耳其早餐开启新的一天，眺望岩墓——新鲜奶酪、蜂蜜、橄榄和无限续杯的茶。"
+      },
+      "midMorning": {
+        "time": "10:00",
+        "title": "河上游船",
+        "text": "登上传统木船，穿过芦苇环绕的三角洲，驶向古城Kaunos。"
+      },
+      "noon": {
+        "time": "12:00",
+        "title": "泥浴与温泉",
+        "text": "将富含矿物质的泥涂满全身，在阳光下晒干，再用39°C的温泉水冲洗——一个延续两千年的养生仪式。"
+      },
+      "afternoon": {
+        "time": "14:00",
+        "title": "İztuzu海滩",
+        "text": "抵达土耳其最著名的海龟海滩——12公里原始沙滩，每年夏天Caretta Caretta海龟在此筑巢。"
+      },
+      "evening": {
+        "time": "18:00",
+        "title": "黄金时刻的日落",
+        "text": "看着岩墓从琥珀色变为金色，再变为深橙色，太阳在群山后缓缓落下。纯粹的魔法。"
+      },
+      "night": {
+        "time": "20:00",
+        "title": "河畔晚餐",
+        "text": "新鲜鱼类、当地小食和土耳其美酒，在繁星之下——灯火辉煌的岩墓倒映在宁静的河面上。"
+      }
     },
     "testimonials": {
-      "title": "What Travelers Say",
+      "badge": "旅行者故事",
+      "title": "游客对达利安的评价",
       "1": {
-        "quote": "We took the river boat past the rock tombs at sunset and it was genuinely breathtaking. Dalyan feels like a secret the rest of the world hasn't found yet.",
+        "quote": "我们乘船在日落时经过岩墓，景色令人叹为观止。达利安感觉像是一个尚未被世界发现的秘密。",
         "name": "Sarah M.",
-        "location": "United Kingdom"
+        "location": "英国"
       },
       "2": {
-        "quote": "The combination of ancient ruins, thermal springs and unspoiled beaches is unlike anything else in the Mediterranean. We keep coming back every summer.",
+        "quote": "古迹遗址、温泉和原始海滩的组合在整个地中海无与伦比。我们每年夏天都会再来。",
         "name": "Hans W.",
-        "location": "Germany"
+        "location": "德国"
       },
       "3": {
-        "quote": "Watching a Caretta Caretta turtle swim alongside our boat was a once-in-a-lifetime moment. Dalyan is a paradise for nature lovers and families alike.",
+        "quote": "看到一只Caretta Caretta海龟在我们的船旁游泳，那是一生难忘的时刻。达利安是自然爱好者和家庭的天堂。",
         "name": "Marie L.",
-        "location": "France"
+        "location": "法国"
       }
+    },
+    "cta": {
+      "title": "准备好探索达利安了吗？",
+      "subtitle": "距达拉曼国际机场仅25公里——你的地中海天堂在等待。",
+      "plan": "规划您的旅程",
+      "map": "探索地图"
+    },
+    "map": {
+      "badge": "互动地图",
+      "title": "查找每个景点",
+      "subtitle": "点击任意标记进行探索——每个标记直接链接到其专属页面，包含完整详情。"
     }
   }
 }

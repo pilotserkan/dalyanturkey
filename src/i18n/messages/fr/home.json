@@ -1,41 +1,128 @@
 {
   "hero": {
-    "title": "Welcome to Dalyan",
-    "subtitle": "Turkey's Hidden Paradise",
-    "description": "Where ancient history meets untouched nature \u2014 discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
-    "exploreCta": "Explore Dalyan",
-    "discoverCta": "Discover History"
+    "title": "Bienvenue à Dalyan",
+    "subtitle": "Le Paradis Caché de la Turquie",
+    "description": "Là où l'histoire ancienne rencontre la nature préservée — découvrez les tombeaux rupestres lyciens, naviguez sur le delta bordé de roseaux, parcourez la plage des Tortues et baignez-vous dans les sources thermales qui soignent les voyageurs depuis des millénaires.",
+    "exploreCta": "Explorer Dalyan",
+    "discoverCta": "Découvrir l'Histoire",
+    "scrollDown": "Défiler pour explorer"
   },
   "home": {
+    "highlights": {
+      "badge": "Pourquoi Dalyan ?",
+      "title": "Un Musée Vivant à Ciel Ouvert",
+      "subtitle": "Là où 3 000 ans d'histoire rencontrent la nature méditerranéenne préservée",
+      "history": {
+        "title": "3 000 Ans d'Histoire",
+        "text": "De la puissante cité antique de Kaunos aux emblématiques tombeaux rupestres lyciens sculptés dans des falaises abruptes — Dalyan est une frise vivante des civilisations carienne, grecque, romaine et byzantine."
+      },
+      "nature": {
+        "title": "Nature Préservée",
+        "text": "İztuzu Beach, l'un des derniers sites de nidification des Caretta Caretta en Méditerranée, s'étend sur 12 km sans un seul bâtiment. Le delta de Dalyan abrite plus de 180 espèces d'oiseaux."
+      },
+      "wellness": {
+        "title": "Eaux Curatives Ancestrales",
+        "text": "Les sources chaudes de Sultaniye soignent les visiteurs depuis 2 000 ans. Les bains de boue naturels riches en minéraux offrent une expérience de rajeunissement inchangée depuis l'Antiquité."
+      },
+      "cuisine": {
+        "title": "Saveurs Méditerranéennes Authentiques",
+        "text": "Bar frais de la rivière, herbes sauvages des montagnes, légendaire crabe bleu du lac Köyceğiz — la cuisine de Dalyan est une célébration de la terre et de la mer."
+      }
+    },
     "hubs": {
-      "title": "Discover Dalyan",
-      "subtitle": "A timeless destination where nature, history, and adventure converge"
+      "badge": "Explorer",
+      "title": "Découvrez Chaque Recoin de Dalyan",
+      "subtitle": "Six parcours thématiques à travers l'histoire, la nature, le bien-être, l'aventure, la gastronomie et le savoir local"
+    },
+    "featured": {
+      "badge": "Incontournable",
+      "kaunos": {
+        "title": "Cité Antique de Kaunos",
+        "text": "Parcourez les vestiges d'une cité vieille de 3 000 ans — de son théâtre romain de 5 000 places au port qui reliait jadis Kaunos au monde antique."
+      },
+      "rockTombs": {
+        "title": "Tombeaux Rupestres Lyciens",
+        "text": "Sculptés dans des falaises abruptes au IVe siècle av. J.-C., ces tombeaux en forme de temple s'illuminent d'or au coucher du soleil et brillent la nuit — le site le plus emblématique de Dalyan."
+      },
+      "iztuzu": {
+        "title": "Plage des Tortues İztuzu",
+        "text": "Une bande de sable doré de 12 kilomètres sans aucune construction, protégée depuis 1988 comme l'un des sites de nidification des Caretta Caretta les plus importants de Méditerranée."
+      }
     },
     "stats": {
-      "title": "Why Visit Dalyan?",
-      "subtitle": "A rare corner of Turkey where 3,000 years of civilisation blend seamlessly with protected nature",
-      "years": { "value": "3,000+", "label": "Years of History" },
-      "species": { "value": "180+", "label": "Bird Species" },
-      "river": { "value": "12 km", "label": "Scenic Canal" },
-      "sun": { "value": "300+", "label": "Sunny Days/Year" }
+      "title": "Dalyan en Chiffres",
+      "subtitle": "Un coin rare de Turquie où la civilisation antique se fond harmonieusement dans la nature protégée",
+      "years": { "value": "3 000+", "label": "Ans d'Histoire" },
+      "species": { "value": "180+", "label": "Espèces d'Oiseaux" },
+      "river": { "value": "12 km", "label": "Canal Pittoresque" },
+      "sun": { "value": "300+", "label": "Jours de Soleil/An" },
+      "turtles": { "value": "300+", "label": "Nids de Tortues/An" },
+      "airport": { "value": "25 km", "label": "De l'Aéroport" }
+    },
+    "experience": {
+      "badge": "Vivez Dalyan",
+      "title": "Un Jour, des Souvenirs Infinis",
+      "subtitle": "Une journée typique à Dalyan — du matin au coucher du soleil",
+      "morning": {
+        "time": "08:00",
+        "title": "Petit-Déjeuner au Bord de la Rivière",
+        "text": "Commencez votre journée avec un petit-déjeuner turc traditionnel face aux tombeaux rupestres — fromage frais, miel, olives et thé à volonté."
+      },
+      "midMorning": {
+        "time": "10:00",
+        "title": "Croisière Fluviale",
+        "text": "Embarquez sur un bateau en bois traditionnel et glissez à travers le delta bordé de roseaux vers la cité antique de Kaunos."
+      },
+      "noon": {
+        "time": "12:00",
+        "title": "Bain de Boue & Sources Chaudes",
+        "text": "Recouvrez-vous de boue riche en minéraux, séchez au soleil et rincez-vous dans des eaux thermales à 39°C — un rituel de bien-être vieux de 2 000 ans."
+      },
+      "afternoon": {
+        "time": "14:00",
+        "title": "Plage İztuzu",
+        "text": "Arrivez à la plus célèbre plage des tortues de Turquie — 12 km de sable vierge où les tortues Caretta Caretta nidifient chaque été."
+      },
+      "evening": {
+        "time": "18:00",
+        "title": "Coucher de Soleil à l'Heure Dorée",
+        "text": "Admirez les tombeaux rupestres qui s'embrasent d'ambre, puis d'or, puis d'orange profond à mesure que le soleil se couche derrière les montagnes. Magie pure."
+      },
+      "night": {
+        "time": "20:00",
+        "title": "Dîner au Bord de la Rivière",
+        "text": "Poisson frais, mézés locaux et vin turc sous les étoiles — avec les tombeaux illuminés se reflétant dans les eaux calmes de la rivière."
+      }
     },
     "testimonials": {
-      "title": "What Travelers Say",
+      "badge": "Témoignages de Voyageurs",
+      "title": "Ce que les Visiteurs Disent de Dalyan",
       "1": {
-        "quote": "We took the river boat past the rock tombs at sunset and it was genuinely breathtaking. Dalyan feels like a secret the rest of the world hasn't found yet.",
+        "quote": "Nous avons pris le bateau fluvial devant les tombeaux rupestres au coucher du soleil et c'était véritablement à couper le souffle. Dalyan semble être un secret que le reste du monde n'a pas encore découvert.",
         "name": "Sarah M.",
-        "location": "United Kingdom"
+        "location": "Royaume-Uni"
       },
       "2": {
-        "quote": "The combination of ancient ruins, thermal springs and unspoiled beaches is unlike anything else in the Mediterranean. We keep coming back every summer.",
+        "quote": "La combinaison de ruines antiques, de sources thermales et de plages préservées est incomparable en Méditerranée. Nous y retournons chaque été.",
         "name": "Hans W.",
-        "location": "Germany"
+        "location": "Allemagne"
       },
       "3": {
-        "quote": "Watching a Caretta Caretta turtle swim alongside our boat was a once-in-a-lifetime moment. Dalyan is a paradise for nature lovers and families alike.",
+        "quote": "Voir une tortue Caretta Caretta nager à côté de notre bateau fut un moment unique dans une vie. Dalyan est un paradis pour les amoureux de la nature et les familles.",
         "name": "Marie L.",
         "location": "France"
       }
+    },
+    "cta": {
+      "title": "Prêt à Découvrir Dalyan ?",
+      "subtitle": "À seulement 25 km de l'aéroport international de Dalaman — votre paradis méditerranéen vous attend.",
+      "plan": "Planifiez Votre Voyage",
+      "map": "Explorez la Carte"
+    },
+    "map": {
+      "badge": "Carte Interactive",
+      "title": "Trouvez Chaque Attraction",
+      "subtitle": "Cliquez sur un marqueur pour explorer — chacun renvoie directement à sa page dédiée avec tous les détails."
     }
   }
 }

@@ -1,41 +1,128 @@
 {
   "hero": {
-    "title": "Welcome to Dalyan",
-    "subtitle": "Turkey's Hidden Paradise",
-    "description": "Where ancient history meets untouched nature \u2014 discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
-    "exploreCta": "Explore Dalyan",
-    "discoverCta": "Discover History"
+    "title": "مرحباً بكم في داليان",
+    "subtitle": "جنّة تركيا المخفية",
+    "description": "حيث يلتقي التاريخ العريق بالطبيعة البكر — اكتشف المقابر الصخرية الليقية، وأبحر عبر دلتا القصب، وامشِ على شاطئ السلاحف النقي، واستحمّ في ينابيع حرارية شفت المسافرين منذ آلاف السنين.",
+    "exploreCta": "استكشف داليان",
+    "discoverCta": "اكتشف التاريخ",
+    "scrollDown": "مرّر للاستكشاف"
   },
   "home": {
+    "highlights": {
+      "badge": "لماذا داليان؟",
+      "title": "متحف حيّ في الهواء الطلق",
+      "subtitle": "حيث يلتقي 3,000 عام من التاريخ بالطبيعة المتوسطية البكر",
+      "history": {
+        "title": "3,000 عام من التاريخ",
+        "text": "من مدينة Kaunos الأثرية العظيمة إلى المقابر الصخرية الليقية المنحوتة في واجهات صخرية شاهقة — داليان هي جدول زمني حيّ للحضارات الكارية واليونانية والرومانية والبيزنطية."
+      },
+      "nature": {
+        "title": "طبيعة بكر",
+        "text": "شاطئ İztuzu، أحد آخر مواقع تعشيش سلاحف Caretta Caretta في البحر المتوسط، يمتد لمسافة 12 كم دون مبنى واحد. تأوي دلتا داليان أكثر من 180 نوعاً من الطيور."
+      },
+      "wellness": {
+        "title": "مياه شافية عبر العصور",
+        "text": "ينابيع Sultaniye الحارة تشفي الزوار منذ 2,000 عام. حمامات الطين الطبيعية الغنية بالمعادن تقدم تجربة تجديد لم تتغير منذ العصور القديمة."
+      },
+      "cuisine": {
+        "title": "نكهات متوسطية أصيلة",
+        "text": "سمك القاروص الطازج من النهر، الأعشاب البرية من الجبال، سلطعون Köyceğiz الأزرق الأسطوري — مطبخ داليان هو احتفاء بالبر والبحر."
+      }
+    },
     "hubs": {
-      "title": "Discover Dalyan",
-      "subtitle": "A timeless destination where nature, history, and adventure converge"
+      "badge": "استكشف",
+      "title": "اكتشف كل زاوية من داليان",
+      "subtitle": "ست رحلات مختارة عبر التاريخ والطبيعة والعافية والمغامرة والمطبخ والمعرفة المحلية"
+    },
+    "featured": {
+      "badge": "لا تفوّت",
+      "kaunos": {
+        "title": "مدينة Kaunos الأثرية",
+        "text": "تجوّل بين أطلال مدينة عمرها 3,000 عام — من مسرحها الروماني الذي يتسع لـ 5,000 متفرج إلى الميناء الذي ربط Kaunos بالعالم القديم."
+      },
+      "rockTombs": {
+        "title": "المقابر الصخرية الليقية",
+        "text": "منحوتة في واجهات صخرية شاهقة في القرن الرابع قبل الميلاد، تتوهج هذه المقابر ذات الطراز المعبدي بالذهب عند الغروب وتُضاء ليلاً — أكثر معالم داليان شهرة."
+      },
+      "iztuzu": {
+        "title": "شاطئ السلاحف İztuzu",
+        "text": "شريط من الرمال الذهبية بطول 12 كيلومتراً بدون أي مبانٍ، محمي منذ عام 1988 كأحد أهم مواقع تعشيش سلاحف Caretta Caretta في البحر المتوسط."
+      }
     },
     "stats": {
-      "title": "Why Visit Dalyan?",
-      "subtitle": "A rare corner of Turkey where 3,000 years of civilisation blend seamlessly with protected nature",
-      "years": { "value": "3,000+", "label": "Years of History" },
-      "species": { "value": "180+", "label": "Bird Species" },
-      "river": { "value": "12 km", "label": "Scenic Canal" },
-      "sun": { "value": "300+", "label": "Sunny Days/Year" }
+      "title": "داليان بالأرقام",
+      "subtitle": "زاوية نادرة من تركيا حيث تمتزج الحضارة القديمة بسلاسة مع الطبيعة المحمية",
+      "years": { "value": "+3,000", "label": "عام من التاريخ" },
+      "species": { "value": "+180", "label": "نوع من الطيور" },
+      "river": { "value": "12 كم", "label": "قناة خلابة" },
+      "sun": { "value": "+300", "label": "يوم مشمس/سنة" },
+      "turtles": { "value": "+300", "label": "عش سلاحف/سنة" },
+      "airport": { "value": "25 كم", "label": "من المطار" }
+    },
+    "experience": {
+      "badge": "عِش داليان",
+      "title": "يوم واحد، ذكريات لا تنتهي",
+      "subtitle": "يوم نموذجي في داليان — من الصباح حتى الغروب",
+      "morning": {
+        "time": "08:00",
+        "title": "فطور على ضفاف النهر",
+        "text": "ابدأ يومك بفطور تركي تقليدي مطل على المقابر الصخرية — جبن طازج وعسل وزيتون وشاي بلا نهاية."
+      },
+      "midMorning": {
+        "time": "10:00",
+        "title": "جولة بالقارب في النهر",
+        "text": "اصعد على متن قارب خشبي تقليدي وانساب عبر دلتا القصب نحو مدينة Kaunos الأثرية."
+      },
+      "noon": {
+        "time": "12:00",
+        "title": "حمام طين وينابيع حارة",
+        "text": "غطِّ جسمك بطين غني بالمعادن، وجفّ تحت الشمس، ثم اغتسل في مياه حرارية بدرجة 39 مئوية — طقس عافية عمره 2,000 عام."
+      },
+      "afternoon": {
+        "time": "14:00",
+        "title": "شاطئ İztuzu",
+        "text": "انطلق إلى أشهر شاطئ للسلاحف في تركيا — 12 كم من الرمال النقية حيث تعشش سلاحف Caretta Caretta كل صيف."
+      },
+      "evening": {
+        "time": "18:00",
+        "title": "غروب الساعة الذهبية",
+        "text": "شاهد المقابر الصخرية تتوهج بالكهرمان، ثم بالذهب، ثم بالبرتقالي العميق مع غروب الشمس خلف الجبال. سحر خالص."
+      },
+      "night": {
+        "time": "20:00",
+        "title": "عشاء على ضفاف النهر",
+        "text": "سمك طازج ومقبلات محلية ونبيذ تركي تحت النجوم — مع المقابر المضيئة منعكسة على مياه النهر الساكنة."
+      }
     },
     "testimonials": {
-      "title": "What Travelers Say",
+      "badge": "قصص المسافرين",
+      "title": "ماذا يقول الزوار عن داليان",
       "1": {
-        "quote": "We took the river boat past the rock tombs at sunset and it was genuinely breathtaking. Dalyan feels like a secret the rest of the world hasn't found yet.",
-        "name": "Sarah M.",
-        "location": "United Kingdom"
+        "quote": "أبحرنا بالقارب بمحاذاة المقابر الصخرية عند الغروب وكان المشهد خلاباً حقاً. داليان تبدو كسرّ لم يكتشفه بقية العالم بعد.",
+        "name": "سارة م.",
+        "location": "المملكة المتحدة"
       },
       "2": {
-        "quote": "The combination of ancient ruins, thermal springs and unspoiled beaches is unlike anything else in the Mediterranean. We keep coming back every summer.",
-        "name": "Hans W.",
-        "location": "Germany"
+        "quote": "مزيج الآثار القديمة والينابيع الحرارية والشواطئ البكر لا مثيل له في البحر المتوسط. نعود كل صيف.",
+        "name": "هانس و.",
+        "location": "ألمانيا"
       },
       "3": {
-        "quote": "Watching a Caretta Caretta turtle swim alongside our boat was a once-in-a-lifetime moment. Dalyan is a paradise for nature lovers and families alike.",
-        "name": "Marie L.",
-        "location": "France"
+        "quote": "مشاهدة سلحفاة Caretta Caretta تسبح بجانب قاربنا كانت لحظة لا تتكرر في العمر. داليان جنة لمحبي الطبيعة والعائلات على حد سواء.",
+        "name": "ماري ل.",
+        "location": "فرنسا"
       }
+    },
+    "cta": {
+      "title": "مستعد لاكتشاف داليان؟",
+      "subtitle": "على بُعد 25 كم فقط من مطار دالامان الدولي — جنتك المتوسطية بانتظارك.",
+      "plan": "خطّط لرحلتك",
+      "map": "استكشف الخريطة"
+    },
+    "map": {
+      "badge": "خريطة تفاعلية",
+      "title": "اعثر على كل معلم",
+      "subtitle": "انقر على أي علامة للاستكشاف — كل واحدة تربط مباشرة بصفحتها المخصصة مع جميع التفاصيل."
     }
   }
 }

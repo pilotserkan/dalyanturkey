@@ -1,63 +1,63 @@
 {
   "hakkinda": {
-    "title": "About Dalyan",
-    "subtitle": "Where Ancient History Meets Untouched Nature",
-    "badge": "About",
-    "heroDescription": "Dalyan is a small riverside town in Mugla Province, southwestern Turkey, that has earned a devoted following among travelers who value authenticity, natural beauty, and rich history over commercial resort development. Situated on the banks of the Dalyan River between Lake Koycegiz and the Mediterranean Sea, the town serves as a gateway to a remarkable concentration of natural and cultural attractions.",
+    "title": "Dalyan Hakkında",
+    "subtitle": "Antik Tarihin El Değmemiş Doğayla Buluştuğu Yer",
+    "badge": "Hakkında",
+    "heroDescription": "Dalyan, güneybatı Türkiye'nin Muğla ilinde yer alan küçük bir nehir kenarı kasabasıdır ve ticari tatil köyü gelişmesine karşı özgünlüğü, doğal güzelliği ve zengin tarihini tercih eden gezginler arasında sadık bir hayran kitlesi kazanmıştır. Köyceğiz Gölü ile Akdeniz arasında Dalyan Nehri kıyısında konumlanan kasaba, olağanüstü bir doğal ve kültürel cazibe merkezleri yoğunlaşmasının kapısıdır.",
     "sections": {
       "whereIs": {
-        "title": "Where Is Dalyan?",
-        "content": "Dalyan is located in the Ortaca district of Mugla Province in southwestern Turkey, a region known as the Turkish Turquoise Coast. The town sits on the western bank of the Dalyan River (Dalyan Cayi), which flows south from Lake Koycegiz for approximately 12 kilometers before reaching the Mediterranean Sea at Iztuzu Beach. Geographically, Dalyan lies at approximately 36.83 degrees North latitude and 28.64 degrees East longitude. It is positioned roughly midway between the larger resort towns of Marmaris (95 km east) and Fethiye (75 km west), and approximately 25 kilometers southeast of Dalaman Airport. The town is part of the larger Koycegiz-Dalyan Special Environmental Protection Area, a designation that encompasses the lake, river, delta, and surrounding ecosystems."
+        "title": "Dalyan Nerededir?",
+        "content": "Dalyan, Türk Turkuaz Kıyısı olarak bilinen güneybatı Türkiye'deki Muğla ilinin Ortaca ilçesinde yer almaktadır. Kasaba, Köyceğiz Gölü'nden yaklaşık 12 kilometre güneye doğru akarak İztuzu Plajı'nda Akdeniz'e ulaşan Dalyan Nehri'nin (Dalyan Çayı) batı kıyısında konumlanmıştır. Coğrafi olarak Dalyan, yaklaşık 36,83 derece Kuzey enlemi ve 28,64 derece Doğu boylamındadır. Daha büyük tatil kentleri Marmaris (95 km doğu) ile Fethiye (75 km batı) arasında kabaca orta noktada ve Dalaman Havalimanı'nın yaklaşık 25 kilometre güneydoğusunda yer alır. Kasaba, gölü, nehri, deltayı ve çevre ekosistemleri kapsayan Köyceğiz-Dalyan Özel Çevre Koruma Bölgesi'nin parçasıdır."
       },
       "geography": {
-        "title": "Geography & Natural Setting",
-        "content": "The geography of Dalyan is defined by the interplay of water, mountain, and coast. Lake Koycegiz, a large freshwater lake fed by mountain streams, dominates the landscape to the north. The Dalyan River drains the lake southward through a winding channel bordered by dense stands of giant reeds (Arundo donax) that create a distinctive corridor of green. The river flows through a broad delta of wetlands, marshes, and sandbars before reaching the sea at the Iztuzu sand spit, a narrow peninsula that separates the brackish delta lagoon from the open Mediterranean. Mountains rise on both sides of the river valley, covered in Mediterranean maquis scrubland, Turkish pine forests, and the rare Liquidambar orientalis (Oriental sweetgum) groves. This diverse topography within a compact area gives Dalyan an extraordinary concentration of distinct landscapes and ecosystems."
+        "title": "Coğrafya ve Doğal Ortam",
+        "content": "Dalyan'ın coğrafyası su, dağ ve kıyının etkileşimiyle tanımlanır. Dağ akarsularıyla beslenen büyük bir tatlı su gölü olan Köyceğiz Gölü, kuzeydeki manzaraya hâkimdir. Dalyan Nehri, gölü güneye doğru karakteristik bir yeşil koridor oluşturan dev saz (Arundo donax) toplulukları arasından kıvrılan bir kanaldan geçerek boşaltır. Nehir, sulak alanlar, bataklıklar ve kum bankalarından oluşan geniş bir deltadan geçerek acı su delta lagününü açık Akdeniz'den ayıran dar bir yarımada olan İztuzu kum şeridinde denize ulaşır. Nehir vadisinin her iki yanından dağlar yükselir; Akdeniz makisi çalıları, Türk çam ormanları ve nadir Liquidambar orientalis (sığla) koruluklarıyla kaplıdır. Kompakt bir alan içindeki bu çeşitli topografya, Dalyan'a olağanüstü bir farklı peyzaj ve ekosistem yoğunlaşması kazandırır."
       },
       "climate": {
-        "title": "Climate & Weather",
-        "content": "Dalyan enjoys a Mediterranean climate with distinct seasonal patterns that make it an attractive destination throughout much of the year. Summers are hot and dry, with average daily temperatures between 30 and 38 degrees Celsius from June through August and virtually no rainfall. The sea temperature at Iztuzu Beach reaches a comfortable 26 to 28 degrees by August. Winters are mild and wet, with average temperatures around 10 to 15 degrees Celsius and moderate rainfall concentrated between December and February. Spring arrives early, with wildflowers carpeting the hillsides from March, and autumn extends the warm season well into November. The river valley location can make summer evenings slightly more humid than exposed coastal towns, but afternoon sea breezes typically provide relief. Annual sunshine exceeds 300 days, making Dalyan one of the sunniest destinations in the eastern Mediterranean."
+        "title": "İklim ve Hava Durumu",
+        "content": "Dalyan, yılın büyük bölümünde çekici bir destinasyon yapan belirgin mevsimsel kalıplarıyla Akdeniz iklimine sahiptir. Yazlar sıcak ve kurudur; Haziran'dan Ağustos'a ortalama günlük sıcaklıklar 30 ile 38 derece Santigrat arasında seyreder ve neredeyse hiç yağış almaz. İztuzu Plajı'ndaki deniz suyu sıcaklığı Ağustos'a kadar konforlu 26-28 dereceye ulaşır. Kışlar ılıman ve yağışlıdır; ortalama sıcaklıklar yaklaşık 10-15 derece Santigrat civarındadır ve yağış Aralık ile Şubat arasında yoğunlaşır. İlkbahar erken gelir, Mart'tan itibaren kır çiçekleri tepeleri kaplar ve sonbahar sıcak mevsimi Kasım'a kadar uzatır. Nehir vadisi konumu, yaz akşamlarını açık kıyı kasabalarına göre biraz daha nemli kılabilir, ancak öğleden sonra deniz esintileri genellikle rahatlama sağlar. Yıllık güneşli gün sayısı 300'ü aşarak Dalyan'ı doğu Akdeniz'in en güneşli destinasyonlarından biri yapar."
       },
       "howToGetThere": {
-        "title": "How to Get There",
-        "content": "Dalyan is easily accessible from Dalaman Airport (DLM), which receives direct scheduled and charter flights from major cities across Europe, the United Kingdom, and Turkey throughout the year. The airport is located approximately 25 kilometers northwest of Dalyan, with private transfers taking around 30 minutes. By road, Dalyan is connected to the D400 highway via the town of Ortaca, making it accessible by bus from all major Turkish cities including Istanbul (approximately 12 hours), Ankara (approximately 9 hours), Izmir (approximately 4 hours), and Antalya (approximately 3.5 hours). The nearest intercity bus terminal (otogar) is in Ortaca, from where regular dolmus minibus services run to Dalyan. During the summer season, direct bus services from Istanbul and Ankara to Ortaca are available from several major bus companies."
+        "title": "Nasıl Gidilir?",
+        "content": "Dalyan'a en kolay erişim, yıl boyunca Avrupa, Birleşik Krallık ve Türkiye'deki büyük şehirlerden tarifeli ve charter seferleri alan Dalaman Havalimanı (DLM) üzerindendir; Mayıs'tan Ekim'e yaz sezonunda sefer sıklığı önemli ölçüde artar. Havalimanı Dalyan kasaba merkezinin yaklaşık 25 kilometre kuzeybatısındadır; özel transferler yaklaşık 30 dakika sürer. Karayoluyla Dalyan, Ortaca kasabası üzerinden D400 karayoluna bağlıdır ve İstanbul (yaklaşık 12 saat), Ankara (yaklaşık 9 saat), İzmir (yaklaşık 4 saat) ve Antalya (yaklaşık 3,5 saat) dahil tüm büyük Türk şehirlerinden otobüsle erişilebilir. En yakın şehirlerarası otobüs terminali (otogar) Ortaca'dadır ve buradan Dalyan'a düzenli dolmuş seferleri yapılmaktadır. Yaz sezonunda birçok büyük otobüs firması İstanbul ve Ankara'dan Ortaca'ya doğrudan otobüs seferleri düzenler."
       },
       "history": {
-        "title": "History & Culture",
-        "content": "The Dalyan region has been continuously inhabited for over 3,000 years, with the ancient city of Kaunos standing as the most prominent testament to its deep historical roots. Founded by the Carians in the 10th century BCE, Kaunos grew to become one of the most important port cities of the ancient world, strategically located on the border between the Carian and Lycian civilizations. The Lycian Rock Tombs carved into the cliff face above the river date primarily to the 4th century BCE and remain one of southwestern Turkey's most iconic sights. The region subsequently passed through Greek, Roman, Byzantine, Seljuk, and Ottoman control, each era leaving its mark on the cultural landscape. Today, Dalyan maintains a distinctly Turkish character, with a permanent population of approximately 5,000 residents who preserve local traditions, fishing culture, and agricultural practices alongside a welcoming approach to tourism that has earned the town a loyal base of returning visitors."
+        "title": "Tarih ve Kültür",
+        "content": "Dalyan bölgesi 3.000 yılı aşkın süredir kesintisiz yerleşim görmüş olup Kaunos Antik Kenti, derin tarihsel köklerinin en belirgin tanığı olarak öne çıkmaktadır. MÖ 10. yüzyılda Karyalılar tarafından kurulan Kaunos, Karya ve Likya medeniyetlerinin sınırında stratejik konumuyla antik dünyanın en önemli liman kentlerinden biri haline gelmiştir. Nehrin üzerindeki kaya yüzeyine oyulmuş Likya Kaya Mezarları ağırlıklı olarak MÖ 4. yüzyıla tarihlenir ve güneybatı Türkiye'nin en ikonik manzaralarından biri olmaya devam eder. Bölge sonradan Yunan, Roma, Bizans, Selçuklu ve Osmanlı egemenliğine girmiş; her dönem kültürel peyzaja damgasını vurmuştur. Bugün Dalyan belirgin bir Türk karakterini korumaktadır; yaklaşık 5.000 kişilik daimi nüfusu, yerel gelenekleri, balıkçılık kültürünü ve tarımsal uygulamaları turizme karşı sıcak bir yaklaşımla birlikte sürdürerek kasabaya sadık bir geri dönüş ziyaretçisi kitlesi kazandırmıştır."
       },
       "culture": {
-        "title": "Local Culture & Daily Life",
-        "content": "Despite its international popularity, Dalyan has retained a strong sense of local identity and authentic Turkish culture that distinguishes it from larger, more commercialized coastal resorts. The town's economy blends tourism with agriculture, fishing, and beekeeping, giving it a year-round community life that does not disappear when the tourist season ends. The Dalyan Boat Cooperative, a collective of local boat captains, manages river tourism in a way that distributes income broadly across the community. Weekly markets in Dalyan and nearby Koycegiz maintain the tradition of direct farmer-to-consumer trade. Mosque calls punctuate the day, families gather along the riverside promenade in the evenings, and the rhythm of life follows the seasons of planting, harvest, fishing, and festival. Visitors who spend more than a few days often find themselves drawn into the warm social fabric of a town that genuinely enjoys sharing its way of life with guests from around the world."
+        "title": "Yerel Kültür ve Günlük Yaşam",
+        "content": "Uluslararası popülaritesine rağmen Dalyan, onu daha büyük ve daha ticarileşmiş kıyı tatil beldelerinden ayıran güçlü bir yerel kimlik ve otantik Türk kültürünü korumuştur. Kasabanın ekonomisi turizmi tarım, balıkçılık ve arıcılıkla harmanlar ve turist sezonu sona erdiğinde ortadan kalkmayan yıl boyunca bir topluluk yaşamı sağlar. Yerel tekne kaptanlarının kolektifi olan Dalyan Tekne Kooperatifi, nehir turizmini gelirin topluluk genelinde geniş çapta dağıtılmasını sağlayacak şekilde yönetir. Dalyan ve yakındaki Köyceğiz'deki haftalık pazarlar, çiftçiden tüketiciye doğrudan ticaret geleneğini sürdürür. Ezan sesleri günü bölümler, aileler akşamları nehir kenarı yürüyüş yolunda toplanır ve yaşamın ritmi ekim, hasat, balıkçılık ve festival mevsimlerini takip eder. Birkaç günden fazla kalan ziyaretçiler genellikle kendilerini, dünyanın dört bir yanından gelen misafirlerle yaşam biçimini paylaşmaktan gerçekten keyif alan bir kasabanın sıcak sosyal dokusuna çekilmiş bulur."
       },
       "accommodation": {
-        "title": "Accommodation & Where to Stay",
-        "content": "Dalyan offers a diverse range of accommodation options that reflect the town's character and scale. Unlike the high-rise hotel strips of larger Turkish resorts, Dalyan's accommodation landscape is dominated by family-run boutique hotels, charming riverside pensions (pansiyon), and self-catering apartments scattered throughout the town and surrounding countryside. Many properties feature gardens, pools, and terraces with views of the river, the Lycian Rock Tombs, or the surrounding mountains. The riverside area near the town center is the most popular location for visitors who want to be within walking distance of restaurants, boat tour departures, and the evening promenade. Properties in the quieter Maras and Gulpinar neighborhoods offer a more peaceful setting while remaining close to the center. For those seeking a rural retreat, several boutique properties in the surrounding hills and villages provide seclusion and panoramic views. Booking in advance is recommended for July and August, when the most popular properties fill quickly."
+        "title": "Konaklama ve Nerede Kalınır?",
+        "content": "Dalyan, kasabanın karakterini ve ölçeğini yansıtan çeşitli konaklama seçenekleri sunmaktadır. Daha büyük Türk tatil beldelerinin yüksek katlı otel şeritlerinin aksine Dalyan'ın konaklama yelpazesi; aile işletmesi butik oteller, sevimli nehir kenarı pansiyonlar ve kasaba geneli ile çevredeki kırsalda dağılmış apart dairelerden oluşur. Birçok tesis, nehir, Likya Kaya Mezarları veya çevre dağlara manzaralı bahçeler, havuzlar ve teraslar sunmaktadır. Kasaba merkezine yakın nehir kenarı bölge, restoranlar, tekne turu kalkışları ve akşam yürüyüşüne yürüme mesafesinde olmak isteyen ziyaretçiler için en popüler konumdur. Daha sessiz Maraş ve Gülpınar mahallelerindeki tesisler, merkeze yakın kalırken daha huzurlu bir ortam sunar. Kırsal bir kaçış arayanlar için çevre tepe ve köylerdeki birkaç butik tesis, inziva ve panoramik manzaralar sağlar. Temmuz ve Ağustos'ta en popüler tesislerin hızla dolduğu dönemlerde önceden rezervasyon önerilir."
       },
       "whyVisit": {
-        "title": "Why Visit Dalyan?",
-        "content": "Dalyan appeals to travelers who seek depth and authenticity rather than mass-market resort experiences. Within a remarkably compact area, visitors can explore 3,000-year-old archaeological ruins, swim at one of Europe's finest protected beaches, soak in ancient thermal springs, observe endangered sea turtles in the wild, cruise through a pristine river delta teeming with birdlife, and dine on freshly caught fish at riverside restaurants beneath illuminated rock tombs. This extraordinary concentration of natural and cultural attractions, combined with the warmth of the local community and the town's commitment to environmental conservation, creates a destination that rewards both first-time visitors and those who return year after year. Dalyan is not merely a place to vacation; it is a place that stays with you long after you leave."
+        "title": "Neden Dalyan'ı Ziyaret Etmelisiniz?",
+        "content": "Dalyan, kitle turizmi tatil köyü deneyimleri yerine derinlik ve özgünlük arayan gezginlere hitap eder. Olağanüstü kompakt bir alanda ziyaretçiler; 3.000 yıllık arkeolojik kalıntıları keşfedebilir, Avrupa'nın en güzel korunan plajlarından birinde yüzebilir, kadim kaplıcalarda rahatlayabilir, doğada nesli tehlike altındaki deniz kaplumbağalarını gözlemleyebilir, kuş yaşamıyla dolu bozulmamış bir nehir deltasında gezebilir ve aydınlatılmış kaya mezarlarının altındaki nehir kenarı restoranlarda taze yakalanmış balıkla akşam yemeği yiyebilir. Bu olağanüstü doğal ve kültürel cazibe merkezleri yoğunlaşması, yerel topluluğun sıcaklığı ve kasabanın çevre korumasına olan bağlılığı bir araya gelerek hem ilk kez gelen ziyaretçileri hem de her yıl geri dönenleri ödüllendiren bir destinasyon yaratır. Dalyan yalnızca tatil yapılacak bir yer değildir; ayrıldıktan çok sonra bile sizi bırakmayan bir yerdir."
       }
     },
     "highlights": [
-      "Riverside town on the Dalyan River between Lake Koycegiz and the Mediterranean",
-      "25 kilometers from Dalaman International Airport",
-      "Mediterranean climate with over 300 days of sunshine annually",
-      "3,000+ years of continuous habitation and rich archaeological heritage",
-      "Part of the Koycegiz-Dalyan Special Environmental Protection Area",
-      "Home to the Caretta Caretta sea turtle nesting beach at Iztuzu",
-      "Family-run boutique hotels and riverside pensions",
-      "Authentic Turkish culture with a welcoming international atmosphere"
+      "Köyceğiz Gölü ile Akdeniz arasında Dalyan Nehri kıyısında nehir kenarı kasaba",
+      "Dalaman Uluslararası Havalimanı'na 25 kilometre",
+      "Yıllık 300 günü aşkın güneşli Akdeniz iklimi",
+      "3.000 yılı aşkın kesintisiz yerleşim ve zengin arkeolojik miras",
+      "Köyceğiz-Dalyan Özel Çevre Koruma Bölgesi'nin parçası",
+      "İztuzu'nda Caretta Caretta deniz kaplumbağası yuvalama plajına ev sahipliği",
+      "Aile işletmesi butik oteller ve nehir kenarı pansiyonlar",
+      "Sıcak uluslararası atmosferle otantik Türk kültürü"
     ],
     "practicalInfo": {
-      "title": "Quick Facts",
-      "location": "Ortaca district, Mugla Province, southwestern Turkey",
-      "population": "Approximately 5,000 permanent residents",
-      "elevation": "Sea level to 20 meters in town; surrounding mountains up to 1,000+ meters",
-      "nearestAirport": "Dalaman Airport (DLM), 25 km",
-      "nearestCities": "Ortaca (12 km), Koycegiz (25 km), Fethiye (75 km), Marmaris (95 km)",
-      "timezone": "Turkey Standard Time (TRT), UTC+3",
-      "language": "Turkish (English widely spoken in tourist areas)",
-      "currency": "Turkish Lira (TRY)"
+      "title": "Kısa Bilgiler",
+      "location": "Ortaca ilçesi, Muğla İli, güneybatı Türkiye",
+      "population": "Yaklaşık 5.000 daimi nüfus",
+      "elevation": "Kasabada deniz seviyesinden 20 metreye kadar; çevre dağlar 1.000+ metre",
+      "nearestAirport": "Dalaman Havalimanı (DLM), 25 km",
+      "nearestCities": "Ortaca (12 km), Köyceğiz (25 km), Fethiye (75 km), Marmaris (95 km)",
+      "timezone": "Türkiye Saati (TRT), UTC+3",
+      "language": "Türkçe (turistik bölgelerde İngilizce yaygın olarak konuşulur)",
+      "currency": "Türk Lirası (TRY)"
     }
   }
 }

@@ -1,101 +1,101 @@
 {
   "harita": {
-    "title": "Interactive Map of Dalyan",
-    "subtitle": "Explore Every Corner of Dalyan",
-    "heroDescription": "Use our interactive map to discover all of Dalyan's attractions, landmarks, beaches, restaurants, and essential services. Filter by category to plan your perfect visit.",
+    "title": "Dalyan İnteraktif Haritası",
+    "subtitle": "Dalyan'ın Her Köşesini Keşfedin",
+    "heroDescription": "İnteraktif haritamızı kullanarak Dalyan'ın tüm turistik mekanlarını, simge yapılarını, plajlarını, restoranlarını ve temel hizmetlerini keşfedin. Mükemmel ziyaretinizi planlamak için kategoriye göre filtreleyin.",
     "filters": {
-      "all": "All",
-      "attractions": "Attractions",
-      "beaches": "Beaches",
-      "historical": "Historical Sites",
-      "nature": "Nature",
-      "wellness": "Wellness & Spas",
-      "restaurants": "Restaurants & Cafes",
-      "hotels": "Hotels & Accommodation",
-      "services": "Services",
-      "transport": "Transport",
-      "shopping": "Shopping",
-      "tours": "Tour Departures"
+      "all": "Tümü",
+      "attractions": "Turistik Mekanlar",
+      "beaches": "Plajlar",
+      "historical": "Tarihi Alanlar",
+      "nature": "Doğa",
+      "wellness": "Sağlık ve Kaplıcalar",
+      "restaurants": "Restoranlar ve Kafeler",
+      "hotels": "Oteller ve Konaklama",
+      "services": "Hizmetler",
+      "transport": "Ulaşım",
+      "shopping": "Alışveriş",
+      "tours": "Tur Kalkış Noktaları"
     },
     "controls": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "resetView": "Reset View",
-      "fullscreen": "Fullscreen",
-      "myLocation": "My Location",
-      "layers": "Map Layers",
-      "satellite": "Satellite",
-      "terrain": "Terrain",
-      "standard": "Standard"
+      "zoomIn": "Yakınlaştır",
+      "zoomOut": "Uzaklaştır",
+      "resetView": "Görünümü Sıfırla",
+      "fullscreen": "Tam Ekran",
+      "myLocation": "Konumum",
+      "layers": "Harita Katmanları",
+      "satellite": "Uydu",
+      "terrain": "Arazi",
+      "standard": "Standart"
     },
     "pois": {
       "kaunos": {
-        "name": "Kaunos Ancient City",
-        "description": "One of the most important ancient cities of Caria, founded in the 10th century BCE. Features a well-preserved theater, temple ruins, Roman baths, and the city acropolis with panoramic views over the Dalyan Delta."
+        "name": "Kaunos Antik Kenti",
+        "description": "MÖ 10. yüzyılda kurulan Karya'nın en önemli antik kentlerinden biri. İyi korunmuş bir tiyatro, tapınak kalıntıları, Roma hamamları ve Dalyan Deltası'na panoramik manzara sunan kent akropolü bulunmaktadır."
       },
       "rockTombs": {
-        "name": "Lycian Rock Tombs",
-        "description": "Magnificent temple-style tombs carved into the sheer cliff face overlooking the Dalyan River. Dating to the 4th century BCE, these tombs are among the most photographed landmarks in southwestern Turkey."
+        "name": "Likya Kaya Mezarları",
+        "description": "Dalyan Nehri'ne bakan dik kaya yüzeyine oyulmuş muhteşem tapınak tarzı mezarlar. MÖ 4. yüzyıla tarihlenen bu mezarlar, güneybatı Türkiye'nin en çok fotoğraflanan simge yapıları arasındadır."
       },
       "iztuzu": {
-        "name": "Iztuzu Beach",
-        "description": "A pristine 4.5-kilometer sand spit separating the Dalyan River Delta from the Mediterranean Sea. This protected beach serves as a critical nesting site for endangered Caretta Caretta (loggerhead) sea turtles."
+        "name": "İztuzu Plajı",
+        "description": "Dalyan Nehri Deltası'nı Akdeniz'den ayıran 4,5 kilometrelik bozulmamış kum şeridi. Bu korunan plaj, nesli tehlike altındaki Caretta Caretta (deniz kaplumbağası) için kritik bir yuvalama alanıdır."
       },
       "mudBaths": {
-        "name": "Dalyan Mud Baths",
-        "description": "Natural mineral mud pools and adjacent thermal springs on the shore of Lake Koycegiz. Known for their skin-rejuvenating properties and legendary association with Cleopatra."
+        "name": "Dalyan Çamur Banyoları",
+        "description": "Köyceğiz Gölü kıyısındaki doğal mineral çamur havuzları ve bitişik termal kaynaklar. Cilt gençleştirici özellikleri ve Kleopatra ile efsanevi bağlantısıyla bilinir."
       },
       "sultaniye": {
-        "name": "Sultaniye Hot Springs",
-        "description": "Geothermal springs flowing at 39 degrees Celsius on the southwestern shore of Lake Koycegiz. Rich in sulfur, calcium, and magnesium minerals with documented therapeutic benefits."
+        "name": "Sultaniye Kaplıcaları",
+        "description": "Köyceğiz Gölü'nün güneybatı kıyısında 39 derece Santigrat sıcaklıkta akan jeotermal kaynaklar. Belgelenmiş terapötik faydalarıyla kükürt, kalsiyum ve magnezyum mineralleri bakımından zengindir."
       },
       "dalyanRiver": {
-        "name": "Dalyan River & Canal",
-        "description": "A 12-kilometer scenic waterway connecting Lake Koycegiz to the Mediterranean Sea. The reed-lined channels are home to diverse birdlife and provide the main route for boat tours to the area's attractions."
+        "name": "Dalyan Nehri ve Kanalı",
+        "description": "Köyceğiz Gölü'nü Akdeniz'e bağlayan 12 kilometrelik manzaralı su yolu. Sazlıklarla kaplı kanallar çeşitli kuş yaşamına ev sahipliği yapar ve bölgenin turistik mekanlarına tekne turları için ana güzergâhı oluşturur."
       },
       "koycegizLake": {
-        "name": "Lake Koycegiz",
-        "description": "A large freshwater lake north of Dalyan town, surrounded by mountains and pine forests. The lake supports a rich ecosystem and offers opportunities for swimming, fishing, and kayaking."
+        "name": "Köyceğiz Gölü",
+        "description": "Dalyan kasabasının kuzeyinde, dağlar ve çam ormanlarıyla çevrili büyük bir tatlı su gölü. Göl, zengin bir ekosistemi destekler ve yüzme, balıkçılık ve kano fırsatları sunar."
       },
       "turtleHospital": {
-        "name": "Sea Turtle Research Center (DEKAMER)",
-        "description": "A rescue and rehabilitation center for injured sea turtles located near Iztuzu Beach. Visitors can learn about conservation efforts and observe turtles being treated before their return to the wild."
+        "name": "Deniz Kaplumbağası Araştırma Merkezi (DEKAMER)",
+        "description": "İztuzu Plajı yakınında bulunan yaralı deniz kaplumbağaları için kurtarma ve rehabilitasyon merkezi. Ziyaretçiler koruma çalışmaları hakkında bilgi edinebilir ve doğaya dönüş öncesi tedavi gören kaplumbağaları gözlemleyebilir."
       },
       "boatCooperative": {
-        "name": "Dalyan Boat Cooperative",
-        "description": "The main departure point for river boat tours in the center of Dalyan town. The cooperative operates daily scheduled services to Iztuzu Beach, Kaunos, the mud baths, and Lake Koycegiz."
+        "name": "Dalyan Tekne Kooperatifi",
+        "description": "Dalyan kasaba merkezindeki nehir tekne turlarının ana kalkış noktası. Kooperatif, İztuzu Plajı, Kaunos, çamur banyoları ve Köyceğiz Gölü'ne günlük programlı seferler düzenler."
       },
       "townCenter": {
-        "name": "Dalyan Town Center",
-        "description": "The charming heart of Dalyan with riverside promenades, restaurants, shops, and cafes. The main street (Maras Caddesi) runs parallel to the river and is the social hub of the town."
+        "name": "Dalyan Kasaba Merkezi",
+        "description": "Nehir kenarı yürüyüş yolları, restoranlar, dükkânlar ve kafelerle Dalyan'ın sevimli kalbi. Ana cadde (Maraş Caddesi) nehre paralel uzanır ve kasabanın sosyal merkezidir."
       },
       "mosqueMosque": {
-        "name": "Dalyan Mosque",
-        "description": "The central mosque of Dalyan town, located near the main market area. A local landmark and gathering point."
+        "name": "Dalyan Camii",
+        "description": "Ana pazar alanı yakınında bulunan Dalyan kasabasının merkez camii. Yerel bir simge yapı ve buluşma noktasıdır."
       },
       "market": {
-        "name": "Dalyan Saturday Market",
-        "description": "A vibrant weekly market held every Saturday morning in the town center. Local farmers sell fresh produce, olives, honey, spices, textiles, and handcrafted goods."
+        "name": "Dalyan Cumartesi Pazarı",
+        "description": "Her Cumartesi sabahı kasaba merkezinde kurulan canlı haftalık pazar. Yerel çiftçiler taze ürünler, zeytin, bal, baharat, tekstil ve el yapımı ürünler satar."
       },
       "ekincik": {
-        "name": "Ekincik Bay",
-        "description": "A sheltered bay approximately 30 kilometers south of Dalyan, known for its turquoise waters and access to the Blue Cave. A popular destination for day trips by boat or road."
+        "name": "Ekincik Koyu",
+        "description": "Dalyan'ın yaklaşık 30 kilometre güneyinde, turkuaz suları ve Mavi Mağara'ya erişimiyle bilinen korunaklı bir koy. Tekne veya karayoluyla günübirlik geziler için popüler bir destinasyondur."
       },
       "calbis": {
-        "name": "Calbis Beach",
-        "description": "A quiet pebble beach along the Dalyan coast, reachable by boat. Popular with visitors seeking a more secluded alternative to Iztuzu Beach."
+        "name": "Çalbiş Plajı",
+        "description": "Dalyan kıyısında tekneyle ulaşılabilen sessiz bir çakıl plajı. İztuzu Plajı'na daha tenha bir alternatif arayan ziyaretçiler arasında popülerdir."
       }
     },
     "popup": {
-      "getDirections": "Get Directions",
-      "moreInfo": "More Information",
-      "openInMaps": "Open in Google Maps",
-      "category": "Category",
-      "distance": "Distance from town center"
+      "getDirections": "Yol Tarifi Al",
+      "moreInfo": "Daha Fazla Bilgi",
+      "openInMaps": "Google Haritalar'da Aç",
+      "category": "Kategori",
+      "distance": "Kasaba merkezine uzaklık"
     },
     "emptyState": {
-      "title": "No results found",
-      "description": "Try adjusting your filters or zooming out to see more locations on the map."
+      "title": "Sonuç bulunamadı",
+      "description": "Haritada daha fazla konum görmek için filtrelerinizi ayarlamayı veya uzaklaştırmayı deneyin."
     }
   }
 }
