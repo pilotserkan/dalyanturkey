@@ -2,25 +2,101 @@
   "hero": {
     "title": "Welcome to Dalyan",
     "subtitle": "Turkey's Hidden Paradise",
-    "description": "Where ancient history meets untouched nature \u2014 discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
+    "description": "Where ancient history meets untouched nature — discover Lycian rock tombs, cruise the reed-lined delta, walk pristine Turtle Beach, and bathe in thermal springs that have healed travellers for millennia.",
     "exploreCta": "Explore Dalyan",
-    "discoverCta": "Discover History"
+    "discoverCta": "Discover History",
+    "scrollDown": "Scroll to explore"
   },
   "home": {
+    "highlights": {
+      "badge": "Why Dalyan?",
+      "title": "A Living Open-Air Museum",
+      "subtitle": "Where 3,000 years of history meets untouched Mediterranean nature",
+      "history": {
+        "title": "3,000 Years of History",
+        "text": "From the mighty Kaunos Ancient City to the iconic Lycian Rock Tombs carved into sheer cliff faces — Dalyan is a living timeline of Carian, Greek, Roman, and Byzantine civilizations."
+      },
+      "nature": {
+        "title": "Pristine Nature",
+        "text": "Iztuzu Beach, one of the last remaining Caretta Caretta nesting grounds in the Mediterranean, stretches 12 km without a single building. The Dalyan Delta shelters over 180 bird species."
+      },
+      "wellness": {
+        "title": "Ancient Healing Waters",
+        "text": "Sultaniye Hot Springs have been healing visitors for 2,000 years. Natural mineral-rich mud baths offer a rejuvenation experience unchanged since antiquity."
+      },
+      "cuisine": {
+        "title": "Authentic Mediterranean Flavours",
+        "text": "Fresh sea bass from the river, wild herbs from the mountains, legendary blue crab from Köyceğiz Lake — Dalyan's cuisine is a celebration of land and sea."
+      }
+    },
     "hubs": {
-      "title": "Discover Dalyan",
-      "subtitle": "A timeless destination where nature, history, and adventure converge"
+      "badge": "Explore",
+      "title": "Discover Every Corner of Dalyan",
+      "subtitle": "Six curated journeys through history, nature, wellness, adventure, cuisine, and local knowledge"
+    },
+    "featured": {
+      "badge": "Must See",
+      "kaunos": {
+        "title": "Kaunos Ancient City",
+        "text": "Walk through the remains of a 3,000-year-old city — from its 5,000-seat Roman theatre to the harbour that once connected Kaunos to the ancient world."
+      },
+      "rockTombs": {
+        "title": "Lycian Rock Tombs",
+        "text": "Carved into sheer cliff faces in the 4th century BC, these temple-style tombs glow golden at sunset and are illuminated at night — Dalyan's most iconic sight."
+      },
+      "iztuzu": {
+        "title": "Iztuzu Turtle Beach",
+        "text": "A 12-kilometre golden sand strip with zero buildings, protected since 1988 as one of the Mediterranean's most important Caretta Caretta nesting grounds."
+      }
     },
     "stats": {
-      "title": "Why Visit Dalyan?",
-      "subtitle": "A rare corner of Turkey where 3,000 years of civilisation blend seamlessly with protected nature",
+      "title": "Dalyan in Numbers",
+      "subtitle": "A rare corner of Turkey where ancient civilisation blends seamlessly with protected nature",
       "years": { "value": "3,000+", "label": "Years of History" },
       "species": { "value": "180+", "label": "Bird Species" },
       "river": { "value": "12 km", "label": "Scenic Canal" },
-      "sun": { "value": "300+", "label": "Sunny Days/Year" }
+      "sun": { "value": "300+", "label": "Sunny Days/Year" },
+      "turtles": { "value": "300+", "label": "Turtle Nests/Year" },
+      "airport": { "value": "25 km", "label": "From Airport" }
+    },
+    "experience": {
+      "badge": "Experience Dalyan",
+      "title": "One Day, Infinite Memories",
+      "subtitle": "A typical day in Dalyan — morning to sunset",
+      "morning": {
+        "time": "08:00",
+        "title": "Riverside Breakfast",
+        "text": "Start your day with a traditional Turkish breakfast overlooking the Rock Tombs — fresh cheese, honey, olives, and endless tea."
+      },
+      "midMorning": {
+        "time": "10:00",
+        "title": "River Boat Cruise",
+        "text": "Board a traditional wooden boat and glide through the reed-lined delta towards the ancient city of Kaunos."
+      },
+      "noon": {
+        "time": "12:00",
+        "title": "Mud Bath & Hot Springs",
+        "text": "Cover yourself in mineral-rich mud, dry in the sun, and rinse off in 39°C thermal waters — a 2,000-year-old wellness ritual."
+      },
+      "afternoon": {
+        "time": "14:00",
+        "title": "Iztuzu Beach",
+        "text": "Arrive at Turkey's most famous turtle beach — 12 km of pristine sand where Caretta Caretta turtles nest each summer."
+      },
+      "evening": {
+        "time": "18:00",
+        "title": "Golden Hour Sunset",
+        "text": "Watch the Rock Tombs glow amber, then golden, then deep orange as the sun sets behind the mountains. Pure magic."
+      },
+      "night": {
+        "time": "20:00",
+        "title": "Riverside Dinner",
+        "text": "Fresh fish, local meze, and Turkish wine under the stars — with the illuminated tombs reflected in the still river water."
+      }
     },
     "testimonials": {
-      "title": "What Travelers Say",
+      "badge": "Traveler Stories",
+      "title": "What Visitors Say About Dalyan",
       "1": {
         "quote": "We took the river boat past the rock tombs at sunset and it was genuinely breathtaking. Dalyan feels like a secret the rest of the world hasn't found yet.",
         "name": "Sarah M.",
@@ -36,6 +112,17 @@
         "name": "Marie L.",
         "location": "France"
       }
+    },
+    "cta": {
+      "title": "Ready to Discover Dalyan?",
+      "subtitle": "Just 25 km from Dalaman International Airport — your Mediterranean paradise awaits.",
+      "plan": "Plan Your Trip",
+      "map": "Explore the Map"
+    },
+    "map": {
+      "badge": "Interactive Map",
+      "title": "Find Every Attraction",
+      "subtitle": "Click any marker to explore — each links directly to its dedicated page with full details."
     }
   }
 }
