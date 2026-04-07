@@ -1,365 +1,365 @@
 {
   "turlar": {
     "hub": {
-      "title": "Tours & Excursions",
-      "subtitle": "Discover Dalyan by Boat, Jeep & on Foot",
-      "badge": "Tours",
-      "heroDescription": "From leisurely river cruises past ancient rock tombs to adrenaline-filled jeep safaris through mountain villages, Dalyan offers an exceptional range of tours and excursions. Whether you seek history, nature, adventure, or relaxation, there is a perfect tour waiting for you.",
-      "intro": "Dalyan's unique geography, where river, lake, sea, and mountains converge, creates a natural stage for unforgettable excursions. Local boat cooperatives and experienced guides offer daily departures throughout the season, making it easy to explore the region's highlights at your own pace."
+      "title": "Turlar ve Geziler",
+      "subtitle": "Dalyan'ı Tekneyle, Jiple ve Yürüyerek Keşfedin",
+      "badge": "Turlar",
+      "heroDescription": "Antik kaya mezarlarının önünden geçen sakin nehir gezilerinden dağ köylerinden geçen adrenalin dolu jeep safarilerine kadar Dalyan, olağanüstü bir tur ve gezi yelpazesi sunmaktadır. Tarih, doğa, macera ya da rahatlama arıyor olun, sizi bekleyen mükemmel bir tur var.",
+      "intro": "Dalyan'ın nehir, göl, deniz ve dağların buluştuğu benzersiz coğrafyası, unutulmaz geziler için doğal bir sahne oluşturur. Yerel tekne kooperatifleri ve deneyimli rehberler sezon boyunca her gün kalkışlar sunarak bölgenin öne çıkan noktalarını kendi hızınızda keşfetmenizi kolaylaştırır."
     },
     "dalyanTekneTuru": {
-      "title": "Dalyan River Boat Tour",
-      "subtitle": "The Classic Dalyan Experience",
-      "heroDescription": "The Dalyan River boat tour is the quintessential way to experience this remarkable region. Glide along the reed-lined channels past ancient Lycian Rock Tombs, visit the ruins of Kaunos, soak in thermal mud baths, and end the day at the pristine sands of Iztuzu Beach.",
+      "title": "Dalyan Nehri Tekne Turu",
+      "subtitle": "Klasik Dalyan Deneyimi",
+      "heroDescription": "Dalyan Nehri tekne turu, bu olağanüstü bölgeyi deneyimlemenin en özgün yoludur. Sazlıklarla kaplı kanallardan Likya Kaya Mezarları'nın önünden süzülün, Kaunos kalıntılarını ziyaret edin, termal çamur banyolarında rahatlayın ve günü İztuzu Plajı'nın bozulmamış kumlarında bitirin.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The classic Dalyan boat tour is the single most popular activity in the region, and for good reason. This full-day excursion covers all of Dalyan's major highlights in a single, relaxed journey along the river. Departing from the Dalyan Boat Cooperative in the town center, traditional wooden boats navigate the winding channels of the Dalyan River, passing through stands of giant reeds and beneath the towering cliff face where the Lycian Rock Tombs are carved. The tour includes stops at Kaunos Ancient City, the thermal mud baths and hot springs, and concludes with an extended beach stop at Iztuzu. It is the ideal introduction to everything that makes Dalyan special."
+          "title": "Tur Özeti",
+          "content": "Klasik Dalyan tekne turu, bölgedeki en popüler aktivitedir ve bunda haklı nedenler vardır. Bu tam günlük gezi, rahat bir nehir yolculuğunda Dalyan'ın tüm önemli noktalarını tek seferde kapsar. Kasaba merkezindeki Dalyan Tekne Kooperatifi'nden kalkan geleneksel ahşap tekneler, dev sazlıkların arasından ve Likya Kaya Mezarları'nın oyulduğu devasa kaya yüzeyinin altından geçerek Dalyan Nehri'nin kıvrımlı kanallarında ilerler. Tur; Kaunos Antik Kenti, termal çamur banyoları ve kaplıcalarda duraklar içerir ve İztuzu'nda uzun bir plaj molasıyla sona erer. Dalyan'ı özel kılan her şeye mükemmel bir giriştir."
         },
         "route": {
-          "title": "The Route",
-          "content": "The boat departs from Dalyan town center and heads south along the river. The first major landmark is the Lycian Rock Tombs, where the captain slows to allow passengers to photograph these magnificent 4th-century BCE monuments from the water. Continuing downstream, the boat reaches the ancient city of Kaunos, where passengers disembark for a guided walk through the ruins. The route then crosses Lake Koycegiz to the Sultaniye Hot Springs and mud baths for a wellness stop. After bathing and relaxing, the boat continues to Iztuzu Beach, where passengers have free time to swim in the clear Mediterranean waters. The return journey follows the same scenic route back to Dalyan town as the afternoon sun illuminates the rock tombs in golden light."
+          "title": "Güzergâh",
+          "content": "Tekne Dalyan kasaba merkezinden kalkar ve nehir boyunca güneye doğru ilerler. İlk büyük simge yapı, kaptanın yolcuların bu muhteşem MÖ 4. yüzyıl anıtlarını sudan fotoğraflaması için yavaşladığı Likya Kaya Mezarları'dır. Aşağı yönde devam eden tekne, yolcuların kalıntılar arasında rehberli bir yürüyüş için karaya çıktığı Kaunos Antik Kenti'ne ulaşır. Güzergâh daha sonra sağlık molası için Köyceğiz Gölü'nü geçerek Sultaniye Kaplıcaları ve çamur banyolarına uzanır. Banyo ve dinlenmeden sonra tekne, yolcuların berrak Akdeniz sularında yüzmek için serbest zamanlarının olduğu İztuzu Plajı'na devam eder. Dönüş yolculuğu, öğleden sonra güneşinin kaya mezarlarını altın ışıkla aydınlattığı aynı manzaralı rotayı takip eder."
         },
         "whatToExpect": {
-          "title": "What to Expect",
-          "content": "Boats typically accommodate between 10 and 30 passengers and feature shaded seating areas, cushioned benches, and open sun decks. A simple lunch of grilled fish or chicken with salad and rice is usually included in the tour price or available for a small additional charge. The atmosphere is relaxed and unhurried, with plenty of time at each stop. Captains are knowledgeable locals who are happy to share stories about the river and its history. The total journey takes approximately six to seven hours, including all stops, making it a full but comfortable day out on the water."
+          "title": "Neler Beklemeli?",
+          "content": "Tekneler genellikle 10 ile 30 yolcu arasında alır ve gölgeli oturma alanları, minderli banklar ve açık güneşlenme güverteleri bulunur. Izgara balık veya tavukla birlikte salata ve pilav gibi basit bir öğle yemeği genellikle tur fiyatına dahildir veya küçük bir ek ücretle sunulur. Atmosfer rahat ve aceleye getirilmemiştir; her durakta bol zaman vardır. Kaptanlar, nehir ve tarihiyle ilgili hikâyeler paylaşmaktan mutlu olan bilgili yerel insanlardır. Toplam yolculuk, tüm molalar dahil yaklaşık altı ila yedi saat sürer ve suda tam ama konforlu bir gün geçirilir."
         }
       },
       "highlights": [
-        "Full-day cruise covering all of Dalyan's major attractions",
-        "Close-up views of the Lycian Rock Tombs from the river",
-        "Guided visit to Kaunos Ancient City ruins",
-        "Mud bath and hot spring wellness stop",
-        "Extended beach time at Iztuzu Beach",
-        "Traditional grilled lunch served on board",
-        "Scenic reed-channel navigation with rich birdlife",
-        "Small group boats with shaded and open-air seating"
+        "Dalyan'ın tüm önemli noktalarını kapsayan tam günlük gezi",
+        "Nehirden Likya Kaya Mezarları'nın yakından görüntüsü",
+        "Kaunos Antik Kenti kalıntılarına rehberli ziyaret",
+        "Çamur banyosu ve kaplıca sağlık molası",
+        "İztuzu Plajı'nda uzun plaj molası",
+        "Teknede servis edilen geleneksel ızgara öğle yemeği",
+        "Zengin kuş yaşamıyla manzaralı sazlık kanallarından geçiş",
+        "Gölgeli ve açık hava oturma alanlı küçük grup tekneleri"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "6-7 hours (typically 10:00 to 17:00)",
-        "departure": "Dalyan Boat Cooperative, town center riverside",
-        "price": "Varies by season; group tours are more affordable than private charters",
-        "includes": "Boat transport, Kaunos entrance fee (on some tours), mud bath access",
-        "bring": "Swimwear, towel, sunscreen, hat, water, comfortable shoes for Kaunos walk",
-        "availability": "Daily departures April through November; reduced schedule in winter",
-        "tips": "Book a day in advance during peak season. Early morning departures offer cooler conditions and fewer crowds at the mud baths."
+        "title": "Pratik Bilgiler",
+        "duration": "6-7 saat (genellikle 10:00 - 17:00)",
+        "departure": "Dalyan Tekne Kooperatifi, kasaba merkezi nehir kenarı",
+        "price": "Mevsime göre değişir; grup turları özel kiralama tekne turlarından daha uygun fiyatlıdır",
+        "includes": "Tekne ulaşımı, Kaunos giriş ücreti (bazı turlarda), çamur banyosu erişimi",
+        "bring": "Mayo, havlu, güneş kremi, şapka, su, Kaunos yürüyüşü için rahat ayakkabı",
+        "availability": "Nisan'dan Kasım'a her gün kalkış; kışın azaltılmış program",
+        "tips": "Yoğun sezonda bir gün önceden rezervasyon yapın. Sabah erken kalkışlar daha serin koşullar ve çamur banyolarında daha az kalabalık sunar."
       }
     },
     "kaunosKulturTuru": {
-      "title": "Kaunos Cultural Heritage Tour",
-      "subtitle": "3,000 Years of History on Foot",
-      "heroDescription": "Step back three millennia as you explore the ancient city of Kaunos, one of the most important archaeological sites in southwestern Turkey. This guided walking tour reveals temples, theaters, fortifications, and the stories of the Carian, Greek, and Roman civilizations that shaped this remarkable city.",
+      "title": "Kaunos Kültür Mirası Turu",
+      "subtitle": "3.000 Yıllık Tarih Yürüyüşü",
+      "heroDescription": "Güneybatı Türkiye'nin en önemli arkeolojik alanlarından biri olan Kaunos Antik Kenti'ni keşfederek üç bin yıl öncesine yolculuk yapın. Bu rehberli yürüyüş turu, tapınakları, tiyatroları, surları ve bu olağanüstü kenti şekillendiren Karya, Yunan ve Roma medeniyetlerinin hikâyelerini açığa çıkarır.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Kaunos Cultural Heritage Tour offers an in-depth exploration of one of the ancient world's most strategically important cities. Unlike a brief stop on a standard boat tour, this dedicated cultural excursion provides ample time to explore the extensive ruins and understand the historical significance of each structure. With an experienced local guide specializing in the archaeology and history of the region, visitors gain insights into the daily life, religious practices, and political history of a city that thrived for over a thousand years at the crossroads of Carian, Lycian, Greek, and Roman cultures."
+          "title": "Tur Özeti",
+          "content": "Kaunos Kültür Mirası Turu, antik dünyanın stratejik açıdan en önemli kentlerinden birinin derinlemesine keşfini sunar. Standart bir tekne turundaki kısa bir moladan farklı olarak bu özel kültür gezisi, geniş kalıntıları keşfetmek ve her yapının tarihsel önemini anlamak için yeterli zaman sağlar. Bölgenin arkeolojisi ve tarihinde uzmanlaşmış deneyimli bir yerel rehberle birlikte ziyaretçiler, Karya, Likya, Yunan ve Roma kültürlerinin kesişim noktasında bin yıldan fazla zenginleşen bir kentin günlük yaşamı, dini uygulamaları ve siyasi tarihi hakkında derinlemesine bilgi edinir."
         },
         "sites": {
-          "title": "Key Archaeological Sites",
-          "content": "The tour covers the major monuments of Kaunos in a carefully planned walking route. The well-preserved Hellenistic theater, capable of seating 5,000 spectators, offers panoramic views over the Dalyan Delta and is one of the most atmospheric ancient theaters in Turkey. The Roman bath complex features remarkably intact mosaic floors and hypocaust heating systems. The Temple of Apollo and the stoa (covered colonnade) illustrate the city's religious and commercial life. The massive city walls and defensive towers demonstrate the strategic military importance of Kaunos throughout antiquity. The guide explains the ongoing archaeological excavations that continue to reveal new discoveries about this ancient settlement."
+          "title": "Önemli Arkeolojik Alanlar",
+          "content": "Tur, dikkatle planlanmış bir yürüyüş rotasıyla Kaunos'un başlıca anıtlarını kapsar. 5.000 seyirci kapasiteli, iyi korunmuş Helenistik tiyatro, Dalyan Deltası üzerinden panoramik manzara sunar ve Türkiye'nin en atmosferik antik tiyatrolarından biridir. Roma hamam kompleksi, dikkat çekici derecede sağlam mozaik zeminler ve hipokaustik ısıtma sistemleri barındırır. Apollon Tapınağı ve stoa (üstü kapalı sütunlu yol), kentin dini ve ticari yaşamını gözler önüne serer. Devasa kent surları ve savunma kuleleri, Kaunos'un antik çağ boyunca stratejik askeri önemini göstermektedir. Rehber, bu kadim yerleşim hakkında yeni keşifler ortaya çıkarmaya devam eden kazıları açıklar."
         },
         "rockTombs": {
-          "title": "The Lycian Rock Tombs",
-          "content": "No visit to Kaunos is complete without contemplating the extraordinary rock tombs carved into the cliff face above the Dalyan River. These temple-fronted tombs, dating primarily to the 4th century BCE, were created by the ancient Carians who adopted the Lycian funerary tradition of carving elaborate tomb facades into living rock. The most impressive tombs feature Ionic columns, triangular pediments, and relief sculptures that reflect the architectural language of Greek temple design. The guide explains the significance of these tombs within Carian burial customs, their construction techniques, and the ongoing debate about the cultural influences that inspired their remarkable design."
+          "title": "Likya Kaya Mezarları",
+          "content": "Dalyan Nehri üzerindeki kayalıklara oyulmuş olağanüstü kaya mezarlarını düşünmeden Kaunos ziyareti tamamlanamaz. Ağırlıklı olarak MÖ 4. yüzyıla tarihlenen bu tapınak cepheli mezarlar, kayaya anıtsal mezar cepheleri oyma konusundaki Likya cenaze geleneğini benimseyen antik Karyalılar tarafından yapılmıştır. En etkileyici mezarlar, Yunan tapınak tasarımının mimari dilini yansıtan İon sütunları, üçgen alınlıklar ve rölyef heykellerle süslenmiştir. Rehber, bu mezarların Karya defin gelenekleri içindeki önemini, yapım tekniklerini ve dikkat çekici tasarımlarını etkileyen kültürel etkiler hakkındaki devam eden tartışmaları açıklar."
         }
       },
       "highlights": [
-        "In-depth guided tour with a specialist local archaeologist or historian",
-        "Well-preserved 5,000-seat Hellenistic theater with delta views",
-        "Roman bath complex with original mosaic floors",
-        "Temple of Apollo and commercial stoa ruins",
-        "Close-up exploration of the Lycian Rock Tombs",
-        "Panoramic views from the city acropolis",
-        "Insight into ongoing archaeological excavations",
-        "Small group sizes for a more personal experience"
+        "Uzman yerel arkeolog veya tarihçi eşliğinde derinlemesine rehberli tur",
+        "Delta manzaralı, iyi korunmuş 5.000 kişilik Helenistik tiyatro",
+        "Orijinal mozaik zeminli Roma hamam kompleksi",
+        "Apollon Tapınağı ve ticari stoa kalıntıları",
+        "Likya Kaya Mezarları'nın yakından keşfi",
+        "Kent akropolünden panoramik manzaralar",
+        "Devam eden arkeolojik kazılar hakkında bilgi",
+        "Daha kişisel bir deneyim için küçük grup boyutları"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "3-4 hours (walking tour of the archaeological site)",
-        "departure": "By boat from Dalyan town center or by road from Candir village",
-        "price": "Guide fee plus Kaunos site entrance fee",
-        "includes": "Professional guide, historical commentary",
-        "bring": "Sturdy walking shoes, water, sun protection, camera",
-        "availability": "Year-round by arrangement; best in spring and autumn for comfortable walking conditions",
-        "tips": "The site involves moderate uphill walking. Visit in the morning to avoid midday heat. Combine with a river boat trip for a complete experience."
+        "title": "Pratik Bilgiler",
+        "duration": "3-4 saat (arkeolojik alan yürüyüş turu)",
+        "departure": "Dalyan kasaba merkezinden tekneyle veya Çandır köyünden karayoluyla",
+        "price": "Rehber ücreti artı Kaunos alan giriş ücreti",
+        "includes": "Profesyonel rehber, tarihi anlatım",
+        "bring": "Sağlam yürüyüş ayakkabısı, su, güneş koruması, fotoğraf makinesi",
+        "availability": "Randevu ile yıl boyunca; rahat yürüyüş koşulları için ilkbahar ve sonbahar en uygun dönemlerdir",
+        "tips": "Alan orta düzeyde yokuş yürüyüşü içerir. Öğlen sıcağından kaçınmak için sabah ziyaret edin. Tam bir deneyim için nehir tekne turuyla birleştirin."
       }
     },
     "iztuzuSuTaksi": {
-      "title": "Iztuzu Water Taxi",
-      "subtitle": "Direct to Turtle Beach",
-      "heroDescription": "The Iztuzu water taxi provides the fastest and most scenic route to one of the Mediterranean's most beautiful beaches. Skip the road journey and glide along the Dalyan River directly to the golden sands of Iztuzu, the protected nesting ground of Caretta Caretta sea turtles.",
+      "title": "İztuzu Su Taksisi",
+      "subtitle": "Doğrudan Kaplumbağa Plajı'na",
+      "heroDescription": "İztuzu su taksisi, Akdeniz'in en güzel plajlarından birine en hızlı ve en manzaralı ulaşım yolunu sunar. Karayolu yolculuğunu atlayın ve Dalyan Nehri boyunca süzülerek doğrudan Caretta Caretta deniz kaplumbağalarının korunan yuvalama alanı İztuzu'nun altın kumlarına ulaşın.",
       "sections": {
         "overview": {
-          "title": "Service Overview",
-          "content": "The Iztuzu water taxi is a dedicated shuttle service operating between Dalyan town center and Iztuzu Beach throughout the day during the swimming season. Unlike the full-day boat tour, the water taxi provides a direct, no-frills transfer for visitors who want to maximize their beach time. Small motorboats depart regularly from the Dalyan Boat Cooperative jetty and travel the scenic 12-kilometer route along the river in approximately 25 to 30 minutes. The journey itself is a highlight, passing through reed-lined channels with views of the Lycian Rock Tombs and opportunities to spot kingfishers, herons, and even the occasional sea turtle surfacing in the river."
+          "title": "Servis Özeti",
+          "content": "İztuzu su taksisi, yüzme sezonu boyunca Dalyan kasaba merkezi ile İztuzu Plajı arasında gün boyu işleyen özel bir transfer servisidir. Tam günlük tekne turundan farklı olarak su taksisi, plajda daha fazla vakit geçirmek isteyen ziyaretçiler için doğrudan, sade bir transfer sağlar. Küçük motorlu tekneler Dalyan Tekne Kooperatifi iskelesinden düzenli olarak kalkar ve nehir boyunca 12 kilometrelik manzaralı rotayı yaklaşık 25 ila 30 dakikada tamamlar. Yolculuğun kendisi, Likya Kaya Mezarları manzaraları ve yalıçapkınları, balıkçıllar ve hatta zaman zaman nehir yüzeyine çıkan deniz kaplumbağalarını görme fırsatlarıyla sazlıklarla kaplı kanallardan geçen bir öne çıkan deneyimdir."
         },
         "beach": {
-          "title": "About Iztuzu Beach",
-          "content": "Iztuzu Beach is a remarkable 4.5-kilometer sand spit that separates the freshwater Dalyan River Delta from the Mediterranean Sea. Recognized as one of Europe's finest beaches, it is also one of the most important nesting sites for the endangered Caretta Caretta loggerhead sea turtle in the entire Mediterranean basin. The beach is divided into zones: the river side offers calm, shallow, warmer waters ideal for families with children, while the sea side provides open Mediterranean swimming with gentle waves. Sun loungers and umbrellas are available for rent, and a small beach cafe serves refreshments. The beach is kept impeccably clean as part of its protected conservation status."
+          "title": "İztuzu Plajı Hakkında",
+          "content": "İztuzu Plajı, tatlı su Dalyan Nehri Deltası'nı Akdeniz'den ayıran olağanüstü 4,5 kilometrelik bir kum şeritidir. Avrupa'nın en güzel plajlarından biri olarak kabul edilen İztuzu, aynı zamanda tüm Akdeniz havzasında nesli tehlike altındaki Caretta Caretta deniz kaplumbağası için en önemli yuvalama alanlarından biridir. Plaj bölgelere ayrılmıştır: nehir tarafı, aileler ve çocuklar için ideal sakin, sığ ve daha sıcak sular sunarken, deniz tarafı hafif dalgalarla açık Akdeniz yüzme imkânı sağlar. Şezlong ve şemsiye kiralama hizmeti mevcuttur ve küçük bir plaj kafesi içecek servisi yapmaktadır. Plaj, koruma altındaki statüsünün parçası olarak tertemiz tutulmaktadır."
         },
         "schedule": {
-          "title": "Schedule & Logistics",
-          "content": "Water taxis operate on a regular schedule from approximately May through October, with boats departing from Dalyan every 30 to 60 minutes during peak hours. The first boat typically departs at 10:00, with the last return from Iztuzu Beach at 18:00 to 19:00, depending on the month and sunset regulations designed to protect turtle nesting activity. Tickets are purchased at the jetty and include the round-trip journey. Passengers can return on any boat during the day, offering complete flexibility in how long they spend at the beach. During the shoulder season months of April and November, a reduced schedule may operate depending on demand."
+          "title": "Program ve Lojistik",
+          "content": "Su taksileri yaklaşık Mayıs'tan Ekim'e kadar düzenli bir programla işlemekte olup yoğun saatlerde Dalyan'dan 30 ila 60 dakika aralıklarla tekneler kalkmaktadır. İlk tekne genellikle 10:00'da kalkar ve İztuzu Plajı'ndan son dönüş, kaplumbağa yuvalama faaliyetini korumak için tasarlanmış gün batımı düzenlemelerine bağlı olarak 18:00 ile 19:00 arasındadır. Biletler iskelede satın alınır ve gidiş-dönüş yolculuğu içerir. Yolcular gün içinde herhangi bir teknede dönebilir ve plajda ne kadar vakit geçirecekleri konusunda tam esneklik sunar. Nisan ve Kasım gibi sezon başı ve sonu aylarında talebe bağlı olarak azaltılmış bir program uygulanabilir."
         }
       },
       "highlights": [
-        "Direct 25-30 minute scenic river journey to Iztuzu Beach",
-        "Regular departures throughout the day during swimming season",
-        "Flexible return times on any scheduled boat",
-        "Views of Lycian Rock Tombs and river wildlife en route",
-        "Access to one of Europe's finest protected beaches",
-        "Both calm river-side and open sea swimming options",
-        "More affordable than full-day boat tours",
-        "Environmentally sensitive scheduling to protect turtle nesting"
+        "İztuzu Plajı'na 25-30 dakikalık manzaralı nehir yolculuğu",
+        "Yüzme sezonu boyunca gün içinde düzenli kalkışlar",
+        "Herhangi bir programlı teknede esnek dönüş saatleri",
+        "Yol boyunca Likya Kaya Mezarları ve nehir yaban hayatı manzaraları",
+        "Avrupa'nın en güzel korunan plajlarından birine erişim",
+        "Hem sakin nehir tarafında hem de açık denizde yüzme seçenekleri",
+        "Tam günlük tekne turlarından daha uygun fiyatlı",
+        "Kaplumbağa yuvalama alanını korumaya yönelik çevre dostu programlama"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "25-30 minutes each way; spend as long as you like at the beach",
-        "departure": "Dalyan Boat Cooperative jetty, town center",
-        "price": "Round-trip water taxi fare (significantly less than a full-day tour)",
-        "includes": "Round-trip boat transfer",
-        "bring": "Swimwear, towel, sunscreen, water, snacks (limited food options at the beach)",
-        "availability": "Daily May through October; reduced service in April and November",
-        "tips": "Take the first morning boat for the quietest beach experience. The river-side of the beach has warmer, calmer water perfect for children. Remember that the beach closes to visitors at night to protect nesting turtles."
+        "title": "Pratik Bilgiler",
+        "duration": "Her yöne 25-30 dakika; plajda istediğiniz kadar kalın",
+        "departure": "Dalyan Tekne Kooperatifi iskelesi, kasaba merkezi",
+        "price": "Gidiş-dönüş su taksisi ücreti (tam günlük turdan önemli ölçüde düşük)",
+        "includes": "Gidiş-dönüş tekne transferi",
+        "bring": "Mayo, havlu, güneş kremi, su, atıştırmalık (plajda sınırlı yiyecek seçeneği)",
+        "availability": "Mayıs'tan Ekim'e her gün; Nisan ve Kasım'da azaltılmış servis",
+        "tips": "En sakin plaj deneyimi için ilk sabah teknesini alın. Plajın nehir tarafı çocuklar için mükemmel, daha sıcak ve sakin sulara sahiptir. Plajın yuvalayan kaplumbağaları korumak için geceleri ziyaretçilere kapatıldığını unutmayın."
       }
     },
     "carettaIzlemeTuru": {
-      "title": "Caretta Caretta Watching Tour",
-      "subtitle": "Encounter Endangered Sea Turtles",
-      "heroDescription": "Join a specially designed wildlife tour to observe the endangered Caretta Caretta loggerhead sea turtles in their natural habitat. Led by trained guides who work with conservation organizations, this tour offers a responsible and unforgettable encounter with one of the Mediterranean's most beloved marine species.",
+      "title": "Caretta Caretta İzleme Turu",
+      "subtitle": "Nesli Tehlike Altındaki Deniz Kaplumbağalarıyla Buluşma",
+      "heroDescription": "Nesli tehlike altındaki Caretta Caretta deniz kaplumbağalarını doğal yaşam alanlarında gözlemlemek için özel olarak tasarlanmış bir yaban hayatı turuna katılın. Koruma kuruluşlarıyla birlikte çalışan eğitimli rehberler eşliğinde bu tur, Akdeniz'in en sevilen deniz türlerinden biriyle sorumlu ve unutulmaz bir buluşma sunar.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Caretta Caretta Watching Tour is a unique wildlife experience that combines a scenic river journey with the opportunity to observe loggerhead sea turtles in the wild. The tour departs in the early morning or late afternoon, when turtles are most active in the calm waters of the Dalyan River and the delta estuary. Using quiet, low-impact boats, trained guides navigate to known turtle habitats where these ancient creatures can be observed surfacing to breathe, feeding in the shallows, or basking near the riverbanks. The tour also includes a visit to the DEKAMER Sea Turtle Research, Rescue and Rehabilitation Center near Iztuzu Beach, where visitors can learn about conservation efforts and see injured turtles being nursed back to health."
+          "title": "Tur Özeti",
+          "content": "Caretta Caretta İzleme Turu, manzaralı bir nehir yolculuğunu doğada deniz kaplumbağalarını gözlemleme fırsatıyla birleştiren eşsiz bir yaban hayatı deneyimidir. Tur, kaplumbağaların Dalyan Nehri ve delta haliçinin sakin sularında en aktif olduğu sabah erken veya öğleden sonra geç saatlerde kalkar. Sessiz, düşük etkili tekneler kullanan eğitimli rehberler, bu kadim canlıların nefes almak için yüzeye çıktığı, sığ sularda beslendiği veya nehir kıyılarında güneşlendiği bilinen kaplumbağa yaşam alanlarına yönlendirir. Tur ayrıca İztuzu Plajı yakınındaki DEKAMER Deniz Kaplumbağası Araştırma, Kurtarma ve Rehabilitasyon Merkezi'ne bir ziyaret de içermektedir; burada ziyaretçiler koruma çalışmaları hakkında bilgi edinebilir ve yaralı kaplumbağaların sağlığına kavuşturulmasını gözlemleyebilir."
         },
         "conservation": {
-          "title": "Conservation & Protection",
-          "content": "Dalyan played a pivotal role in Turkish wildlife conservation history when local and international activists successfully campaigned in 1988 to prevent a hotel development that would have destroyed the Iztuzu Beach nesting grounds. This campaign made global headlines and resulted in Iztuzu being designated a Specially Protected Area. Today, strict regulations govern activity on the beach during the nesting season from May to October, including nighttime beach closures and controlled access to nesting zones. The DEKAMER center, affiliated with Pamukkale University, conducts ongoing research, monitors nest sites, and rehabilitates injured turtles. These tours directly support conservation by funding DEKAMER's operations and educating visitors about the importance of marine turtle protection."
+          "title": "Koruma ve Çevre",
+          "content": "Dalyan, 1988'de yerel ve uluslararası aktivistlerin İztuzu Plajı yuvalama alanlarını yok edecek bir otel inşaatını başarıyla engellediğinde Türkiye yaban hayatı koruma tarihinde belirleyici bir rol oynadı. Bu kampanya dünya manşetlerine taşındı ve İztuzu'nun Özel Koruma Alanı olarak belirlenmesiyle sonuçlandı. Bugün Mayıs'tan Ekim'e uzanan yuvalama sezonu boyunca plajdaki faaliyetleri gece plaj kapanışları ve yuvalama bölgelerine kontrollü erişim dahil katı düzenlemeler yönetmektedir. Pamukkale Üniversitesi'ne bağlı DEKAMER merkezi, yuva alanlarının izlenmesi, yaralı kaplumbağaların rehabilitasyonu ve devam eden araştırma çalışmaları yürütmektedir. Bu turlar, DEKAMER'in operasyonlarını finanse ederek ve ziyaretçileri deniz kaplumbağası korumasının önemi konusunda eğiterek doğrudan korumayı desteklemektedir."
         },
         "whatYouSee": {
-          "title": "What You Will See",
-          "content": "While turtle sightings in the wild cannot be guaranteed, the success rate on these guided tours is remarkably high, particularly during the peak months of June through September. Adult loggerhead turtles can reach up to one meter in length and weigh over 100 kilograms, making them an impressive sight when they surface near the boat. Beyond turtles, the tour traverses some of the richest wetland habitat in the eastern Mediterranean. Passengers regularly spot blue crabs, terrapins, kingfishers, grey herons, purple herons, and various species of egret. During migration seasons, the delta hosts significant numbers of wading birds and raptors, adding to the wildlife viewing opportunities."
+          "title": "Neler Göreceksiniz?",
+          "content": "Doğada kaplumbağa gözlemleri garanti edilemese de bu rehberli turlardaki başarı oranı, özellikle Haziran'dan Eylül'e uzanan yoğun aylarda oldukça yüksektir. Yetişkin deniz kaplumbağaları bir metre uzunluğa ve 100 kilogramın üzerinde ağırlığa ulaşabilir; bu da teknenin yakınında yüzeye çıktıklarında etkileyici bir görüntü oluşturur. Kaplumbağaların ötesinde tur, doğu Akdeniz'in en zengin sulak alan yaşam alanlarından birini kat eder. Yolcular düzenli olarak mavi yengeçleri, su kaplumbağalarını, yalıçapkınlarını, gri balıkçılları, erguvani balıkçılları ve çeşitli balıkçıl türlerini gözlemler. Göç mevsimlerinde delta, önemli sayıda yaban kuşu ve yırtıcı kuşa ev sahipliği yaparak yaban hayatı gözlem fırsatlarını zenginleştirir."
         }
       },
       "highlights": [
-        "Guided wildlife tour with trained conservation-aware guides",
-        "High success rate for Caretta Caretta sightings in peak season",
-        "Visit to DEKAMER Sea Turtle Research and Rehabilitation Center",
-        "Quiet, low-impact boats to minimize disturbance to wildlife",
-        "Rich wetland birdlife along the Dalyan River Delta",
-        "Educational commentary on turtle biology and conservation history",
-        "Supports ongoing sea turtle conservation and research programs",
-        "Suitable for all ages and wildlife enthusiasts"
+        "Koruma bilincine sahip eğitimli rehberlerle yaban hayatı turu",
+        "Yoğun sezonda Caretta Caretta gözleminde yüksek başarı oranı",
+        "DEKAMER Deniz Kaplumbağası Araştırma ve Rehabilitasyon Merkezi ziyareti",
+        "Yaban hayatına rahatsızlığı en aza indiren sessiz, düşük etkili tekneler",
+        "Dalyan Nehri Deltası boyunca zengin sulak alan kuş yaşamı",
+        "Kaplumbağa biyolojisi ve koruma tarihi üzerine eğitici anlatım",
+        "Devam eden deniz kaplumbağası koruma ve araştırma programlarını destekler",
+        "Her yaşa ve yaban hayatı tutkunlarına uygun"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "3-4 hours (morning or late afternoon departures)",
-        "departure": "Dalyan Boat Cooperative or designated meeting points",
-        "price": "Tour fee includes DEKAMER entrance; a portion supports conservation",
-        "includes": "Guided boat tour, DEKAMER visit, conservation talk",
-        "bring": "Binoculars (if available), camera with zoom lens, sun protection, water",
-        "availability": "May through October for best sighting chances; DEKAMER open year-round",
-        "tips": "Early morning tours offer the calmest water and best light for photography. Be patient and quiet near turtle habitats. Flash photography is not permitted near nesting areas."
+        "title": "Pratik Bilgiler",
+        "duration": "3-4 saat (sabah veya öğleden sonra geç kalkışlar)",
+        "departure": "Dalyan Tekne Kooperatifi veya belirlenen buluşma noktaları",
+        "price": "Tur ücreti DEKAMER girişini içerir; bir kısmı korumaya aktarılır",
+        "includes": "Rehberli tekne turu, DEKAMER ziyareti, koruma sunumu",
+        "bring": "Dürbün (varsa), zum objektifli fotoğraf makinesi, güneş koruması, su",
+        "availability": "En iyi gözlem şansı için Mayıs'tan Ekim'e; DEKAMER yıl boyunca açık",
+        "tips": "Sabah erken turlar en sakin su yüzeyi ve fotoğraf için en iyi ışığı sunar. Kaplumbağa yaşam alanları yakınında sabırlı ve sessiz olun. Yuvalama alanları yakınında flaşlı fotoğraf çekmek yasaktır."
       }
     },
     "wellnessTuru": {
-      "title": "Wellness & Thermal Tour",
-      "subtitle": "A Day of Natural Rejuvenation",
-      "heroDescription": "Dedicate an entire day to healing and relaxation with this comprehensive wellness tour. Combining the Dalyan mud baths, Sultaniye Hot Springs, and a tranquil lake cruise, this tour offers the ultimate restorative experience surrounded by the natural beauty of the Koycegiz-Dalyan basin.",
+      "title": "Sağlık ve Termal Turu",
+      "subtitle": "Doğal Yenilenme Günü",
+      "heroDescription": "Tüm gününüzü şifa ve rahatlığa ayırın. Dalyan çamur banyolarını, Sultaniye Kaplıcaları'nı ve huzurlu bir göl gezisini birleştiren bu kapsamlı sağlık turu, Köyceğiz-Dalyan havzasının doğal güzelliğiyle çevrili en üst düzey yenileyici deneyimi sunar.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Wellness and Thermal Tour is designed for visitors seeking a day of complete relaxation and natural healing. Unlike the standard boat tour that covers multiple sightseeing stops, this tour focuses exclusively on the thermal and wellness attractions of the region, allowing more time at each therapeutic site. The day begins with a gentle boat ride across Lake Koycegiz to the Sultaniye Hot Springs, followed by an extended session at the mineral mud baths, and concludes with a peaceful lunch on the lake shore or on board the boat. The unhurried pace and focus on wellbeing make this tour a favorite among visitors seeking to decompress and recharge."
+          "title": "Tur Özeti",
+          "content": "Sağlık ve Termal Turu, tam bir rahatlama ve doğal şifa günü arayan ziyaretçiler için tasarlanmıştır. Birden fazla gezi noktasını kapsayan standart tekne turundan farklı olarak bu tur, yalnızca bölgenin termal ve sağlık mekanlarına odaklanarak her terapötik noktada daha fazla zaman geçirilmesine olanak tanır. Gün, Köyceğiz Gölü üzerinden Sultaniye Kaplıcaları'na sakin bir tekne yolculuğuyla başlar, ardından mineral çamur banyolarında uzun bir seans gelir ve göl kıyısında veya tekne üzerinde huzurlu bir öğle yemeğiyle sona erer. Tortulaşmayan tempolu ve sağlığa odaklanan bu tur, kendini yenilemek ve şarj etmek isteyen ziyaretçiler arasında favoriler arasındadır."
         },
         "itinerary": {
-          "title": "The Wellness Circuit",
-          "content": "The tour follows a carefully designed sequence to maximize the therapeutic benefits of each stop. The morning begins at the Sultaniye Hot Springs, where guests soak in 39-degree mineral waters rich in sulfur and magnesium. After warming up in the thermal pools, the group moves to the mud bath area for the traditional coating, drying, and rinsing ritual. The mineral-rich mud draws out toxins and nourishes the skin, while the subsequent thermal rinse leaves the body feeling deeply relaxed. A fresh, healthy lunch of grilled fish, salad, and seasonal fruits follows. The afternoon offers free time for additional soaking, swimming in Lake Koycegiz, or simply resting in the shade of pine trees. The return journey to Dalyan crosses the lake as the afternoon light bathes the mountains in warm tones."
+          "title": "Sağlık Rotası",
+          "content": "Tur, her duraktan elde edilecek terapötik faydaları en üst düzeye çıkarmak için dikkatle tasarlanmış bir sıra izler. Sabah, kükürt ve magnezyum bakımından zengin 39 derecelik mineral sularda ısınma ile Sultaniye Kaplıcaları'nda başlar. Termal havuzlarda ısındıktan sonra grup, geleneksel çamur sürme, kurutma ve durulama ritüeli için çamur banyosu alanına geçer. Mineral bakımından zengin çamur toksinleri çeker ve cildi beslerken, ardından gelen termal durulama vücudu derin bir rahatlama hissine kavuşturur. Izgara balık, salata ve mevsim meyvelerinden oluşan taze, sağlıklı bir öğle yemeği takip eder. Öğleden sonra ek ıslanma, Köyceğiz Gölü'nde yüzme veya çam ağaçlarının gölgesinde dinlenme için serbest zaman sunar. Dalyan'a dönüş yolculuğu, öğleden sonra ışığının dağları sıcak tonlara boyadığı gölü geçerek yapılır."
         },
         "benefits": {
-          "title": "Health & Wellness Benefits",
-          "content": "The combination of thermal bathing, mineral mud treatment, and the calming natural environment provides measurable health benefits that visitors often notice immediately. Thermal water immersion has been shown to reduce cortisol levels, lower blood pressure, and ease chronic pain conditions. The mud treatment exfoliates dead skin cells, improves circulation to surface tissues, and delivers a concentrated dose of skin-nourishing minerals. The overall experience of spending a day in nature, away from screens and schedules, contributes to mental wellness and stress reduction. Many visitors report improved sleep quality and a sense of renewed vitality for several days following the tour."
+          "title": "Sağlık ve Zindelik Faydaları",
+          "content": "Termal banyo, mineral çamur uygulaması ve sakinleştirici doğal ortamın birleşimi, ziyaretçilerin genellikle hemen fark ettiği ölçülebilir sağlık faydaları sağlar. Termal su daldırmasının kortizol seviyelerini düşürdüğü, kan basıncını azalttığı ve kronik ağrı durumlarını hafiflettiği gösterilmiştir. Çamur uygulaması ölü deri hücrelerini temizler, yüzeysel dokulara kan dolaşımını artırır ve cildi besleyen yoğun bir mineral dozu sağlar. Ekranlardan ve programlardan uzak, doğada bir gün geçirmenin genel deneyimi, zihinsel sağlık ve stres azaltmaya katkıda bulunur. Birçok ziyaretçi, turdan sonra birkaç gün boyunca uyku kalitesinin iyileştiğini ve yenilenmiş bir canlılık hissi yaşadığını bildirmektedir."
         }
       },
       "highlights": [
-        "Extended thermal bathing at Sultaniye Hot Springs",
-        "Full mud bath ritual with three-pool circuit",
-        "Healthy fresh lunch included in the tour",
-        "Scenic boat cruise across Lake Koycegiz",
-        "Small group sizes for a peaceful atmosphere",
-        "Measurable health benefits for skin, joints, and stress relief",
-        "Free time for swimming or relaxing by the lake",
-        "Professional guidance on maximizing therapeutic benefits"
+        "Sultaniye Kaplıcaları'nda uzun süreli termal banyo",
+        "Üç havuzlu tam çamur banyosu ritüeli",
+        "Tura dahil sağlıklı taze öğle yemeği",
+        "Köyceğiz Gölü üzerinde manzaralı tekne gezisi",
+        "Huzurlu atmosfer için küçük grup boyutları",
+        "Cilt, eklemler ve stres giderme için ölçülebilir sağlık faydaları",
+        "Göl kenarında yüzme veya dinlenme için serbest zaman",
+        "Terapötik faydaları en üst düzeye çıkarmak için profesyonel rehberlik"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "5-6 hours (typically 09:30 to 15:30)",
-        "departure": "Dalyan town center or Koycegiz lakefront",
-        "price": "Includes boat transport, entrance fees, and lunch",
-        "includes": "Hot springs access, mud bath access, lunch, guided wellness advice",
-        "bring": "Dark swimsuit, towel, change of clothes, water, flip-flops",
-        "availability": "Daily April through November; by arrangement in winter",
-        "tips": "Remove all jewelry before the mud baths. Drink plenty of water throughout the day. The tour is suitable for all fitness levels but may not be recommended for those with heart conditions - consult your doctor if unsure."
+        "title": "Pratik Bilgiler",
+        "duration": "5-6 saat (genellikle 09:30 - 15:30)",
+        "departure": "Dalyan kasaba merkezi veya Köyceğiz göl kenarı",
+        "price": "Tekne ulaşımı, giriş ücretleri ve öğle yemeği dahildir",
+        "includes": "Kaplıca erişimi, çamur banyosu erişimi, öğle yemeği, rehberli sağlık tavsiyeleri",
+        "bring": "Koyu renkli mayo, havlu, yedek kıyafet, su, terlik",
+        "availability": "Nisan'dan Kasım'a her gün; kışın randevu ile",
+        "tips": "Çamur banyolarından önce tüm takıları çıkarın. Gün boyunca bol su için. Tur tüm kondisyon seviyelerine uygundur ancak kalp rahatsızlığı olanlar için önerilmeyebilir - emin değilseniz doktorunuza danışın."
       }
     },
     "jeepSafari": {
       "title": "Dalyan Jeep Safari",
-      "subtitle": "Mountains, Villages & Hidden Waterfalls",
-      "heroDescription": "Leave the river behind and explore the rugged mountain hinterland of Dalyan on an exhilarating jeep safari. Traverse forest trails, splash through mountain streams, visit traditional Turkish villages, and discover hidden waterfalls and panoramic viewpoints that most visitors never see.",
+      "subtitle": "Dağlar, Köyler ve Gizli Şelaleler",
+      "heroDescription": "Nehri arkada bırakın ve heyecan verici bir jeep safariyle Dalyan'ın engebeli dağ iç kesimlerini keşfedin. Orman patikalarından geçin, dağ derelerinden geçiş yapın, geleneksel Türk köylerini ziyaret edin ve çoğu ziyaretçinin asla göremediği gizli şelaleleri ve panoramik manzara noktalarını keşfedin.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Dalyan Jeep Safari takes visitors off the beaten path and into the wild mountainous interior that surrounds the Dalyan valley. Open-top 4x4 vehicles follow unpaved forest roads through fragrant pine and eucalyptus woodland, crossing shallow streams and climbing to elevated viewpoints with sweeping panoramas over the coast, Lake Koycegiz, and the river delta far below. The tour includes stops at traditional mountain villages where daily life continues much as it has for generations, offering a glimpse into rural Turkish culture that contrasts vividly with the coastal resort atmosphere. It is an ideal excursion for those who want to see a different side of the Dalyan region."
+          "title": "Tur Özeti",
+          "content": "Dalyan Jeep Safari, ziyaretçileri alışılmış rotadan çıkararak Dalyan vadisini çevreleyen vahşi dağlık iç bölgelere götürür. Açık üstlü 4x4 araçlar, kokulu çam ve okaliptüs ormanlarından geçen toprak yolları takip ederek sığ dereleri aşar ve kıyıya, Köyceğiz Gölü'ne ve alttaki nehir deltasına hâkim geniş panoramalarla yüksek bakış noktalarına tırmanır. Tur, günlük yaşamın nesiller boyunca çok az değiştiği geleneksel dağ köylerinde duraklar içererek kıyıdaki tatil köyü atmosferiyle canlı bir kontrast oluşturan kırsal Türk kültürüne bir bakış sunar. Dalyan bölgesinin farklı bir yüzünü görmek isteyenler için ideal bir gezidir."
         },
         "route": {
-          "title": "The Safari Route",
-          "content": "The safari route winds through the mountains south and east of Dalyan, following a combination of forest tracks and village roads. Early highlights include a stop at a panoramic viewpoint overlooking the entire Dalyan River system from source to sea, one of the most photographed vistas in the region. The route continues through dense pine forest to a seasonal waterfall fed by mountain springs, where passengers can swim in the cool natural pool at its base. A lunch stop in a traditional mountain village features home-cooked Turkish food prepared by local families, often including gozleme flatbreads cooked on a convex griddle, fresh village salad, and grilled meat. The afternoon leg passes through agricultural land where cotton, citrus, and pomegranate orchards stretch across the valley floor."
+          "title": "Safari Rotası",
+          "content": "Safari rotası Dalyan'ın güneyindeki ve doğusundaki dağlardan kıvrılarak orman patikalarının ve köy yollarının bir kombinasyonunu takip eder. İlk dikkat çekici noktalar arasında tüm Dalyan Nehir sistemininin kaynaktan denize panoramik görünümünü sunan ve bölgenin en çok fotoğraflanan manzaralarından biri olan bir bakış noktası bulunur. Rota, dağ kaynaklarıyla beslenen mevsimlik bir şelaleye doğru sık çam ormanından devam eder; burada yolcular şelalenin dibindeki serin doğal havuzda yüzebilir. Geleneksel bir dağ köyünde öğle yemeği molası, yerel aileler tarafından hazırlanan ev yapımı Türk yemeklerini içerir; genellikle dışbükey sacda pişirilen gözleme, taze köy salatası ve ızgara et. Öğleden sonra bölümü, vadi tabanında pamuk, narenciye ve nar bahçelerinin uzandığı tarım arazilerinden geçer."
         },
         "experience": {
-          "title": "The Experience",
-          "content": "The jeep safari is an interactive, social adventure. Passengers ride in open-top vehicles that accommodate six to eight people, with the option to sit on elevated rear seats for maximum visibility and fresh air. The driving style is spirited but safe, with experienced local drivers who know every turn of the mountain roads. Stops are frequent and leisurely, with time to explore, photograph, and interact with villagers. Children particularly enjoy the stream crossings and the chance to ride on top. The tour operates rain or shine, with wet-weather conditions adding an extra layer of adventure to the forest tracks. The total experience lasts approximately six hours and covers terrain that is impossible to reach by regular car."
+          "title": "Deneyim",
+          "content": "Jeep safari etkileşimli, sosyal bir macera deneyimidir. Yolcular, maksimum görünürlük ve taze hava için yükseltilmiş arka koltuklara oturma seçeneğiyle altı ila sekiz kişi alan açık üstlü araçlarda seyahat eder. Sürüş tarzı heyecanlı ama güvenlidir; dağ yollarının her virajını bilen deneyimli yerel sürücüler tarafından yönetilir. Molalar sık ve rahattır; keşfetmek, fotoğraf çekmek ve köylülerle etkileşim kurmak için zaman vardır. Çocuklar özellikle dere geçişlerinden ve üstte oturmaktan keyif alır. Tur yağmurlu veya güneşli her havada gerçekleşir; yağışlı koşullar orman patikalarına ekstra bir macera katmanı ekler. Toplam deneyim yaklaşık altı saat sürer ve normal araçla ulaşılması imkânsız arazileri kapsar."
         }
       },
       "highlights": [
-        "Open-top 4x4 vehicles through mountain forest trails",
-        "Panoramic viewpoints over Dalyan River, lake, and coastline",
-        "Hidden waterfall swim stop in a mountain pool",
-        "Traditional village lunch with home-cooked Turkish food",
-        "Stream crossings and off-road adventure driving",
-        "Visits to rural villages with authentic cultural encounters",
-        "Fragrant pine and eucalyptus forest landscapes",
-        "Fun and suitable for families, couples, and solo travelers"
+        "Dağ orman patikalarından açık üstlü 4x4 araçlar",
+        "Dalyan Nehri, göl ve kıyıya panoramik manzara noktaları",
+        "Dağ havuzunda gizli şelale yüzme molası",
+        "Ev yapımı Türk yemekleriyle geleneksel köy öğle yemeği",
+        "Dere geçişleri ve arazi macera sürüşü",
+        "Otantik kültürel karşılaşmalarla kırsal köy ziyaretleri",
+        "Kokulu çam ve okaliptüs orman manzaraları",
+        "Aileler, çiftler ve bireysel gezginler için eğlenceli ve uygun"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "5-6 hours (typically 09:00 to 15:00)",
-        "departure": "Hotel pickup from Dalyan accommodations",
-        "price": "Includes transport, lunch, and all stops",
-        "includes": "4x4 jeep transport, village lunch, guide, waterfall stop",
-        "bring": "Comfortable clothing, sturdy shoes, swimwear for waterfall, camera, sunscreen",
-        "availability": "Daily April through November; by arrangement in winter",
-        "tips": "Sit on the upper seats for the best views and most excitement. Hold on tight during stream crossings. Bring a light jacket for mountain elevations, which can be cooler than the coast."
+        "title": "Pratik Bilgiler",
+        "duration": "5-6 saat (genellikle 09:00 - 15:00)",
+        "departure": "Dalyan konaklama tesislerinden otel alımı",
+        "price": "Ulaşım, öğle yemeği ve tüm molalar dahil",
+        "includes": "4x4 jeep ulaşımı, köy öğle yemeği, rehber, şelale molası",
+        "bring": "Rahat kıyafet, sağlam ayakkabı, şelale için mayo, fotoğraf makinesi, güneş kremi",
+        "availability": "Nisan'dan Kasım'a her gün; kışın randevu ile",
+        "tips": "En iyi manzara ve en çok heyecan için üst koltuklara oturun. Dere geçişlerinde sıkı tutunun. Kıyıdan daha serin olabilen dağ yükseltileri için hafif bir ceket getirin."
       }
     },
     "ekincikMaviMagara": {
-      "title": "Ekincik Bay & Blue Cave Tour",
-      "subtitle": "Turquoise Waters & Hidden Caves",
-      "heroDescription": "Discover the stunning Ekincik Bay and the ethereal Blue Cave on a day trip that combines pristine swimming spots, dramatic coastal scenery, and a boat journey through some of the clearest waters in the Mediterranean.",
+      "title": "Ekincik Koyu ve Mavi Mağara Turu",
+      "subtitle": "Turkuaz Sular ve Gizli Mağaralar",
+      "heroDescription": "Bozulmamış yüzme noktalarını, dramatik kıyı manzaralarını ve Akdeniz'in en berrak sularından birinde tekne yolculuğunu birleştiren bir günübirlik turla çarpıcı Ekincik Koyu'nu ve büyüleyici Mavi Mağara'yı keşfedin.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Ekincik Bay and Blue Cave tour is a coastal adventure that takes visitors beyond the immediate Dalyan area to explore one of the most beautiful stretches of the Turkish Mediterranean coastline. Ekincik Bay, a deeply sheltered natural harbor approximately 30 kilometers south of Dalyan, is renowned for its crystal-clear turquoise waters and pine-covered hillsides that slope directly to the shoreline. The tour includes a boat excursion to the famous Blue Cave (Mavi Magara), a sea cave where sunlight refracting through underwater openings creates an otherworldly blue glow on the cave walls and water surface. Multiple swimming stops in secluded coves round out a day of maritime exploration."
+          "title": "Tur Özeti",
+          "content": "Ekincik Koyu ve Mavi Mağara turu, ziyaretçileri Dalyan çevresinin ötesine taşıyarak Türk Akdeniz kıyısının en güzel sahil şeritlerinden birini keşfettiren bir kıyı macerası. Dalyan'ın yaklaşık 30 kilometre güneyinde derin bir korunaklı doğal liman olan Ekincik Koyu, berrak turkuaz suları ve doğrudan kıyıya inen çam kaplı yamaçlarıyla ünlüdür. Tur, güneş ışığının sualtı açıklıklarından kırılarak mağara duvarları ve su yüzeyinde olağanüstü mavi bir parıltı yarattığı ünlü Mavi Mağara'ya (Mavi Mağara) tekne gezisi içerir. Tenha koylarda birden fazla yüzme molası, deniz keşfiyle dolu bir günü tamamlar."
         },
         "blueCave": {
-          "title": "The Blue Cave",
-          "content": "The Blue Cave is the undisputed highlight of this tour and one of the most remarkable natural formations along the Lycian coast. The cave is accessible only by small boat, which enters through a narrow opening in the rock face. Once inside, the cave opens into a larger chamber where sunlight penetrating through submerged openings in the rock creates an intense, luminous blue light that illuminates the water from below. The effect is most dramatic during the late morning hours when the sun angle is optimal. Swimmers can float in the glowing water inside the cave, an experience that visitors consistently describe as magical. The cave water is deep, clear, and refreshingly cool, even at the height of summer."
+          "title": "Mavi Mağara",
+          "content": "Mavi Mağara bu turun tartışmasız en öne çıkan noktası ve Likya kıyısı boyunca en dikkat çekici doğal oluşumlardan biridir. Mağaraya yalnızca kaya yüzeyindeki dar bir açıklıktan giren küçük bir tekneyle erişilebilir. İçeri girildikten sonra mağara, güneş ışığının kayadaki sualtı açıklıklarından sızarak suyu alttan aydınlatan yoğun, parlak mavi bir ışık yarattığı daha geniş bir odaya açılır. Etki, güneş açısının optimal olduğu sabahın geç saatlerinde en dramatiktir. Yüzücüler mağaranın içindeki parlayan suda yüzebilir; ziyaretçiler bu deneyimi sürekli olarak büyüleyici olarak tanımlar. Mağara suyu derin, berrak ve yazın en sıcak dönemlerinde bile serinletici derecede serindir."
         },
         "ekincik": {
-          "title": "Ekincik Bay",
-          "content": "Ekincik Bay itself is a destination worthy of a full day. The bay's sheltered position and south-facing orientation create exceptionally calm, warm swimming conditions throughout the season. The water clarity here is outstanding, with visibility often exceeding 20 meters, making it excellent for snorkeling along the rocky edges of the bay. A small beach at the head of the bay provides a base for sunbathing, and a handful of simple seafood restaurants along the shore serve freshly caught fish and traditional mezes. The bay is also a popular anchorage for sailing yachts traveling the Turkish coast, adding a picturesque backdrop to the natural beauty of the setting."
+          "title": "Ekincik Koyu",
+          "content": "Ekincik Koyu'nun kendisi tam bir günü hak eden bir destinasyondur. Koyun korunaklı konumu ve güneye bakan yönü, sezon boyunca olağanüstü sakin ve sıcak yüzme koşulları yaratır. Buradaki su berraklığı muhteşemdir; görüş mesafesi genellikle 20 metreyi aşar ve koyun kayalık kenarları boyunca şnorkelle yüzme için mükemmeldir. Koyun başındaki küçük bir plaj güneşlenme için bir üs sağlar ve kıyı boyunca birkaç sade deniz ürünleri restoranı taze yakalanmış balık ve geleneksel mezeler servis eder. Koy aynı zamanda Türk kıyısında seyreden yelkenli yatlar için popüler bir demirleme yeridir ve doğal güzelliğe pitoresk bir arka plan ekler."
         }
       },
       "highlights": [
-        "Visit to the luminous Blue Cave with its otherworldly blue light",
-        "Swimming in Ekincik Bay's crystal-clear turquoise waters",
-        "Multiple secluded cove stops for swimming and snorkeling",
-        "Fresh seafood lunch at a waterfront restaurant in Ekincik",
-        "Dramatic coastal scenery with pine-clad mountains meeting the sea",
-        "Water visibility often exceeding 20 meters for snorkeling",
-        "Small boat access to hidden caves and rocky inlets",
-        "Full day of maritime adventure on the Mediterranean coast"
+        "Olağanüstü mavi ışığıyla Mavi Mağara ziyareti",
+        "Ekincik Koyu'nun berrak turkuaz sularında yüzme",
+        "Yüzme ve şnorkelle yüzme için birden fazla tenha koy molası",
+        "Ekincik'te su kıyısı restoranda taze deniz ürünleri öğle yemeği",
+        "Çam kaplı dağların denizle buluştuğu dramatik kıyı manzarası",
+        "Şnorkelle yüzme için genellikle 20 metreyi aşan su görüş mesafesi",
+        "Gizli mağaralara ve kayalık kıyı girintilerine küçük tekneyle erişim",
+        "Akdeniz kıyısında tam günlük deniz macerası"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "7-8 hours (typically 09:00 to 17:00)",
-        "departure": "Dalyan town center (transfer by minibus to Ekincik, then by boat)",
-        "price": "Includes transport, boat tour, and lunch",
-        "includes": "Minibus transfer, boat excursion, Blue Cave visit, swimming stops, lunch",
-        "bring": "Swimwear, towel, snorkeling gear (if available), waterproof camera, sun protection",
-        "availability": "Daily June through September; by arrangement in May and October",
-        "tips": "The Blue Cave is best visited before noon when the light effect is strongest. Bring an underwater camera for the cave experience. Sea conditions must be calm for the boat to enter the cave, so flexibility with dates is recommended."
+        "title": "Pratik Bilgiler",
+        "duration": "7-8 saat (genellikle 09:00 - 17:00)",
+        "departure": "Dalyan kasaba merkezi (minibüsle Ekincik'e transfer, ardından tekneyle)",
+        "price": "Ulaşım, tekne turu ve öğle yemeği dahil",
+        "includes": "Minibüs transferi, tekne gezisi, Mavi Mağara ziyareti, yüzme molaları, öğle yemeği",
+        "bring": "Mayo, havlu, şnorkel ekipmanı (varsa), su geçirmez fotoğraf makinesi, güneş koruması",
+        "availability": "Haziran'dan Eylül'e her gün; Mayıs ve Ekim'de randevu ile",
+        "tips": "Mavi Mağara, ışık etkisinin en güçlü olduğu öğleden önce ziyaret edilmelidir. Mağara deneyimi için su altı fotoğraf makinesi getirin. Teknenin mağaraya girmesi için deniz koşullarının sakin olması gerekir, bu nedenle tarih esnekliği önerilir."
       }
     },
     "saklikentTlosTuru": {
-      "title": "Saklikent Gorge & Tlos Tour",
-      "subtitle": "Canyon Adventures & Ancient Lycia",
-      "heroDescription": "Combine the thrilling natural wonder of Saklikent Gorge, one of the deepest canyons in Europe, with the ancient Lycian hilltop city of Tlos on a day trip that delivers both adrenaline and history in equal measure.",
+      "title": "Saklıkent Kanyonu ve Tlos Turu",
+      "subtitle": "Kanyon Maceraları ve Antik Likya",
+      "heroDescription": "Avrupa'nın en derin kanyonlarından biri olan Saklıkent Kanyonu'nun heyecan verici doğal harikasını, antik Likya tepe kenti Tlos ile birleştirerek eşit ölçüde adrenalin ve tarih sunan bir günübirlik turda deneyimleyin.",
       "sections": {
         "overview": {
-          "title": "Tour Overview",
-          "content": "The Saklikent and Tlos day trip is one of the most popular excursions from Dalyan, offering a compelling combination of natural wonder and ancient history. The tour visits two remarkable sites in the neighboring Fethiye district: Saklikent Gorge, a dramatic 18-kilometer canyon carved by the Esen River through towering limestone walls, and Tlos, one of the six principal cities of the ancient Lycian League. The day provides a welcome contrast to the river and beach experiences of Dalyan itself, taking visitors into a landscape of soaring mountain peaks, rushing river water, and hilltop ruins commanding panoramic views of the Xanthos Valley. The round trip covers approximately 150 kilometers and takes a full day."
+          "title": "Tur Özeti",
+          "content": "Saklıkent ve Tlos günübirlik turu, doğal harika ve antik tarihin çekici bir birleşimini sunarak Dalyan'dan en popüler gezilerden biridir. Tur, komşu Fethiye ilçesindeki iki dikkat çekici alanı ziyaret eder: Eşen Çayı'nın devasa kireçtaşı duvarlarını oyarak oluşturduğu dramatik 18 kilometrelik kanyon Saklıkent Kanyonu ve antik Likya Birliği'nin altı başkentinden biri olan Tlos. Gün, Dalyan'ın nehir ve plaj deneyimlerinden hoş bir kontrast sunar; ziyaretçileri yükselen dağ zirveleri, çağlayan nehir suyu ve Ksanthos Vadisi'nin panoramik manzaralarını sunan tepe kalıntıları peyzajına götürür. Gidiş-dönüş yaklaşık 150 kilometre mesafe kapsar ve tam bir gün sürer."
         },
         "saklikent": {
-          "title": "Saklikent Gorge",
-          "content": "Saklikent Gorge is a geological masterpiece and one of Turkey's most impressive natural landmarks. The canyon reaches depths of up to 300 meters while narrowing to just a few meters in width at certain points, creating a dramatic passage of towering rock walls, rushing water, and cool shade even in the height of summer. Visitors enter the gorge via a wooden walkway bolted to the cliff face above the river, then wade upstream through knee-to-waist-deep cold water, navigating smooth boulders and narrow passages. The experience is exhilarating and refreshing, with the water temperature remaining bracingly cool year-round due to snowmelt from the Akdaglar mountains. Guided canyon walks can extend several kilometers into the gorge for more adventurous visitors, while casual explorers can enjoy the first section at their own pace."
+          "title": "Saklıkent Kanyonu",
+          "content": "Saklıkent Kanyonu jeolojik bir şaheser ve Türkiye'nin en etkileyici doğal simge yapılarından biridir. Kanyon, belirli noktalarda sadece birkaç metreye daralırken 300 metreye varan derinliklere ulaşır ve yükselen kaya duvarları, çağlayan su ve yazın en sıcak dönemlerinde bile serin gölge oluşturan dramatik bir geçit yaratır. Ziyaretçiler kanyona nehrin üzerinde kaya yüzeyine cıvatalanmış ahşap bir yürüyüş yolundan girer, ardından diz ile bel arasında derinlikteki soğuk suda yukarı doğru yürüyerek pürüzsüz kayalar ve dar geçitler arasında ilerler. Deneyim heyecan verici ve ferahlatıcıdır; su sıcaklığı Akdağlar'daki kar erimesi nedeniyle yıl boyunca cesaret kırıcı derecede soğuk kalır. Rehberli kanyon yürüyüşleri daha maceraperest ziyaretçiler için kanyonun birkaç kilometre içine uzanabilirken, sıradan keşifçiler ilk bölümün keyfini kendi hızlarında çıkarabilir."
         },
         "tlos": {
-          "title": "Ancient Tlos",
-          "content": "Tlos is one of the oldest and most important cities of ancient Lycia, continuously inhabited from the Bronze Age through the Ottoman period. Perched on a dramatic hilltop above the fertile Xanthos Valley, the site offers panoramic views that stretch across agricultural plains to distant mountain ranges. Key monuments include Lycian rock tombs carved into the cliff face below the acropolis, a large Roman stadium, a Roman bath complex, and an Ottoman fortress built atop the ancient citadel. The most famous tomb, known as Bellerophon's Tomb, features a carved relief of the mythological hero riding the winged horse Pegasus. The combination of Lycian, Roman, Byzantine, and Ottoman remains at a single site makes Tlos a fascinating palimpsest of Anatolian history."
+          "title": "Antik Tlos",
+          "content": "Tlos, Tunç Çağı'ndan Osmanlı dönemine kadar kesintisiz yerleşim görmüş antik Likya'nın en eski ve en önemli kentlerinden biridir. Verimli Ksanthos Vadisi üzerinde dramatik bir tepe üzerinde konumlanan alan, tarım ovalarından uzak dağ sıralarına uzanan panoramik manzaralar sunar. Önemli anıtlar arasında akropol altındaki kayalıklara oyulmuş Likya kaya mezarları, büyük bir Roma stadyumu, bir Roma hamam kompleksi ve antik kaleye üzerine inşa edilmiş bir Osmanlı kalesi bulunmaktadır. En ünlü mezar, mitolojik kahramanın kanatlı at Pegasus'a bindiğini tasvir eden kabartmalı Bellerophon Mezarı'dır. Tek bir alanda Likya, Roma, Bizans ve Osmanlı kalıntılarının bir arada bulunması, Tlos'u Anadolu tarihinin büyüleyici bir palimpsesti yapmaktadır."
         }
       },
       "highlights": [
-        "Wade through the dramatic 300-meter-deep Saklikent Gorge",
-        "Refreshingly cool canyon waters even in peak summer heat",
-        "Visit the ancient Lycian hilltop city of Tlos",
-        "Bellerophon's Tomb with its Pegasus relief carving",
-        "Panoramic views across the Xanthos Valley from the acropolis",
-        "Roman stadium, baths, and Ottoman fortress ruins at Tlos",
-        "Traditional riverside trout lunch at Saklikent",
-        "Full-day excursion combining nature and ancient history"
+        "300 metre derinliğindeki Saklıkent Kanyonu'nda yürüyüş",
+        "Yazın en sıcak dönemlerinde bile serinletici kanyon suları",
+        "Antik Likya tepe kenti Tlos ziyareti",
+        "Pegasus kabartmalı Bellerophon Mezarı",
+        "Akropolden Ksanthos Vadisi panoramik manzaraları",
+        "Tlos'ta Roma stadyumu, hamamlar ve Osmanlı kalesi kalıntıları",
+        "Saklıkent'te nehir kenarı geleneksel alabalık öğle yemeği",
+        "Doğa ve antik tarihi birleştiren tam günlük gezi"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "8-9 hours (typically 08:30 to 17:30)",
-        "departure": "Hotel pickup from Dalyan accommodations",
-        "price": "Includes transport, entrance fees, and lunch",
-        "includes": "Air-conditioned minibus, Saklikent and Tlos entrance fees, riverside lunch, guide",
-        "bring": "Water shoes or secure sandals for the gorge, swimwear, dry change of clothes, camera",
-        "availability": "Daily April through November; gorge may be inaccessible during heavy rain periods",
-        "tips": "Water shoes with a secure strap are essential for the gorge walk. Bring a dry bag or waterproof case for electronics. The gorge water is cold, so a quick-dry layer is useful. Visit Tlos first in the morning for the best light on the ruins."
+        "title": "Pratik Bilgiler",
+        "duration": "8-9 saat (genellikle 08:30 - 17:30)",
+        "departure": "Dalyan konaklama tesislerinden otel alımı",
+        "price": "Ulaşım, giriş ücretleri ve öğle yemeği dahil",
+        "includes": "Klimalı minibüs, Saklıkent ve Tlos giriş ücretleri, nehir kenarı öğle yemeği, rehber",
+        "bring": "Kanyon için su ayakkabısı veya sağlam sandaletler, mayo, kuru değişim kıyafeti, fotoğraf makinesi",
+        "availability": "Nisan'dan Kasım'a her gün; yoğun yağış dönemlerinde kanyon erişilemez olabilir",
+        "tips": "Kanyon yürüyüşü için sağlam kayışlı su ayakkabısı şarttır. Elektronik cihazlar için kuru çanta veya su geçirmez kılıf getirin. Kanyon suyu soğuktur, bu yüzden çabuk kuruyan bir üst yararlıdır. Kalıntılarda en iyi ışık için sabah önce Tlos'u ziyaret edin."
       }
     },
     "gunubirlikGeziler": {
-      "title": "Day Trips from Dalyan",
-      "subtitle": "Explore Beyond the River",
-      "heroDescription": "Dalyan's central location in southwestern Turkey makes it an ideal base for day trips to some of the region's most remarkable destinations. From the ghost town of Kayakoy to the turquoise lagoon of Oludeniz, a world of discovery lies within easy reach.",
+      "title": "Dalyan'dan Günübirlik Geziler",
+      "subtitle": "Nehrin Ötesini Keşfedin",
+      "heroDescription": "Dalyan'ın güneybatı Türkiye'deki merkezi konumu, bölgenin en dikkat çekici destinasyonlarına günübirlik geziler için ideal bir üs haline getirmektedir. Kayaköy hayalet köyünden Ölüdeniz'in turkuaz lagününe kadar keşfedilecek bir dünya yakın mesafededir.",
       "sections": {
         "overview": {
-          "title": "Day Trip Options",
-          "content": "Dalyan's position between the major resort towns of Marmaris and Fethiye, combined with good road connections, opens up an impressive range of day trip possibilities. Organized tours and private transfers make it easy to visit destinations across the Mugla and Antalya provinces without the need for a rental car. Popular day trips include the ancient city of Ephesus (a longer but rewarding journey), the stunning Oludeniz Blue Lagoon, the atmospheric ghost village of Kayakoy, the Sunday market at Koycegiz, the resort town of Marmaris, and the ancient site of Letoon. Each destination offers a distinct experience that complements the relaxed riverside atmosphere of Dalyan itself."
+          "title": "Günübirlik Gezi Seçenekleri",
+          "content": "Dalyan'ın büyük tatil kentleri Marmaris ve Fethiye arasındaki konumu ile iyi karayolu bağlantıları, etkileyici bir günübirlik gezi yelpazesi açmaktadır. Organize turlar ve özel transferler, kiralık araca gerek kalmadan Muğla ve Antalya illeri genelindeki destinasyonları ziyaret etmeyi kolaylaştırır. Popüler günübirlik geziler arasında Efes Antik Kenti (daha uzun ama ödüllendirici bir yolculuk), muhteşem Ölüdeniz Mavi Lagünü, atmosferik hayalet köy Kayaköy, Köyceğiz Pazar günü pazarı, tatil kenti Marmaris ve antik Letoon alanı bulunmaktadır. Her destinasyon, Dalyan'ın rahat nehir kenarı atmosferini tamamlayan farklı bir deneyim sunar."
         },
         "fethiye": {
-          "title": "Fethiye & Oludeniz",
-          "content": "The nearby resort town of Fethiye and the world-famous Oludeniz Blue Lagoon are approximately 75 kilometers from Dalyan, making them an easy and rewarding day trip. Fethiye offers a bustling harbor promenade, a lively fish market, and the impressive Amintas Rock Tombs overlooking the town. Oludeniz, just south of Fethiye, features the iconic Blue Lagoon, a protected turquoise bay that is consistently rated among the most beautiful beaches in the world. For the adventurous, tandem paragliding flights from Babadag Mountain (1,969 meters) land on Oludeniz Beach, offering an unforgettable aerial perspective of the coast. The drive between Dalyan and Fethiye passes through scenic mountain countryside and takes approximately 90 minutes."
+          "title": "Fethiye ve Ölüdeniz",
+          "content": "Yakındaki tatil kenti Fethiye ve dünyaca ünlü Ölüdeniz Mavi Lagünü, Dalyan'dan yaklaşık 75 kilometre uzaklıktadır ve kolay ve ödüllendirici bir günübirlik gezi oluşturur. Fethiye hareketli bir liman yürüyüş yolu, canlı bir balık pazarı ve kasabaya hâkim etkileyici Amintas Kaya Mezarları sunar. Fethiye'nin hemen güneyindeki Ölüdeniz, dünyanın en güzel plajları arasında sürekli olarak derecelendirilen korumalı turkuaz bir koy olan ikonik Mavi Lagün'e sahiptir. Maceraperestler için Babadağ'dan (1.969 metre) tandem yamaç paraşütü uçuşları Ölüdeniz Plajı'na inerek kıyının unutulmaz bir havadan perspektifini sunar. Dalyan ile Fethiye arasındaki yolculuk manzaralı dağ kırsalından geçer ve yaklaşık 90 dakika sürer."
         },
         "kayakoy": {
-          "title": "Kayakoy Ghost Village",
-          "content": "Kayakoy is a haunting and historically significant abandoned village near Fethiye that stands as a powerful monument to the population exchanges of the early 20th century. Once home to a mixed Greek and Turkish community of several thousand people, the village was emptied following the 1923 population exchange between Greece and Turkey. Today, hundreds of roofless stone houses, two Greek Orthodox churches, and a school stand in various states of picturesque ruin on a hillside above the Fethiye plain. Walking through the silent streets offers a profoundly moving experience and a tangible connection to a complex chapter of Aegean history. The village has been designated as a World Friendship and Peace Village by UNESCO."
+          "title": "Kayaköy Hayalet Köyü",
+          "content": "Kayaköy, Fethiye yakınlarında bulunan, 20. yüzyılın başlarındaki nüfus mübadelelerinin güçlü bir anıtı olan hüzünlü ve tarihsel açıdan önemli terk edilmiş bir köydür. Bir zamanlar birkaç bin kişilik karma Rum ve Türk topluluğuna ev sahipliği yapan köy, 1923'te Yunanistan ile Türkiye arasındaki nüfus mübadelesinin ardından boşaltılmıştır. Bugün yüzlerce çatısız taş ev, iki Rum Ortodoks kilisesi ve bir okul, Fethiye ovasının üzerindeki bir yamaçta çeşitli harap halde ayakta durmaktadır. Sessiz sokaklarda yürümek derinden etkileyici bir deneyim sunar ve Ege tarihinin karmaşık bir bölümüyle somut bir bağlantı kurar. Köy UNESCO tarafından Dünya Dostluk ve Barış Köyü olarak belirlenmiştir."
         },
         "marmaris": {
-          "title": "Marmaris & Surroundings",
-          "content": "Marmaris, located approximately 95 kilometers east of Dalyan, is one of the largest resort towns on Turkey's southwestern coast and makes for an interesting contrast to Dalyan's quieter atmosphere. The town features a restored Ottoman castle housing an archaeology museum, a sprawling covered bazaar ideal for shopping, and a scenic harbor lined with restaurants and bars. The nearby Marmaris National Park offers pine-forested walking trails and secluded swimming coves accessible by boat. For visitors interested in island-hopping, Marmaris is also the departure point for ferries to the Greek island of Rhodes, though this requires advance passport and visa arrangements."
+          "title": "Marmaris ve Çevresi",
+          "content": "Dalyan'dan yaklaşık 95 kilometre doğuda bulunan Marmaris, Türkiye'nin güneybatı kıyısındaki en büyük tatil kentlerinden biridir ve Dalyan'ın daha sakin atmosferiyle ilginç bir kontrast oluşturur. Kasabada bir arkeoloji müzesi barındıran restore edilmiş Osmanlı kalesi, alışveriş için ideal geniş bir kapalı çarşı ve restoranlar ve barlarla kaplı manzaralı bir liman bulunmaktadır. Yakındaki Marmaris Milli Parkı, çam kaplı yürüyüş parkurları ve tekneyle ulaşılabilir tenha yüzme koyları sunar. Ada turu yapmak isteyenler için Marmaris aynı zamanda Yunan adası Rodos'a feribot seferleri düzenleyen kalkış noktasıdır; ancak bu, pasaport ve vize düzenlemelerini önceden yapmayı gerektirir."
         }
       },
       "highlights": [
-        "Oludeniz Blue Lagoon, one of the world's most beautiful beaches",
-        "Kayakoy Ghost Village, a UNESCO peace monument",
-        "Fethiye harbor town with rock tombs and fish market",
-        "Tandem paragliding from Babadag Mountain over Oludeniz",
-        "Marmaris Ottoman castle, bazaar, and harbor",
-        "Koycegiz lakeside town and weekly market",
-        "Ancient Letoon sanctuary, a UNESCO World Heritage Site",
-        "All destinations within 90 minutes drive of Dalyan"
+        "Dünyanın en güzel plajlarından biri Ölüdeniz Mavi Lagünü",
+        "UNESCO barış anıtı Kayaköy Hayalet Köyü",
+        "Kaya mezarları ve balık pazarıyla Fethiye liman kasabası",
+        "Babadağ'dan Ölüdeniz üzerinde tandem yamaç paraşütü",
+        "Marmaris Osmanlı kalesi, çarşısı ve limanı",
+        "Köyceğiz göl kenarı kasabası ve haftalık pazarı",
+        "UNESCO Dünya Mirası Alanı Letoon kutsal alanı",
+        "Tüm destinasyonlar Dalyan'dan 90 dakika sürüş mesafesinde"
       ],
       "practicalInfo": {
-        "title": "Practical Information",
-        "duration": "Full day (typically 08:00 to 18:00, depending on destination)",
-        "departure": "Hotel pickup from Dalyan accommodations",
-        "price": "Varies by destination and group size; private tours available",
-        "includes": "Transport, guide (on organized tours), entrance fees at some destinations",
-        "bring": "Comfortable walking shoes, swimwear (for beach destinations), camera, sun protection",
-        "availability": "Year-round for most destinations; some seasonal variations for beach-focused trips",
-        "tips": "Combine Fethiye and Kayakoy in a single day trip for the best value. Book Oludeniz paragliding in advance during peak season. The Koycegiz market runs every Sunday morning and is worth the short trip from Dalyan."
+        "title": "Pratik Bilgiler",
+        "duration": "Tam gün (genellikle 08:00 - 18:00, destinasyona göre değişir)",
+        "departure": "Dalyan konaklama tesislerinden otel alımı",
+        "price": "Destinasyona ve grup büyüklüğüne göre değişir; özel turlar mevcuttur",
+        "includes": "Ulaşım, rehber (organize turlarda), bazı destinasyonlarda giriş ücretleri",
+        "bring": "Rahat yürüyüş ayakkabısı, mayo (plaj destinasyonları için), fotoğraf makinesi, güneş koruması",
+        "availability": "Çoğu destinasyon için yıl boyunca; plaj odaklı geziler için bazı mevsimsel değişiklikler",
+        "tips": "En iyi değer için Fethiye ve Kayaköy'ü tek günlük bir gezide birleştirin. Ölüdeniz yamaç paraşütünü yoğun sezonda önceden rezerve edin. Köyceğiz pazarı her Pazar sabahı kurulur ve Dalyan'dan kısa yolculuğa değer."
       }
     }
   }
