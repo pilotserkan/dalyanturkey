@@ -160,6 +160,17 @@
       "diving": "Immersioni",
       "cultural": "Tour culturali"
     },
-    "available": "Disponibile ora"
+    "available": "Disponibile ora",
+    "waveHeight": "Altezza onde",
+    "waveShort": "Onde",
+    "humidity": "Umidita",
+    "humidityShort": "Umid.",
+    "waveLow": "Mare calmo",
+    "waveModerate": "Onde moderate",
+    "waveHigh": "Mare mosso",
+    "shareLocation": "Condividi posizione",
+    "navigate": "Naviga",
+    "copyCoords": "Copia coordinate",
+    "copied": "Copiato!"
   }
 }

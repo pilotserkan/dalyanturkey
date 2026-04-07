@@ -160,6 +160,17 @@
       "diving": "Buceo",
       "cultural": "Tours culturales"
     },
-    "available": "Disponible ahora"
+    "available": "Disponible ahora",
+    "waveHeight": "Altura del oleaje",
+    "waveShort": "Olas",
+    "humidity": "Humedad",
+    "humidityShort": "Hum.",
+    "waveLow": "Mar en calma",
+    "waveModerate": "Oleaje moderado",
+    "waveHigh": "Mar agitado",
+    "shareLocation": "Compartir ubicacion",
+    "navigate": "Navegar",
+    "copyCoords": "Copiar coordenadas",
+    "copied": "Copiado!"
   }
 }

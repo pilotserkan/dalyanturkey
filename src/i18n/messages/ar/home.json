@@ -160,6 +160,17 @@
       "diving": "الغوص",
       "cultural": "الجولات الثقافية"
     },
-    "available": "متاح الآن"
+    "available": "متاح الآن",
+    "waveHeight": "ارتفاع الأمواج",
+    "waveShort": "أمواج",
+    "humidity": "الرطوبة",
+    "humidityShort": "رطوبة",
+    "waveLow": "بحر هادئ",
+    "waveModerate": "أمواج متوسطة",
+    "waveHigh": "بحر هائج",
+    "shareLocation": "مشاركة الموقع",
+    "navigate": "التنقل",
+    "copyCoords": "نسخ الإحداثيات",
+    "copied": "تم النسخ!"
   }
 }

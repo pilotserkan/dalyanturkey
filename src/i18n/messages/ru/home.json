@@ -160,6 +160,17 @@
       "diving": "Дайвинг",
       "cultural": "Культурные туры"
     },
-    "available": "Доступно сейчас"
+    "available": "Доступно сейчас",
+    "waveHeight": "Высота волн",
+    "waveShort": "Волны",
+    "humidity": "Влажность",
+    "humidityShort": "Влажн.",
+    "waveLow": "Спокойное море",
+    "waveModerate": "Умеренные волны",
+    "waveHigh": "Неспокойное море",
+    "shareLocation": "Поделиться местоположением",
+    "navigate": "Навигация",
+    "copyCoords": "Копировать координаты",
+    "copied": "Скопировано!"
   }
 }

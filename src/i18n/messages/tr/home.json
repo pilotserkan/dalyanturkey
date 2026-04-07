@@ -160,6 +160,17 @@
       "diving": "Dalış",
       "cultural": "Kültür Turları"
     },
-    "available": "Şu anda mevcut"
+    "available": "Şu anda mevcut",
+    "waveHeight": "Dalga Yuksekligi",
+    "waveShort": "Dalgalar",
+    "humidity": "Nem",
+    "humidityShort": "Nem",
+    "waveLow": "Sakin deniz",
+    "waveModerate": "Orta dalgalar",
+    "waveHigh": "Dalgali deniz",
+    "shareLocation": "Konum Paylas",
+    "navigate": "Yol Tarifi",
+    "copyCoords": "Koordinatlari Kopyala",
+    "copied": "Kopyalandi!"
   }
 }

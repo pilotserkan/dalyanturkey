@@ -160,6 +160,17 @@
       "diving": "Plongee",
       "cultural": "Visites culturelles"
     },
-    "available": "Disponible maintenant"
+    "available": "Disponible maintenant",
+    "waveHeight": "Hauteur des vagues",
+    "waveShort": "Vagues",
+    "humidity": "Humidite",
+    "humidityShort": "Humid.",
+    "waveLow": "Mer calme",
+    "waveModerate": "Vagues moderees",
+    "waveHigh": "Mer agitee",
+    "shareLocation": "Partager la position",
+    "navigate": "Itineraire",
+    "copyCoords": "Copier les coordonnees",
+    "copied": "Copie !"
   }
 }

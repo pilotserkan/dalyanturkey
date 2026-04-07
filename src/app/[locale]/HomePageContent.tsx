@@ -187,7 +187,27 @@ export default function HomePageContent() {
       </section>
 
       {/* ============================================================ */}
-      {/*  INTERACTIVE MAP — right after highlights                     */}
+      {/*  WEATHER & ACTIVITIES                                         */}
+      {/* ============================================================ */}
+      <section className="py-24 bg-gradient-to-b from-white to-sky-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <span className="inline-block px-4 py-1.5 bg-sky-100 text-sky-700 text-sm font-bold rounded-full mb-4 tracking-wide uppercase">
+              {w('badge')}
+            </span>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
+              {w('title')}
+            </h2>
+            <p className="text-lg text-gray-500 max-w-2xl mx-auto">
+              {w('subtitle')}
+            </p>
+          </div>
+          <WeatherWidget />
+        </div>
+      </section>
+
+      {/* ============================================================ */}
+      {/*  INTERACTIVE MAP                                              */}
       {/* ============================================================ */}
       <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -322,26 +342,6 @@ export default function HomePageContent() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* ============================================================ */}
-      {/*  WEATHER & ACTIVITIES                                         */}
-      {/* ============================================================ */}
-      <section className="py-24 bg-gradient-to-b from-amber-50 to-sky-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <span className="inline-block px-4 py-1.5 bg-sky-100 text-sky-700 text-sm font-bold rounded-full mb-4 tracking-wide uppercase">
-              {w('badge')}
-            </span>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
-              {w('title')}
-            </h2>
-            <p className="text-lg text-gray-500 max-w-2xl mx-auto">
-              {w('subtitle')}
-            </p>
-          </div>
-          <WeatherWidget />
         </div>
       </section>
 

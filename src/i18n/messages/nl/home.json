@@ -160,6 +160,17 @@
       "diving": "Duiken",
       "cultural": "Culturele Rondleidingen"
     },
-    "available": "Nu beschikbaar"
+    "available": "Nu beschikbaar",
+    "waveHeight": "Golfhoogte",
+    "waveShort": "Golven",
+    "humidity": "Luchtvochtigheid",
+    "humidityShort": "Vochtig.",
+    "waveLow": "Kalme zee",
+    "waveModerate": "Matige golven",
+    "waveHigh": "Ruwe zee",
+    "shareLocation": "Locatie delen",
+    "navigate": "Navigatie",
+    "copyCoords": "Coordinaten kopieren",
+    "copied": "Gekopieerd!"
   }
 }

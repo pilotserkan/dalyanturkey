@@ -160,6 +160,17 @@
       "diving": "Diving",
       "cultural": "Cultural Tours"
     },
-    "available": "Available now"
+    "available": "Available now",
+    "waveHeight": "Wave Height",
+    "waveShort": "Waves",
+    "humidity": "Humidity",
+    "humidityShort": "Humid.",
+    "waveLow": "Calm seas",
+    "waveModerate": "Moderate waves",
+    "waveHigh": "Rough seas",
+    "shareLocation": "Share Location",
+    "navigate": "Navigate",
+    "copyCoords": "Copy Coordinates",
+    "copied": "Copied!"
   }
 }

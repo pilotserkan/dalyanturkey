@@ -160,6 +160,17 @@
       "diving": "潜水",
       "cultural": "文化之旅"
     },
-    "available": "现在可用"
+    "available": "现在可用",
+    "waveHeight": "浪高",
+    "waveShort": "海浪",
+    "humidity": "湿度",
+    "humidityShort": "湿度",
+    "waveLow": "风平浪静",
+    "waveModerate": "中等海浪",
+    "waveHigh": "海浪汹涌",
+    "shareLocation": "分享位置",
+    "navigate": "导航",
+    "copyCoords": "复制坐标",
+    "copied": "已复制!"
   }
 }

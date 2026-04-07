@@ -160,6 +160,17 @@
       "diving": "Tauchen",
       "cultural": "Kulturtouren"
     },
-    "available": "Jetzt verfugbar"
+    "available": "Jetzt verfugbar",
+    "waveHeight": "Wellenhohe",
+    "waveShort": "Wellen",
+    "humidity": "Luftfeuchtigkeit",
+    "humidityShort": "Feuchte",
+    "waveLow": "Ruhige See",
+    "waveModerate": "Maessiger Wellengang",
+    "waveHigh": "Raue See",
+    "shareLocation": "Standort teilen",
+    "navigate": "Navigation",
+    "copyCoords": "Koordinaten kopieren",
+    "copied": "Kopiert!"
   }
 }
