@@ -1,152 +1,152 @@
 {
   "metadata": {
     "home": {
-      "title": "Dalyan Turkey | Ancient Kaunos, Iztuzu Beach & Caretta Caretta",
-      "description": "Discover Dalyan, Turkey — explore ancient Kaunos ruins, pristine Iztuzu Beach, Caretta Caretta turtles, thermal springs & river boat tours in this Mediterranean gem."
+      "title": "Dalyan Turquía | Kaunos, Playa Iztuzu y Caretta Caretta",
+      "description": "Descubre Dalyan, Turquía — ruinas de Kaunos, playa virgen de Iztuzu, tortugas Caretta Caretta, aguas termales y cruceros fluviales en esta joya del Mediterráneo."
     },
     "tarih": {
-      "title": "Ancient Sites & Historical Treasures | Dalyan Turkey",
-      "description": "Explore Dalyan's rich history spanning 3,000 years — from the ancient Carian city of Kaunos to magnificent Lycian rock tombs carved into riverside cliffs."
+      "title": "Sitios antiguos y tesoros históricos | Dalyan Turquía",
+      "description": "Explora la rica historia de Dalyan a lo largo de 3000 años — desde la antigua ciudad caria de Kaunos hasta las majestuosas tumbas licias talladas en los acantilados."
     },
     "tarihKaunos": {
-      "title": "Kaunos Ancient City | 3000-Year-Old Carian-Lycian City",
-      "description": "Visit Kaunos Ancient City near Dalyan — a 3,000-year-old Carian-Lycian settlement with temples, theatre, Roman baths and a strategic harbour on the river delta."
+      "title": "Ciudad antigua de Kaunos | Ciudad cario-licia de 3000 años",
+      "description": "Visita la ciudad antigua de Kaunos cerca de Dalyan — asentamiento cario-licio de 3000 años con templos, teatro, termas romanas y puerto estratégico en el delta."
     },
     "tarihKayaMezarlari": {
-      "title": "Dalyan Rock Tombs | 2400-Year-Old Lycian Royal Tombs",
-      "description": "Marvel at the iconic Lycian rock tombs of Dalyan — 2,400-year-old royal burial chambers carved high into the cliffs overlooking the Dalyan River and reed-lined delta."
+      "title": "Tumbas rupestres de Dalyan | Tumbas reales licias",
+      "description": "Admira las icónicas tumbas rupestres licias de Dalyan — cámaras funerarias reales de 2400 años talladas en los acantilados sobre el río Dalyan y el delta de juncos."
     },
     "dogaHub": {
-      "title": "Nature & Wildlife | Dalyan Turkey",
-      "description": "Discover Dalyan's extraordinary nature — Iztuzu turtle beach, Dalyan Delta wetlands, Lake Koycegiz, 180+ bird species and the world's only native Liquidambar forest."
+      "title": "Naturaleza y vida silvestre | Dalyan Turquía",
+      "description": "Descubre la naturaleza excepcional de Dalyan — playa de tortugas Iztuzu, humedales del delta, lago Koycegiz, más de 180 especies de aves y bosque de Liquidambar."
     },
     "dogaIztuzu": {
-      "title": "Iztuzu Beach - Turtle Beach | 12km Pristine Sand",
-      "description": "Visit Iztuzu Beach (Turtle Beach) in Dalyan — a 12km pristine sand strip where Caretta Caretta sea turtles nest, bordered by the river delta and Mediterranean Sea."
+      "title": "Playa Iztuzu | 12 km de arena virgen y tortugas",
+      "description": "Visita la playa Iztuzu en Dalyan — 12 km de arena virgen donde anidan las tortugas Caretta Caretta, entre el delta fluvial y el mar Mediterráneo."
     },
     "dogaCaretta": {
-      "title": "Caretta Caretta Sea Turtles | Nesting Season & Conservation",
-      "description": "Learn about Caretta Caretta loggerhead sea turtles in Dalyan — nesting season on Iztuzu Beach, conservation efforts, ethical watching tips and lifecycle facts."
+      "title": "Tortugas Caretta Caretta | Temporada de anidación",
+      "description": "Conoce las tortugas bobas Caretta Caretta en Dalyan — temporada de anidación en Iztuzu, esfuerzos de conservación, consejos de observación ética y ciclo de vida."
     },
     "dogaKoycegiz": {
-      "title": "Lake Koycegiz | Freshwater-Saltwater Lagoon",
-      "description": "Explore Lake Koycegiz near Dalyan — a vast freshwater-saltwater lagoon surrounded by pine forests, home to thermal springs, wildlife and stunning sunset panoramas."
+      "title": "Lago Koycegiz | Laguna de agua dulce y salada",
+      "description": "Explora el lago Koycegiz cerca de Dalyan — extensa laguna rodeada de bosques de pinos con aguas termales, fauna silvestre y espectaculares puestas de sol."
     },
     "dogaDelta": {
-      "title": "Dalyan Delta | Reed Maze & Wetland Ecosystem",
-      "description": "Navigate the Dalyan Delta reed maze — a protected wetland ecosystem connecting Lake Koycegiz to the Mediterranean, teeming with birdlife, fish and blue crabs."
+      "title": "Delta de Dalyan | Laberinto de juncos y humedales",
+      "description": "Navega por el laberinto de juncos del delta de Dalyan — ecosistema de humedales protegido que conecta el lago Koycegiz con el Mediterráneo, rico en aves y cangrejos."
     },
     "dogaMaviYengec": {
-      "title": "Blue Crab of Dalyan | Atlantic Visitor in Koycegiz",
-      "description": "Discover the blue crab of Dalyan — an Atlantic species thriving in the Koycegiz-Dalyan lagoon system, now a local delicacy and subject of ecological research."
+      "title": "Cangrejo azul de Dalyan | Visitante atlántico en Koycegiz",
+      "description": "Descubre el cangrejo azul de Dalyan — especie atlántica que prospera en el sistema lagunar Koycegiz-Dalyan, ahora manjar local y objeto de investigación ecológica."
     },
     "dogaKusGozlem": {
-      "title": "Birdwatching in Dalyan | 180+ Species Guide",
-      "description": "Birdwatching in Dalyan and Koycegiz — spot 180+ species including Dalmatian pelicans, kingfishers and ospreys in the delta wetlands and surrounding habitats."
+      "title": "Avistamiento de aves en Dalyan | Guía de 180+ especies",
+      "description": "Avistamiento de aves en Dalyan y Koycegiz — observa más de 180 especies como pelícanos dálmatas, martines pescadores y águilas pescadoras en los humedales del delta."
     },
     "dogaYuvarlakcay": {
-      "title": "Yuvarlakcay | Crystal Stream & Trout Restaurants",
-      "description": "Visit Yuvarlakcay near Dalyan — a crystal-clear mountain stream with waterside trout restaurants, shaded picnic areas and refreshing natural swimming spots."
+      "title": "Yuvarlakcay | Arroyo cristalino y restaurantes de trucha",
+      "description": "Visita Yuvarlakcay cerca de Dalyan — arroyo de montaña cristalino con restaurantes de trucha junto al agua, áreas de picnic sombreadas y pozas naturales."
     },
     "dogaSigla": {
-      "title": "Liquidambar Forest | World's Only Native Habitat",
-      "description": "Explore the ancient Liquidambar orientalis forest near Dalyan — the world's only remaining native habitat for this rare sweet gum tree, a living botanical relic."
+      "title": "Bosque de Liquidambar | Único hábitat nativo del mundo",
+      "description": "Explora el antiguo bosque de Liquidambar orientalis cerca de Dalyan — único hábitat nativo que queda en el mundo para este raro árbol, una reliquia botánica viva."
     },
     "dogaGunBatimi": {
-      "title": "Best Sunset Spots in Dalyan | Photography Guide",
-      "description": "Find the best sunset spots in Dalyan — from riverside cafes facing the rock tombs to Iztuzu Beach hilltop and Lake Koycegiz panoramas. Photography tips included."
+      "title": "Mejores atardeceres en Dalyan | Guía de fotografía",
+      "description": "Encuentra los mejores miradores de atardecer en Dalyan — cafés frente a las tumbas rupestres, colina de Iztuzu y panorámicas del lago Koycegiz con consejos fotográficos."
     },
     "wellnessHub": {
-      "title": "Wellness & Thermal Springs | Dalyan Turkey",
-      "description": "Experience Dalyan's wellness traditions — Sultaniye thermal hot springs with 2,000-year history and legendary mud baths known since Cleopatra's era for healing."
+      "title": "Bienestar y aguas termales | Dalyan Turquía",
+      "description": "Vive las tradiciones de bienestar de Dalyan — aguas termales de Sultaniye con 2000 años de historia y legendarios baños de barro conocidos desde la era de Cleopatra."
     },
     "wellnessSultaniye": {
-      "title": "Sultaniye Hot Springs | 2000-Year-Old Healing Waters",
-      "description": "Bathe in Sultaniye Hot Springs near Dalyan — 39C thermal waters rich in minerals, used for healing since ancient times. Open-air pools beside Lake Koycegiz shores."
+      "title": "Termas de Sultaniye | Aguas curativas de 2000 años",
+      "description": "Báñate en las termas de Sultaniye cerca de Dalyan — aguas termales a 39°C ricas en minerales, usadas desde la Antigüedad. Piscinas al aire libre junto al lago Koycegiz."
     },
     "wellnessCamur": {
-      "title": "Dalyan Mud Baths | Cleopatra's Beauty Secret",
-      "description": "Try Dalyan's famous mud baths — mineral-rich natural clay believed to rejuvenate skin since Cleopatra's time. A unique open-air wellness experience by the lake."
+      "title": "Baños de barro de Dalyan | Secreto de belleza de Cleopatra",
+      "description": "Prueba los famosos baños de barro de Dalyan — arcilla natural rica en minerales que rejuvenece la piel desde tiempos de Cleopatra. Experiencia única al aire libre."
     },
     "turlarHub": {
-      "title": "River Routes & Excursions | Dalyan Turkey",
-      "description": "Explore Dalyan by boat, jeep or on foot — river cruises past rock tombs, Iztuzu Beach trips, turtle watching, canyon adventures and guided cultural excursions."
+      "title": "Rutas fluviales y excursiones | Dalyan Turquía",
+      "description": "Explora Dalyan en barco, jeep o a pie — cruceros junto a las tumbas, excursiones a Iztuzu, avistamiento de tortugas, cañones y visitas culturales guiadas."
     },
     "turlarTekne": {
-      "title": "Classic Dalyan Boat Tour | Full Day River Experience",
-      "description": "Join the classic Dalyan boat tour — a full-day river cruise past Lycian rock tombs, through the reed delta to Iztuzu Beach, mud baths and Sultaniye hot springs."
+      "title": "Crucero clásico por Dalyan | Día completo en el río",
+      "description": "Únete al crucero clásico de Dalyan — jornada completa pasando las tumbas licias, cruzando el delta hasta Iztuzu, baños de barro y termas de Sultaniye."
     },
     "turlarKaunos": {
-      "title": "Kaunos Culture Tour | Guided Ancient City Walk",
-      "description": "Take a guided Kaunos culture tour from Dalyan — expert-led walk through the ancient city's theatre, temples, agora and harbour with historical commentary."
+      "title": "Tour cultural de Kaunos | Visita guiada a la ciudad antigua",
+      "description": "Haz un tour cultural guiado de Kaunos desde Dalyan — recorrido experto por el teatro, templos, ágora y puerto de la ciudad antigua con comentario histórico."
     },
     "turlarSuTaksi": {
-      "title": "Iztuzu Water Taxi | Direct Beach Transfer",
-      "description": "Catch the Iztuzu water taxi from Dalyan town centre — a quick, scenic river transfer directly to Turtle Beach. Regular departures, affordable and convenient."
+      "title": "Taxi acuático a Iztuzu | Traslado directo a la playa",
+      "description": "Toma el taxi acuático a Iztuzu desde el centro de Dalyan — traslado fluvial rápido y pintoresco a la playa de las tortugas. Salidas regulares y económicas."
     },
     "turlarCaretta": {
-      "title": "Ethical Caretta Watching Tour | Sea Turtle Observation",
-      "description": "Join an ethical Caretta Caretta watching tour in Dalyan — observe loggerhead sea turtles in their natural habitat with trained guides following conservation rules."
+      "title": "Avistamiento ético de Caretta | Observación de tortugas",
+      "description": "Únete a un tour ético de observación de Caretta Caretta en Dalyan — observa tortugas bobas en su hábitat natural con guías formados en normas de conservación."
     },
     "turlarWellness": {
-      "title": "Dalyan Wellness Tour | Mud Bath & Hot Springs Day",
-      "description": "Book a Dalyan wellness day tour — combine mud baths, Sultaniye hot springs and a relaxing river boat cruise for the ultimate rejuvenation experience in nature."
+      "title": "Tour de bienestar en Dalyan | Barro y aguas termales",
+      "description": "Reserva un día de bienestar en Dalyan — combina baños de barro, termas de Sultaniye y un relajante crucero fluvial para una experiencia rejuvenecedora en la naturaleza."
     },
     "turlarJeep": {
-      "title": "Dalyan Jeep Safari | Villages, Waterfalls & Adventure",
-      "description": "Explore Dalyan's rugged backcountry by jeep — visit mountain villages, hidden waterfalls, pine forests and panoramic viewpoints on this off-road adventure tour."
+      "title": "Safari en jeep por Dalyan | Aldeas y cascadas",
+      "description": "Explora el interior agreste de Dalyan en jeep — aldeas de montaña, cascadas ocultas, bosques de pinos y miradores panorámicos en esta aventura todoterreno."
     },
     "turlarEkincik": {
-      "title": "Ekincik Bay & Blue Cave | Hidden Mediterranean Cove",
-      "description": "Sail from Dalyan to Ekincik Bay and the Blue Cave — a hidden Mediterranean cove with turquoise waters, pine-clad shores and excellent snorkelling conditions."
+      "title": "Bahía de Ekincik y cueva azul | Cala mediterránea",
+      "description": "Navega de Dalyan a la bahía de Ekincik y la cueva azul — cala mediterránea oculta con aguas turquesas, costas de pinos y excelentes condiciones de buceo."
     },
     "turlarSaklikent": {
-      "title": "Saklikent Canyon & Tlos | Day Trip from Dalyan",
-      "description": "Day trip from Dalyan to Saklikent Canyon and Tlos ancient city — wade through Europe's deepest gorge and explore a Lycian hilltop fortress with valley views."
+      "title": "Cañón de Saklikent y Tlos | Excursión desde Dalyan",
+      "description": "Excursión de Dalyan al cañón de Saklikent y la ciudad de Tlos — cruza la garganta más profunda de Europa y explora una fortaleza licia con vistas al valle."
     },
     "turlarGunubirlik": {
-      "title": "Day Trips from Dalyan | Fethiye, Pamukkale & More",
-      "description": "Plan day trips from Dalyan — visit Fethiye's Blue Lagoon, Pamukkale travertines, Ephesus ruins, Rhodes Island and more. Transport options and itinerary tips."
+      "title": "Excursiones de un día desde Dalyan | Fethiye y más",
+      "description": "Planifica excursiones desde Dalyan — laguna azul de Fethiye, travertinos de Pamukkale, ruinas de Éfeso, isla de Rodas y más. Opciones de transporte y consejos."
     },
     "yemeIcmeHub": {
-      "title": "Dalyan Cuisine & Local Flavors | Food Guide",
-      "description": "Taste Dalyan's local cuisine — fresh river fish, blue crab, Aegean herbs, Ottoman-inspired dishes and farm-to-table flavours at riverside restaurants and markets."
+      "title": "Gastronomía local de Dalyan | Guía culinaria",
+      "description": "Saborea la cocina de Dalyan — pescado de río fresco, cangrejo azul, hierbas del Egeo, platos de inspiración otomana y sabores de la tierra en restaurantes fluviales."
     },
     "yemeIcmeMutfak": {
-      "title": "Dalyan Kitchen | Traditional Dishes & Seafood",
-      "description": "Explore Dalyan's traditional kitchen — grilled sea bass, blue crab pasta, herb-stuffed flatbreads, local honey and regional specialities from the Mugla province."
+      "title": "Cocina de Dalyan | Platos tradicionales y mariscos",
+      "description": "Descubre la cocina tradicional de Dalyan — lubina a la parrilla, pasta de cangrejo azul, panes con hierbas, miel local y especialidades regionales de la provincia de Mugla."
     },
     "pratikHub": {
-      "title": "Practical Travel Information | Dalyan Turkey",
-      "description": "Plan your Dalyan trip — airport transfers, best travel seasons, local markets, sustainable tourism tips and answers to frequently asked questions about Dalyan."
+      "title": "Información práctica de viaje | Dalyan Turquía",
+      "description": "Planifica tu viaje a Dalyan — traslados del aeropuerto, mejores temporadas, mercados locales, turismo sostenible y respuestas a preguntas frecuentes sobre Dalyan."
     },
     "pratikHavalimani": {
-      "title": "Dalaman Airport to Dalyan | Transfer & Transport Guide",
-      "description": "Get from Dalaman Airport to Dalyan easily — shuttle buses, private transfers, car rental and taxi options with journey times, prices and booking advice."
+      "title": "Aeropuerto de Dalaman a Dalyan | Guía de transporte",
+      "description": "Llega a Dalyan desde el aeropuerto de Dalaman — autobuses, traslados privados, alquiler de coches y taxis con tiempos de viaje, precios y consejos de reserva."
     },
     "pratikNeZaman": {
-      "title": "Best Time to Visit Dalyan | Season-by-Season Guide",
-      "description": "Find the best time to visit Dalyan — season-by-season weather, turtle nesting dates, swimming conditions, crowd levels and event calendars for planning your trip."
+      "title": "Mejor época para visitar Dalyan | Guía por temporadas",
+      "description": "Encuentra la mejor época para visitar Dalyan — clima por temporada, fechas de anidación, condiciones de baño, afluencia y calendario de eventos para tu viaje."
     },
     "pratikPazar": {
-      "title": "Koycegiz Monday Market | Authentic Turkish Bazaar",
-      "description": "Visit the Koycegiz Monday market near Dalyan — a vibrant Turkish bazaar with fresh produce, spices, textiles, handcrafts and local specialities every Monday."
+      "title": "Mercado del lunes en Koycegiz | Bazar turco auténtico",
+      "description": "Visita el mercado del lunes de Koycegiz cerca de Dalyan — animado bazar turco con productos frescos, especias, textiles, artesanía y especialidades locales."
     },
     "pratikSSS": {
-      "title": "Dalyan FAQ | Everything You Need to Know",
-      "description": "Dalyan FAQ — answers to common questions about getting there, accommodation, beaches, boat tours, weather, safety, currency and local customs for travellers."
+      "title": "FAQ de Dalyan | Todo lo que necesitas saber",
+      "description": "FAQ de Dalyan — respuestas a preguntas frecuentes sobre cómo llegar, alojamiento, playas, paseos en barco, clima, seguridad, moneda y costumbres locales."
     },
     "pratikSurdurulebilir": {
-      "title": "Sustainable Tourism in Dalyan | Ethical Traveler Guide",
-      "description": "Practice sustainable tourism in Dalyan — respect turtle nesting sites, support local businesses, reduce plastic waste and protect this fragile Mediterranean ecosystem."
+      "title": "Turismo sostenible en Dalyan | Guía del viajero ético",
+      "description": "Practica turismo sostenible en Dalyan — respeta las zonas de anidación, apoya negocios locales, reduce el plástico y protege este frágil ecosistema mediterráneo."
     },
     "harita": {
-      "title": "Interactive Tourism Map | Dalyan Turkey",
-      "description": "Explore Dalyan with our interactive map — locate beaches, ancient sites, restaurants, boat stops, thermal springs and key attractions with directions and details."
+      "title": "Mapa turístico interactivo | Dalyan Turquía",
+      "description": "Explora Dalyan con nuestro mapa interactivo — localiza playas, sitios antiguos, restaurantes, paradas de barco, termas y atracciones con indicaciones y detalles."
     },
     "hakkinda": {
-      "title": "Where is Dalyan? | Geography & Getting Here",
-      "description": "Learn about Dalyan's geography — located in Mugla province on Turkey's Turquoise Coast, nestled between Lake Koycegiz and the Mediterranean Sea. Getting here guide."
+      "title": "¿Dónde está Dalyan? | Geografía y cómo llegar",
+      "description": "Conoce la geografía de Dalyan — situada en la provincia de Mugla en la costa turquesa de Turquía, entre el lago Koycegiz y el mar Mediterráneo. Guía de acceso."
     }
   },
   "nav": {
