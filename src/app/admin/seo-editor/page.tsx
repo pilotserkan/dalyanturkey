@@ -225,12 +225,6 @@ function scoreColor(score: number): string {
   return 'text-red-600';
 }
 
-function scoreBg(score: number): string {
-  if (score >= 80) return 'bg-green-500';
-  if (score >= 50) return 'bg-yellow-500';
-  return 'bg-red-500';
-}
-
 function scoreRingColor(score: number): string {
   if (score >= 80) return 'stroke-green-500';
   if (score >= 50) return 'stroke-yellow-500';
@@ -257,7 +251,7 @@ function statusBadge(score: number) {
   );
 }
 
-function CharBar({ current, min, max, optMin, optMax }: { current: number; min: number; max: number; optMin: number; optMax: number }) {
+function CharBar({ current, max, optMin, optMax }: { current: number; max: number; optMin: number; optMax: number }) {
   const pct = Math.min((current / max) * 100, 100);
   const optStartPct = (optMin / max) * 100;
   const optEndPct = (optMax / max) * 100;
@@ -575,7 +569,6 @@ export default function SeoEditorPage() {
                                 </p>
                                 <CharBar
                                   current={page.titleLen}
-                                  min={0}
                                   max={80}
                                   optMin={50}
                                   optMax={60}
@@ -591,7 +584,6 @@ export default function SeoEditorPage() {
                                 </p>
                                 <CharBar
                                   current={page.descLen}
-                                  min={0}
                                   max={200}
                                   optMin={150}
                                   optMax={160}
