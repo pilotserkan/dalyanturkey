@@ -242,7 +242,9 @@
     "contact": "Contact",
     "followUs": "Follow Us",
     "copyright": "\u00a9 2026 DalyanTurkey.com \u2014 All rights reserved.",
-    "madeWith": "Made with love for Dalyan"
+    "madeWith": "Made with love for Dalyan",
+    "poweredBy": "Desarrollado por",
+    "email": "info@dalyanturkey.com"
   },
   "common": {
     "loading": "Loading...",

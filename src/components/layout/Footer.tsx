@@ -253,7 +253,17 @@ export default function Footer() {
         {/* ---- Bottom bar ---- */}
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
           <p>{t('copyright')}</p>
-          <p>{t('madeWith')}</p>
+          <p>
+            {t('poweredBy')}{' '}
+            <a
+              href="https://kalyndatech.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-amber-400 hover:text-amber-300 transition-colors"
+            >
+              KalyndaTech
+            </a>
+          </p>
         </div>
       </div>
     </footer>
