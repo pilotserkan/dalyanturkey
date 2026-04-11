@@ -72,9 +72,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           </>
         )}
         {/* Google AdSense */}
-        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
-          <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`} crossOrigin="anonymous" />
-        )}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6651536450777692" crossOrigin="anonymous" />
       </head>
       <body className="min-h-screen flex flex-col">
         <NextIntlClientProvider messages={messages}>
