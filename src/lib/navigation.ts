@@ -260,7 +260,7 @@ export const HUB_ORDER: HubSlug[] = [
 // ---------------------------------------------------------------------------
 
 export const ALL_PAGE_SLUGS: string[] = (() => {
-  const slugs: string[] = [];
+  const slugs: string[] = [''];  // homepage
 
   for (const hubSlug of HUB_ORDER) {
     const hub = HUBS[hubSlug];
